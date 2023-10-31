@@ -1,0 +1,215 @@
+Participant_id	TimePreChorus	Crossfade	TimeChorus
+1	5 seconds	on	30 seconds
+2	no playback	off	adaptive
+3	no playback	on	adaptive
+4	5 seconds	off	adaptive
+5	5 seconds	on	adaptive
+6	5 seconds	on	15 seconds
+7	5 seconds	on	adaptive
+8	5 seconds	on	15 seconds
+9	10 seconds	on	adaptive
+10	no playback	on	adaptive
+11	5 seconds	off	adaptive
+12	5 seconds	on	30 seconds
+13	no playback	on	15 seconds
+14	5 seconds	on	15 seconds
+15	no playback	on	adaptive
+16	no playback	on	adaptive
+17	5 seconds	off	adaptive
+18	5 seconds	on	adaptive
+19	no playback	on	adaptive
+20	5 seconds	on	adaptive
+21	5 seconds	on	adaptive
+22	5 seconds	on	adaptive
+23	no playback	on	adaptive
+24	no playback	off	adaptive
+25	5 seconds	on	15 seconds
+26	5 seconds	on	adaptive
+27	10 seconds	on	adaptive
+28	10 seconds	on	adaptive
+29	10 seconds	on	adaptive
+30	5 seconds	on	adaptive
+31	5 seconds	on	adaptive
+32	5 seconds	on	adaptive
+33	no playback	off	15 seconds
+34	5 seconds	off	adaptive
+35	5 seconds	on	15 seconds
+36	no playback	on	30 seconds
+37	5 seconds	on	adaptive
+38	no playback	on	adaptive
+39	5 seconds	off	adaptive
+40	no playback	on	adaptive
+41	5 seconds	off	adaptive
+42	no playback	on	15 seconds
+43	no playback	off	15 seconds
+44	5 seconds	on	15 seconds
+45	5 seconds	on	15 seconds
+46	5 seconds	on	adaptive
+47	5 seconds	on	30 seconds
+48	no playback	on	adaptive
+49	no playback	on	15 seconds
+50	5 seconds	on	adaptive
+51	10 seconds	off	adaptive
+52	5 seconds	on	adaptive
+53	no playback	on	adaptive
+54	5 seconds	on	adaptive
+55	no playback	on	adaptive
+56	no playback	on	adaptive
+57	no playback	on	adaptive
+58	10 seconds	on	adaptive
+59	10 seconds	on	30 seconds
+60	5 seconds	on	15 seconds
+61	no playback	on	adaptive
+62	no playback	on	adaptive
+63	10 seconds	on	15 seconds
+64	10 seconds	on	adaptive
+65	no playback	off	adaptive
+66	5 seconds	on	adaptive
+67	5 seconds	on	30 seconds
+68	no playback	on	adaptive
+69	5 seconds	on	15 seconds
+70	5 seconds	on	15 seconds
+71	no playback	off	15 seconds
+72	5 seconds	on	adaptive
+73	5 seconds	off	adaptive
+74	no playback	on	adaptive
+75	10 seconds	on	adaptive
+76	5 seconds	on	30 seconds
+77	5 seconds	on	15 seconds
+78	no playback	on	adaptive
+79	no playback	on	adaptive
+80	no playback	on	adaptive
+81	10 seconds	off	15 seconds
+82	5 seconds	on	adaptive
+83	5 seconds	on	adaptive
+84	5 seconds	off	adaptive
+85	5 seconds	on	adaptive
+86	10 seconds	on	adaptive
+87	10 seconds	off	adaptive
+88	5 seconds	on	adaptive
+89	5 seconds	on	adaptive
+90	10 seconds	on	30 seconds
+91	no playback	off	15 seconds
+92	5 seconds	on	adaptive
+93	no playback	on	15 seconds
+94	5 seconds	on	30 seconds
+95	10 seconds	on	adaptive
+96	no playback	on	15 seconds
+97	10 seconds	on	adaptive
+98	5 seconds	on	30 seconds
+99	5 seconds	on	15 seconds
+100	10 seconds	on	adaptive
+101	no playback	off	adaptive
+102	5 seconds	off	adaptive
+103	5 seconds	on	30 seconds
+104	5 seconds	on	30 seconds
+105	5 seconds	on	adaptive
+106	5 seconds	on	15 seconds
+107	5 seconds	off	adaptive
+108	10 seconds	on	30 seconds
+109	5 seconds	on	30 seconds
+110	5 seconds	off	adaptive
+111	10 seconds	on	30 seconds
+112	5 seconds	on	adaptive
+113	5 seconds	on	15 seconds
+114	5 seconds	on	adaptive
+115	5 seconds	on	adaptive
+116	5 seconds	on	15 seconds
+117	10 seconds	on	adaptive
+118	5 seconds	off	adaptive
+119	10 seconds	on	30 seconds
+120	no playback	on	adaptive
+121	no playback	on	15 seconds
+122	5 seconds	on	adaptive
+123	5 seconds	on	adaptive
+124	no playback	on	15 seconds
+125	10 seconds	on	15 seconds
+126	no playback	off	15 seconds
+127	no playback	on	adaptive
+128	5 seconds	off	30 seconds
+129	5 seconds	on	adaptive
+130	10 seconds	on	adaptive
+131	no playback	on	adaptive
+132	5 seconds	on	adaptive
+133	5 seconds	on	15 seconds
+134	10 seconds	on	adaptive
+135	no playback	off	adaptive
+136	5 seconds	off	adaptive
+137	no playback	on	adaptive
+138	10 seconds	on	adaptive
+139	10 seconds	off	adaptive
+140	10 seconds	off	30 seconds
+141	5 seconds	on	adaptive
+142	10 seconds	on	15 seconds
+143	5 seconds	on	15 seconds
+144	5 seconds	on	30 seconds
+145	5 seconds	on	30 seconds
+146	5 seconds	on	30 seconds
+147	10 seconds	on	adaptive
+148	10 seconds	off	adaptive
+149	10 seconds	on	adaptive
+150	no playback	on	adaptive
+151	5 seconds	on	15 seconds
+152	5 seconds	on	15 seconds
+153	5 seconds	on	adaptive
+154	5 seconds	on	15 seconds
+155	no playback	off	15 seconds
+156	5 seconds	on	adaptive
+157	5 seconds	off	adaptive
+158	5 seconds	on	adaptive
+159	no playback	on	adaptive
+160	5 seconds	on	15 seconds
+161	no playback	on	adaptive
+162	no playback	on	adaptive
+163	5 seconds	on	15 seconds
+164	no playback	on	adaptive
+165	5 seconds	on	adaptive
+166	5 seconds	on	adaptive
+167	no playback	on	adaptive
+168	no playback	on	adaptive
+169	no playback	on	adaptive
+170	no playback	off	adaptive
+171	5 seconds	on	15 seconds
+172	no playback	on	adaptive
+173	10 seconds	on	adaptive
+174	5 seconds	on	15 seconds
+175	5 seconds	on	adaptive
+176	5 seconds	on	15 seconds
+177	5 seconds	off	adaptive
+178	5 seconds	on	adaptive
+179	no playback	on	15 seconds
+180	5 seconds	off	adaptive
+181	5 seconds	on	adaptive
+182	5 seconds	on	15 seconds
+183	10 seconds	off	adaptive
+184	no playback	on	15 seconds
+185	no playback	off	15 seconds
+186	5 seconds	on	adaptive
+187	no playback	off	adaptive
+188	10 seconds	on	adaptive
+189	no playback	on	adaptive
+190	10 seconds	off	adaptive
+191	10 seconds	off	adaptive
+192	no playback	on	adaptive
+193	no playback	on	30 seconds
+194	5 seconds	on	adaptive
+195	no playback	off	adaptive
+196	5 seconds	off	15 seconds
+197	5 seconds	on	adaptive
+198	no playback	on	30 seconds
+199	10 seconds	on	adaptive
+200	no playback	off	15 seconds
+201	10 seconds	on	30 seconds
+202	10 seconds	on	adaptive
+203	5 seconds	on	adaptive
+204	no playback	on	adaptive
+205	no playback	on	adaptive
+206	10 seconds	on	adaptive
+207	5 seconds	on	adaptive
+208	5 seconds	on	adaptive
+209	5 seconds	on	adaptive
+210	5 seconds	on	adaptive
+211	5 seconds	on	adaptive
+212	no playback	on	15 seconds
+213	no playback	on	adaptive
+214	5 seconds	on	30 seconds

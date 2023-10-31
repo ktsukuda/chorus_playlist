@@ -1,0 +1,4423 @@
+Participant_id	Playlist type	Property	Importance
+1	chorus-playlist	SongHit	6
+1	chorus-playlist	SongNew	6
+1	chorus-playlist	ArtistSame	2
+1	chorus-playlist	ArtistDiv	6
+1	chorus-playlist	GenreSame	4
+1	chorus-playlist	GenreDiv	6
+1	chorus-playlist	MoodSame	1
+1	chorus-playlist	MoodDiv	6
+1	chorus-playlist	SongOrder	6
+1	chorus-playlist	SongTop	2
+1	chorus-playlist	SongLast	1
+1	usual playlist	SongHit	5
+1	usual playlist	SongNew	5
+1	usual playlist	ArtistSame	6
+1	usual playlist	ArtistDiv	3
+1	usual playlist	GenreSame	2
+1	usual playlist	GenreDiv	6
+1	usual playlist	MoodSame	1
+1	usual playlist	MoodDiv	6
+1	usual playlist	SongOrder	6
+1	usual playlist	SongTop	2
+1	usual playlist	SongLast	1
+2	chorus-playlist	SongHit	5
+2	chorus-playlist	SongNew	2
+2	chorus-playlist	ArtistSame	4
+2	chorus-playlist	ArtistDiv	2
+2	chorus-playlist	GenreSame	3
+2	chorus-playlist	GenreDiv	4
+2	chorus-playlist	MoodSame	2
+2	chorus-playlist	MoodDiv	5
+2	chorus-playlist	SongOrder	2
+2	chorus-playlist	SongTop	2
+2	chorus-playlist	SongLast	2
+2	usual playlist	SongHit	1
+2	usual playlist	SongNew	1
+2	usual playlist	ArtistSame	1
+2	usual playlist	ArtistDiv	4
+2	usual playlist	GenreSame	3
+2	usual playlist	GenreDiv	4
+2	usual playlist	MoodSame	1
+2	usual playlist	MoodDiv	2
+2	usual playlist	SongOrder	1
+2	usual playlist	SongTop	1
+2	usual playlist	SongLast	1
+4	chorus-playlist	SongHit	1
+4	chorus-playlist	SongNew	1
+4	chorus-playlist	ArtistSame	1
+4	chorus-playlist	ArtistDiv	2
+4	chorus-playlist	GenreSame	2
+4	chorus-playlist	GenreDiv	2
+4	chorus-playlist	MoodSame	2
+4	chorus-playlist	MoodDiv	2
+4	chorus-playlist	SongOrder	6
+4	chorus-playlist	SongTop	6
+4	chorus-playlist	SongLast	5
+4	usual playlist	SongHit	1
+4	usual playlist	SongNew	1
+4	usual playlist	ArtistSame	1
+4	usual playlist	ArtistDiv	2
+4	usual playlist	GenreSame	2
+4	usual playlist	GenreDiv	2
+4	usual playlist	MoodSame	2
+4	usual playlist	MoodDiv	2
+4	usual playlist	SongOrder	6
+4	usual playlist	SongTop	6
+4	usual playlist	SongLast	5
+5	chorus-playlist	SongHit	5
+5	chorus-playlist	SongNew	5
+5	chorus-playlist	ArtistSame	5
+5	chorus-playlist	ArtistDiv	6
+5	chorus-playlist	GenreSame	5
+5	chorus-playlist	GenreDiv	5
+5	chorus-playlist	MoodSame	5
+5	chorus-playlist	MoodDiv	4
+5	chorus-playlist	SongOrder	4
+5	chorus-playlist	SongTop	4
+5	chorus-playlist	SongLast	5
+5	usual playlist	SongHit	6
+5	usual playlist	SongNew	5
+5	usual playlist	ArtistSame	6
+5	usual playlist	ArtistDiv	6
+5	usual playlist	GenreSame	6
+5	usual playlist	GenreDiv	6
+5	usual playlist	MoodSame	6
+5	usual playlist	MoodDiv	4
+5	usual playlist	SongOrder	5
+5	usual playlist	SongTop	4
+5	usual playlist	SongLast	5
+6	chorus-playlist	SongHit	6
+6	chorus-playlist	SongNew	2
+6	chorus-playlist	ArtistSame	2
+6	chorus-playlist	ArtistDiv	5
+6	chorus-playlist	GenreSame	5
+6	chorus-playlist	GenreDiv	4
+6	chorus-playlist	MoodSame	5
+6	chorus-playlist	MoodDiv	5
+6	chorus-playlist	SongOrder	5
+6	chorus-playlist	SongTop	6
+6	chorus-playlist	SongLast	2
+6	usual playlist	SongHit	5
+6	usual playlist	SongNew	2
+6	usual playlist	ArtistSame	2
+6	usual playlist	ArtistDiv	5
+6	usual playlist	GenreSame	5
+6	usual playlist	GenreDiv	5
+6	usual playlist	MoodSame	5
+6	usual playlist	MoodDiv	5
+6	usual playlist	SongOrder	5
+6	usual playlist	SongTop	6
+6	usual playlist	SongLast	2
+7	chorus-playlist	SongHit	1
+7	chorus-playlist	SongNew	5
+7	chorus-playlist	ArtistSame	5
+7	chorus-playlist	ArtistDiv	2
+7	chorus-playlist	GenreSame	4
+7	chorus-playlist	GenreDiv	6
+7	chorus-playlist	MoodSame	4
+7	chorus-playlist	MoodDiv	2
+7	chorus-playlist	SongOrder	6
+7	chorus-playlist	SongTop	2
+7	chorus-playlist	SongLast	2
+7	usual playlist	SongHit	1
+7	usual playlist	SongNew	4
+7	usual playlist	ArtistSame	5
+7	usual playlist	ArtistDiv	3
+7	usual playlist	GenreSame	5
+7	usual playlist	GenreDiv	5
+7	usual playlist	MoodSame	5
+7	usual playlist	MoodDiv	1
+7	usual playlist	SongOrder	3
+7	usual playlist	SongTop	6
+7	usual playlist	SongLast	5
+8	chorus-playlist	SongHit	4
+8	chorus-playlist	SongNew	2
+8	chorus-playlist	ArtistSame	2
+8	chorus-playlist	ArtistDiv	5
+8	chorus-playlist	GenreSame	2
+8	chorus-playlist	GenreDiv	5
+8	chorus-playlist	MoodSame	2
+8	chorus-playlist	MoodDiv	5
+8	chorus-playlist	SongOrder	2
+8	chorus-playlist	SongTop	2
+8	chorus-playlist	SongLast	4
+8	usual playlist	SongHit	4
+8	usual playlist	SongNew	2
+8	usual playlist	ArtistSame	2
+8	usual playlist	ArtistDiv	5
+8	usual playlist	GenreSame	1
+8	usual playlist	GenreDiv	3
+8	usual playlist	MoodSame	2
+8	usual playlist	MoodDiv	4
+8	usual playlist	SongOrder	2
+8	usual playlist	SongTop	2
+8	usual playlist	SongLast	2
+9	chorus-playlist	SongHit	6
+9	chorus-playlist	SongNew	6
+9	chorus-playlist	ArtistSame	5
+9	chorus-playlist	ArtistDiv	5
+9	chorus-playlist	GenreSame	5
+9	chorus-playlist	GenreDiv	4
+9	chorus-playlist	MoodSame	4
+9	chorus-playlist	MoodDiv	4
+9	chorus-playlist	SongOrder	4
+9	chorus-playlist	SongTop	3
+9	chorus-playlist	SongLast	3
+9	usual playlist	SongHit	5
+9	usual playlist	SongNew	4
+9	usual playlist	ArtistSame	6
+9	usual playlist	ArtistDiv	4
+9	usual playlist	GenreSame	5
+9	usual playlist	GenreDiv	3
+9	usual playlist	MoodSame	3
+9	usual playlist	MoodDiv	3
+9	usual playlist	SongOrder	5
+9	usual playlist	SongTop	5
+9	usual playlist	SongLast	5
+10	chorus-playlist	SongHit	5
+10	chorus-playlist	SongNew	6
+10	chorus-playlist	ArtistSame	2
+10	chorus-playlist	ArtistDiv	6
+10	chorus-playlist	GenreSame	2
+10	chorus-playlist	GenreDiv	5
+10	chorus-playlist	MoodSame	2
+10	chorus-playlist	MoodDiv	5
+10	chorus-playlist	SongOrder	2
+10	chorus-playlist	SongTop	6
+10	chorus-playlist	SongLast	2
+10	usual playlist	SongHit	3
+10	usual playlist	SongNew	3
+10	usual playlist	ArtistSame	2
+10	usual playlist	ArtistDiv	4
+10	usual playlist	GenreSame	5
+10	usual playlist	GenreDiv	4
+10	usual playlist	MoodSame	2
+10	usual playlist	MoodDiv	3
+10	usual playlist	SongOrder	6
+10	usual playlist	SongTop	6
+10	usual playlist	SongLast	4
+12	chorus-playlist	SongHit	4
+12	chorus-playlist	SongNew	1
+12	chorus-playlist	ArtistSame	2
+12	chorus-playlist	ArtistDiv	3
+12	chorus-playlist	GenreSame	5
+12	chorus-playlist	GenreDiv	2
+12	chorus-playlist	MoodSame	2
+12	chorus-playlist	MoodDiv	2
+12	chorus-playlist	SongOrder	4
+12	chorus-playlist	SongTop	2
+12	chorus-playlist	SongLast	2
+12	usual playlist	SongHit	2
+12	usual playlist	SongNew	1
+12	usual playlist	ArtistSame	4
+12	usual playlist	ArtistDiv	2
+12	usual playlist	GenreSame	5
+12	usual playlist	GenreDiv	2
+12	usual playlist	MoodSame	2
+12	usual playlist	MoodDiv	1
+12	usual playlist	SongOrder	4
+12	usual playlist	SongTop	4
+12	usual playlist	SongLast	5
+13	chorus-playlist	SongHit	5
+13	chorus-playlist	SongNew	6
+13	chorus-playlist	ArtistSame	2
+13	chorus-playlist	ArtistDiv	6
+13	chorus-playlist	GenreSame	4
+13	chorus-playlist	GenreDiv	5
+13	chorus-playlist	MoodSame	2
+13	chorus-playlist	MoodDiv	5
+13	chorus-playlist	SongOrder	2
+13	chorus-playlist	SongTop	6
+13	chorus-playlist	SongLast	2
+13	usual playlist	SongHit	4
+13	usual playlist	SongNew	6
+13	usual playlist	ArtistSame	5
+13	usual playlist	ArtistDiv	4
+13	usual playlist	GenreSame	6
+13	usual playlist	GenreDiv	3
+13	usual playlist	MoodSame	5
+13	usual playlist	MoodDiv	4
+13	usual playlist	SongOrder	5
+13	usual playlist	SongTop	6
+13	usual playlist	SongLast	4
+14	chorus-playlist	SongHit	5
+14	chorus-playlist	SongNew	5
+14	chorus-playlist	ArtistSame	4
+14	chorus-playlist	ArtistDiv	5
+14	chorus-playlist	GenreSame	4
+14	chorus-playlist	GenreDiv	5
+14	chorus-playlist	MoodSame	5
+14	chorus-playlist	MoodDiv	4
+14	chorus-playlist	SongOrder	4
+14	chorus-playlist	SongTop	4
+14	chorus-playlist	SongLast	4
+14	usual playlist	SongHit	5
+14	usual playlist	SongNew	4
+14	usual playlist	ArtistSame	4
+14	usual playlist	ArtistDiv	4
+14	usual playlist	GenreSame	4
+14	usual playlist	GenreDiv	4
+14	usual playlist	MoodSame	4
+14	usual playlist	MoodDiv	4
+14	usual playlist	SongOrder	4
+14	usual playlist	SongTop	4
+14	usual playlist	SongLast	4
+15	chorus-playlist	SongHit	3
+15	chorus-playlist	SongNew	1
+15	chorus-playlist	ArtistSame	3
+15	chorus-playlist	ArtistDiv	3
+15	chorus-playlist	GenreSame	3
+15	chorus-playlist	GenreDiv	3
+15	chorus-playlist	MoodSame	4
+15	chorus-playlist	MoodDiv	3
+15	chorus-playlist	SongOrder	2
+15	chorus-playlist	SongTop	2
+15	chorus-playlist	SongLast	2
+15	usual playlist	SongHit	3
+15	usual playlist	SongNew	1
+15	usual playlist	ArtistSame	4
+15	usual playlist	ArtistDiv	3
+15	usual playlist	GenreSame	5
+15	usual playlist	GenreDiv	2
+15	usual playlist	MoodSame	4
+15	usual playlist	MoodDiv	3
+15	usual playlist	SongOrder	2
+15	usual playlist	SongTop	2
+15	usual playlist	SongLast	2
+16	chorus-playlist	SongHit	6
+16	chorus-playlist	SongNew	4
+16	chorus-playlist	ArtistSame	5
+16	chorus-playlist	ArtistDiv	2
+16	chorus-playlist	GenreSame	5
+16	chorus-playlist	GenreDiv	2
+16	chorus-playlist	MoodSame	6
+16	chorus-playlist	MoodDiv	2
+16	chorus-playlist	SongOrder	2
+16	chorus-playlist	SongTop	3
+16	chorus-playlist	SongLast	3
+16	usual playlist	SongHit	1
+16	usual playlist	SongNew	1
+16	usual playlist	ArtistSame	5
+16	usual playlist	ArtistDiv	2
+16	usual playlist	GenreSame	5
+16	usual playlist	GenreDiv	2
+16	usual playlist	MoodSame	4
+16	usual playlist	MoodDiv	2
+16	usual playlist	SongOrder	6
+16	usual playlist	SongTop	5
+16	usual playlist	SongLast	5
+17	chorus-playlist	SongHit	5
+17	chorus-playlist	SongNew	4
+17	chorus-playlist	ArtistSame	2
+17	chorus-playlist	ArtistDiv	2
+17	chorus-playlist	GenreSame	3
+17	chorus-playlist	GenreDiv	5
+17	chorus-playlist	MoodSame	2
+17	chorus-playlist	MoodDiv	2
+17	chorus-playlist	SongOrder	2
+17	chorus-playlist	SongTop	2
+17	chorus-playlist	SongLast	1
+17	usual playlist	SongHit	2
+17	usual playlist	SongNew	5
+17	usual playlist	ArtistSame	4
+17	usual playlist	ArtistDiv	2
+17	usual playlist	GenreSame	6
+17	usual playlist	GenreDiv	5
+17	usual playlist	MoodSame	5
+17	usual playlist	MoodDiv	1
+17	usual playlist	SongOrder	2
+17	usual playlist	SongTop	2
+17	usual playlist	SongLast	1
+18	chorus-playlist	SongHit	1
+18	chorus-playlist	SongNew	1
+18	chorus-playlist	ArtistSame	5
+18	chorus-playlist	ArtistDiv	3
+18	chorus-playlist	GenreSame	5
+18	chorus-playlist	GenreDiv	2
+18	chorus-playlist	MoodSame	5
+18	chorus-playlist	MoodDiv	2
+18	chorus-playlist	SongOrder	2
+18	chorus-playlist	SongTop	3
+18	chorus-playlist	SongLast	2
+18	usual playlist	SongHit	1
+18	usual playlist	SongNew	1
+18	usual playlist	ArtistSame	5
+18	usual playlist	ArtistDiv	3
+18	usual playlist	GenreSame	5
+18	usual playlist	GenreDiv	2
+18	usual playlist	MoodSame	5
+18	usual playlist	MoodDiv	3
+18	usual playlist	SongOrder	5
+18	usual playlist	SongTop	5
+18	usual playlist	SongLast	5
+19	chorus-playlist	SongHit	2
+19	chorus-playlist	SongNew	2
+19	chorus-playlist	ArtistSame	2
+19	chorus-playlist	ArtistDiv	4
+19	chorus-playlist	GenreSame	6
+19	chorus-playlist	GenreDiv	2
+19	chorus-playlist	MoodSame	5
+19	chorus-playlist	MoodDiv	2
+19	chorus-playlist	SongOrder	5
+19	chorus-playlist	SongTop	6
+19	chorus-playlist	SongLast	2
+19	usual playlist	SongHit	2
+19	usual playlist	SongNew	2
+19	usual playlist	ArtistSame	5
+19	usual playlist	ArtistDiv	2
+19	usual playlist	GenreSame	6
+19	usual playlist	GenreDiv	2
+19	usual playlist	MoodSame	2
+19	usual playlist	MoodDiv	4
+19	usual playlist	SongOrder	5
+19	usual playlist	SongTop	6
+19	usual playlist	SongLast	5
+20	chorus-playlist	SongHit	6
+20	chorus-playlist	SongNew	5
+20	chorus-playlist	ArtistSame	5
+20	chorus-playlist	ArtistDiv	1
+20	chorus-playlist	GenreSame	5
+20	chorus-playlist	GenreDiv	5
+20	chorus-playlist	MoodSame	5
+20	chorus-playlist	MoodDiv	1
+20	chorus-playlist	SongOrder	1
+20	chorus-playlist	SongTop	1
+20	chorus-playlist	SongLast	1
+20	usual playlist	SongHit	4
+20	usual playlist	SongNew	1
+20	usual playlist	ArtistSame	1
+20	usual playlist	ArtistDiv	1
+20	usual playlist	GenreSame	3
+20	usual playlist	GenreDiv	3
+20	usual playlist	MoodSame	3
+20	usual playlist	MoodDiv	4
+20	usual playlist	SongOrder	3
+20	usual playlist	SongTop	5
+20	usual playlist	SongLast	1
+21	chorus-playlist	SongHit	4
+21	chorus-playlist	SongNew	4
+21	chorus-playlist	ArtistSame	6
+21	chorus-playlist	ArtistDiv	6
+21	chorus-playlist	GenreSame	6
+21	chorus-playlist	GenreDiv	6
+21	chorus-playlist	MoodSame	5
+21	chorus-playlist	MoodDiv	6
+21	chorus-playlist	SongOrder	6
+21	chorus-playlist	SongTop	4
+21	chorus-playlist	SongLast	4
+21	usual playlist	SongHit	4
+21	usual playlist	SongNew	1
+21	usual playlist	ArtistSame	1
+21	usual playlist	ArtistDiv	1
+21	usual playlist	GenreSame	1
+21	usual playlist	GenreDiv	1
+21	usual playlist	MoodSame	1
+21	usual playlist	MoodDiv	1
+21	usual playlist	SongOrder	1
+21	usual playlist	SongTop	1
+21	usual playlist	SongLast	1
+22	chorus-playlist	SongHit	4
+22	chorus-playlist	SongNew	4
+22	chorus-playlist	ArtistSame	5
+22	chorus-playlist	ArtistDiv	4
+22	chorus-playlist	GenreSame	4
+22	chorus-playlist	GenreDiv	4
+22	chorus-playlist	MoodSame	3
+22	chorus-playlist	MoodDiv	3
+22	chorus-playlist	SongOrder	4
+22	chorus-playlist	SongTop	4
+22	chorus-playlist	SongLast	4
+22	usual playlist	SongHit	2
+22	usual playlist	SongNew	2
+22	usual playlist	ArtistSame	5
+22	usual playlist	ArtistDiv	5
+22	usual playlist	GenreSame	5
+22	usual playlist	GenreDiv	5
+22	usual playlist	MoodSame	5
+22	usual playlist	MoodDiv	4
+22	usual playlist	SongOrder	5
+22	usual playlist	SongTop	6
+22	usual playlist	SongLast	5
+23	chorus-playlist	SongHit	5
+23	chorus-playlist	SongNew	2
+23	chorus-playlist	ArtistSame	2
+23	chorus-playlist	ArtistDiv	6
+23	chorus-playlist	GenreSame	2
+23	chorus-playlist	GenreDiv	4
+23	chorus-playlist	MoodSame	2
+23	chorus-playlist	MoodDiv	5
+23	chorus-playlist	SongOrder	4
+23	chorus-playlist	SongTop	4
+23	chorus-playlist	SongLast	3
+23	usual playlist	SongHit	6
+23	usual playlist	SongNew	4
+23	usual playlist	ArtistSame	3
+23	usual playlist	ArtistDiv	5
+23	usual playlist	GenreSame	5
+23	usual playlist	GenreDiv	3
+23	usual playlist	MoodSame	4
+23	usual playlist	MoodDiv	3
+23	usual playlist	SongOrder	6
+23	usual playlist	SongTop	6
+23	usual playlist	SongLast	3
+24	chorus-playlist	SongHit	1
+24	chorus-playlist	SongNew	2
+24	chorus-playlist	ArtistSame	2
+24	chorus-playlist	ArtistDiv	4
+24	chorus-playlist	GenreSame	5
+24	chorus-playlist	GenreDiv	2
+24	chorus-playlist	MoodSame	4
+24	chorus-playlist	MoodDiv	2
+24	chorus-playlist	SongOrder	1
+24	chorus-playlist	SongTop	3
+24	chorus-playlist	SongLast	3
+24	usual playlist	SongHit	4
+24	usual playlist	SongNew	3
+24	usual playlist	ArtistSame	2
+24	usual playlist	ArtistDiv	3
+24	usual playlist	GenreSame	5
+24	usual playlist	GenreDiv	2
+24	usual playlist	MoodSame	2
+24	usual playlist	MoodDiv	3
+24	usual playlist	SongOrder	1
+24	usual playlist	SongTop	3
+24	usual playlist	SongLast	3
+25	chorus-playlist	SongHit	2
+25	chorus-playlist	SongNew	2
+25	chorus-playlist	ArtistSame	1
+25	chorus-playlist	ArtistDiv	5
+25	chorus-playlist	GenreSame	4
+25	chorus-playlist	GenreDiv	2
+25	chorus-playlist	MoodSame	2
+25	chorus-playlist	MoodDiv	2
+25	chorus-playlist	SongOrder	1
+25	chorus-playlist	SongTop	1
+25	chorus-playlist	SongLast	1
+25	usual playlist	SongHit	1
+25	usual playlist	SongNew	1
+25	usual playlist	ArtistSame	1
+25	usual playlist	ArtistDiv	5
+25	usual playlist	GenreSame	5
+25	usual playlist	GenreDiv	2
+25	usual playlist	MoodSame	2
+25	usual playlist	MoodDiv	2
+25	usual playlist	SongOrder	1
+25	usual playlist	SongTop	1
+25	usual playlist	SongLast	1
+26	chorus-playlist	SongHit	4
+26	chorus-playlist	SongNew	4
+26	chorus-playlist	ArtistSame	2
+26	chorus-playlist	ArtistDiv	6
+26	chorus-playlist	GenreSame	2
+26	chorus-playlist	GenreDiv	5
+26	chorus-playlist	MoodSame	2
+26	chorus-playlist	MoodDiv	6
+26	chorus-playlist	SongOrder	3
+26	chorus-playlist	SongTop	3
+26	chorus-playlist	SongLast	2
+26	usual playlist	SongHit	2
+26	usual playlist	SongNew	4
+26	usual playlist	ArtistSame	2
+26	usual playlist	ArtistDiv	6
+26	usual playlist	GenreSame	2
+26	usual playlist	GenreDiv	5
+26	usual playlist	MoodSame	2
+26	usual playlist	MoodDiv	6
+26	usual playlist	SongOrder	5
+26	usual playlist	SongTop	3
+26	usual playlist	SongLast	2
+27	chorus-playlist	SongHit	1
+27	chorus-playlist	SongNew	1
+27	chorus-playlist	ArtistSame	1
+27	chorus-playlist	ArtistDiv	1
+27	chorus-playlist	GenreSame	6
+27	chorus-playlist	GenreDiv	1
+27	chorus-playlist	MoodSame	5
+27	chorus-playlist	MoodDiv	1
+27	chorus-playlist	SongOrder	6
+27	chorus-playlist	SongTop	5
+27	chorus-playlist	SongLast	5
+27	usual playlist	SongHit	1
+27	usual playlist	SongNew	2
+27	usual playlist	ArtistSame	1
+27	usual playlist	ArtistDiv	1
+27	usual playlist	GenreSame	2
+27	usual playlist	GenreDiv	5
+27	usual playlist	MoodSame	1
+27	usual playlist	MoodDiv	5
+27	usual playlist	SongOrder	5
+27	usual playlist	SongTop	1
+27	usual playlist	SongLast	2
+29	chorus-playlist	SongHit	4
+29	chorus-playlist	SongNew	4
+29	chorus-playlist	ArtistSame	2
+29	chorus-playlist	ArtistDiv	2
+29	chorus-playlist	GenreSame	2
+29	chorus-playlist	GenreDiv	2
+29	chorus-playlist	MoodSame	1
+29	chorus-playlist	MoodDiv	1
+29	chorus-playlist	SongOrder	3
+29	chorus-playlist	SongTop	4
+29	chorus-playlist	SongLast	1
+29	usual playlist	SongHit	2
+29	usual playlist	SongNew	2
+29	usual playlist	ArtistSame	3
+29	usual playlist	ArtistDiv	2
+29	usual playlist	GenreSame	2
+29	usual playlist	GenreDiv	2
+29	usual playlist	MoodSame	1
+29	usual playlist	MoodDiv	1
+29	usual playlist	SongOrder	3
+29	usual playlist	SongTop	4
+29	usual playlist	SongLast	1
+30	chorus-playlist	SongHit	5
+30	chorus-playlist	SongNew	5
+30	chorus-playlist	ArtistSame	2
+30	chorus-playlist	ArtistDiv	1
+30	chorus-playlist	GenreSame	4
+30	chorus-playlist	GenreDiv	2
+30	chorus-playlist	MoodSame	3
+30	chorus-playlist	MoodDiv	4
+30	chorus-playlist	SongOrder	1
+30	chorus-playlist	SongTop	1
+30	chorus-playlist	SongLast	1
+30	usual playlist	SongHit	1
+30	usual playlist	SongNew	1
+30	usual playlist	ArtistSame	4
+30	usual playlist	ArtistDiv	1
+30	usual playlist	GenreSame	5
+30	usual playlist	GenreDiv	2
+30	usual playlist	MoodSame	5
+30	usual playlist	MoodDiv	2
+30	usual playlist	SongOrder	1
+30	usual playlist	SongTop	3
+30	usual playlist	SongLast	3
+31	chorus-playlist	SongHit	3
+31	chorus-playlist	SongNew	4
+31	chorus-playlist	ArtistSame	5
+31	chorus-playlist	ArtistDiv	3
+31	chorus-playlist	GenreSame	4
+31	chorus-playlist	GenreDiv	3
+31	chorus-playlist	MoodSame	4
+31	chorus-playlist	MoodDiv	3
+31	chorus-playlist	SongOrder	3
+31	chorus-playlist	SongTop	3
+31	chorus-playlist	SongLast	3
+31	usual playlist	SongHit	3
+31	usual playlist	SongNew	4
+31	usual playlist	ArtistSame	5
+31	usual playlist	ArtistDiv	2
+31	usual playlist	GenreSame	4
+31	usual playlist	GenreDiv	3
+31	usual playlist	MoodSame	4
+31	usual playlist	MoodDiv	3
+31	usual playlist	SongOrder	4
+31	usual playlist	SongTop	4
+31	usual playlist	SongLast	4
+32	chorus-playlist	SongHit	1
+32	chorus-playlist	SongNew	5
+32	chorus-playlist	ArtistSame	1
+32	chorus-playlist	ArtistDiv	1
+32	chorus-playlist	GenreSame	2
+32	chorus-playlist	GenreDiv	5
+32	chorus-playlist	MoodSame	1
+32	chorus-playlist	MoodDiv	5
+32	chorus-playlist	SongOrder	6
+32	chorus-playlist	SongTop	6
+32	chorus-playlist	SongLast	6
+32	usual playlist	SongHit	5
+32	usual playlist	SongNew	1
+32	usual playlist	ArtistSame	1
+32	usual playlist	ArtistDiv	1
+32	usual playlist	GenreSame	1
+32	usual playlist	GenreDiv	6
+32	usual playlist	MoodSame	1
+32	usual playlist	MoodDiv	5
+32	usual playlist	SongOrder	6
+32	usual playlist	SongTop	6
+32	usual playlist	SongLast	6
+33	chorus-playlist	SongHit	1
+33	chorus-playlist	SongNew	1
+33	chorus-playlist	ArtistSame	1
+33	chorus-playlist	ArtistDiv	1
+33	chorus-playlist	GenreSame	4
+33	chorus-playlist	GenreDiv	1
+33	chorus-playlist	MoodSame	4
+33	chorus-playlist	MoodDiv	1
+33	chorus-playlist	SongOrder	6
+33	chorus-playlist	SongTop	6
+33	chorus-playlist	SongLast	4
+33	usual playlist	SongHit	1
+33	usual playlist	SongNew	1
+33	usual playlist	ArtistSame	1
+33	usual playlist	ArtistDiv	1
+33	usual playlist	GenreSame	4
+33	usual playlist	GenreDiv	1
+33	usual playlist	MoodSame	4
+33	usual playlist	MoodDiv	1
+33	usual playlist	SongOrder	6
+33	usual playlist	SongTop	6
+33	usual playlist	SongLast	4
+35	chorus-playlist	SongHit	3
+35	chorus-playlist	SongNew	6
+35	chorus-playlist	ArtistSame	5
+35	chorus-playlist	ArtistDiv	4
+35	chorus-playlist	GenreSame	5
+35	chorus-playlist	GenreDiv	5
+35	chorus-playlist	MoodSame	4
+35	chorus-playlist	MoodDiv	5
+35	chorus-playlist	SongOrder	5
+35	chorus-playlist	SongTop	4
+35	chorus-playlist	SongLast	5
+35	usual playlist	SongHit	3
+35	usual playlist	SongNew	6
+35	usual playlist	ArtistSame	4
+35	usual playlist	ArtistDiv	4
+35	usual playlist	GenreSame	5
+35	usual playlist	GenreDiv	5
+35	usual playlist	MoodSame	4
+35	usual playlist	MoodDiv	5
+35	usual playlist	SongOrder	4
+35	usual playlist	SongTop	4
+35	usual playlist	SongLast	5
+36	chorus-playlist	SongHit	5
+36	chorus-playlist	SongNew	5
+36	chorus-playlist	ArtistSame	4
+36	chorus-playlist	ArtistDiv	5
+36	chorus-playlist	GenreSame	4
+36	chorus-playlist	GenreDiv	5
+36	chorus-playlist	MoodSame	2
+36	chorus-playlist	MoodDiv	2
+36	chorus-playlist	SongOrder	2
+36	chorus-playlist	SongTop	3
+36	chorus-playlist	SongLast	2
+36	usual playlist	SongHit	4
+36	usual playlist	SongNew	2
+36	usual playlist	ArtistSame	4
+36	usual playlist	ArtistDiv	2
+36	usual playlist	GenreSame	5
+36	usual playlist	GenreDiv	3
+36	usual playlist	MoodSame	5
+36	usual playlist	MoodDiv	5
+36	usual playlist	SongOrder	6
+36	usual playlist	SongTop	6
+36	usual playlist	SongLast	5
+37	chorus-playlist	SongHit	6
+37	chorus-playlist	SongNew	6
+37	chorus-playlist	ArtistSame	5
+37	chorus-playlist	ArtistDiv	5
+37	chorus-playlist	GenreSame	5
+37	chorus-playlist	GenreDiv	3
+37	chorus-playlist	MoodSame	5
+37	chorus-playlist	MoodDiv	3
+37	chorus-playlist	SongOrder	2
+37	chorus-playlist	SongTop	2
+37	chorus-playlist	SongLast	2
+37	usual playlist	SongHit	4
+37	usual playlist	SongNew	2
+37	usual playlist	ArtistSame	5
+37	usual playlist	ArtistDiv	5
+37	usual playlist	GenreSame	5
+37	usual playlist	GenreDiv	3
+37	usual playlist	MoodSame	5
+37	usual playlist	MoodDiv	3
+37	usual playlist	SongOrder	5
+37	usual playlist	SongTop	5
+37	usual playlist	SongLast	5
+38	chorus-playlist	SongHit	2
+38	chorus-playlist	SongNew	5
+38	chorus-playlist	ArtistSame	2
+38	chorus-playlist	ArtistDiv	5
+38	chorus-playlist	GenreSame	5
+38	chorus-playlist	GenreDiv	2
+38	chorus-playlist	MoodSame	5
+38	chorus-playlist	MoodDiv	5
+38	chorus-playlist	SongOrder	4
+38	chorus-playlist	SongTop	5
+38	chorus-playlist	SongLast	3
+38	usual playlist	SongHit	2
+38	usual playlist	SongNew	1
+38	usual playlist	ArtistSame	6
+38	usual playlist	ArtistDiv	5
+38	usual playlist	GenreSame	2
+38	usual playlist	GenreDiv	4
+38	usual playlist	MoodSame	2
+38	usual playlist	MoodDiv	2
+38	usual playlist	SongOrder	1
+38	usual playlist	SongTop	2
+38	usual playlist	SongLast	2
+39	chorus-playlist	SongHit	6
+39	chorus-playlist	SongNew	6
+39	chorus-playlist	ArtistSame	1
+39	chorus-playlist	ArtistDiv	6
+39	chorus-playlist	GenreSame	6
+39	chorus-playlist	GenreDiv	5
+39	chorus-playlist	MoodSame	6
+39	chorus-playlist	MoodDiv	1
+39	chorus-playlist	SongOrder	1
+39	chorus-playlist	SongTop	4
+39	chorus-playlist	SongLast	4
+39	usual playlist	SongHit	4
+39	usual playlist	SongNew	1
+39	usual playlist	ArtistSame	6
+39	usual playlist	ArtistDiv	4
+39	usual playlist	GenreSame	6
+39	usual playlist	GenreDiv	1
+39	usual playlist	MoodSame	6
+39	usual playlist	MoodDiv	3
+39	usual playlist	SongOrder	6
+39	usual playlist	SongTop	6
+39	usual playlist	SongLast	6
+40	chorus-playlist	SongHit	5
+40	chorus-playlist	SongNew	5
+40	chorus-playlist	ArtistSame	2
+40	chorus-playlist	ArtistDiv	5
+40	chorus-playlist	GenreSame	6
+40	chorus-playlist	GenreDiv	1
+40	chorus-playlist	MoodSame	5
+40	chorus-playlist	MoodDiv	2
+40	chorus-playlist	SongOrder	1
+40	chorus-playlist	SongTop	1
+40	chorus-playlist	SongLast	1
+40	usual playlist	SongHit	2
+40	usual playlist	SongNew	2
+40	usual playlist	ArtistSame	4
+40	usual playlist	ArtistDiv	2
+40	usual playlist	GenreSame	5
+40	usual playlist	GenreDiv	5
+40	usual playlist	MoodSame	5
+40	usual playlist	MoodDiv	2
+40	usual playlist	SongOrder	6
+40	usual playlist	SongTop	4
+40	usual playlist	SongLast	3
+41	chorus-playlist	SongHit	2
+41	chorus-playlist	SongNew	4
+41	chorus-playlist	ArtistSame	2
+41	chorus-playlist	ArtistDiv	2
+41	chorus-playlist	GenreSame	3
+41	chorus-playlist	GenreDiv	2
+41	chorus-playlist	MoodSame	2
+41	chorus-playlist	MoodDiv	4
+41	chorus-playlist	SongOrder	1
+41	chorus-playlist	SongTop	5
+41	chorus-playlist	SongLast	2
+41	usual playlist	SongHit	2
+41	usual playlist	SongNew	2
+41	usual playlist	ArtistSame	2
+41	usual playlist	ArtistDiv	2
+41	usual playlist	GenreSame	3
+41	usual playlist	GenreDiv	4
+41	usual playlist	MoodSame	4
+41	usual playlist	MoodDiv	2
+41	usual playlist	SongOrder	5
+41	usual playlist	SongTop	6
+41	usual playlist	SongLast	4
+42	chorus-playlist	SongHit	2
+42	chorus-playlist	SongNew	2
+42	chorus-playlist	ArtistSame	1
+42	chorus-playlist	ArtistDiv	4
+42	chorus-playlist	GenreSame	5
+42	chorus-playlist	GenreDiv	2
+42	chorus-playlist	MoodSame	2
+42	chorus-playlist	MoodDiv	2
+42	chorus-playlist	SongOrder	5
+42	chorus-playlist	SongTop	1
+42	chorus-playlist	SongLast	1
+42	usual playlist	SongHit	2
+42	usual playlist	SongNew	1
+42	usual playlist	ArtistSame	5
+42	usual playlist	ArtistDiv	1
+42	usual playlist	GenreSame	5
+42	usual playlist	GenreDiv	1
+42	usual playlist	MoodSame	5
+42	usual playlist	MoodDiv	1
+42	usual playlist	SongOrder	6
+42	usual playlist	SongTop	1
+42	usual playlist	SongLast	1
+43	chorus-playlist	SongHit	4
+43	chorus-playlist	SongNew	4
+43	chorus-playlist	ArtistSame	1
+43	chorus-playlist	ArtistDiv	5
+43	chorus-playlist	GenreSame	1
+43	chorus-playlist	GenreDiv	2
+43	chorus-playlist	MoodSame	2
+43	chorus-playlist	MoodDiv	2
+43	chorus-playlist	SongOrder	1
+43	chorus-playlist	SongTop	1
+43	chorus-playlist	SongLast	1
+43	usual playlist	SongHit	1
+43	usual playlist	SongNew	2
+43	usual playlist	ArtistSame	1
+43	usual playlist	ArtistDiv	6
+43	usual playlist	GenreSame	1
+43	usual playlist	GenreDiv	5
+43	usual playlist	MoodSame	1
+43	usual playlist	MoodDiv	1
+43	usual playlist	SongOrder	6
+43	usual playlist	SongTop	6
+43	usual playlist	SongLast	5
+44	chorus-playlist	SongHit	5
+44	chorus-playlist	SongNew	4
+44	chorus-playlist	ArtistSame	1
+44	chorus-playlist	ArtistDiv	5
+44	chorus-playlist	GenreSame	2
+44	chorus-playlist	GenreDiv	2
+44	chorus-playlist	MoodSame	5
+44	chorus-playlist	MoodDiv	2
+44	chorus-playlist	SongOrder	4
+44	chorus-playlist	SongTop	6
+44	chorus-playlist	SongLast	4
+44	usual playlist	SongHit	5
+44	usual playlist	SongNew	2
+44	usual playlist	ArtistSame	1
+44	usual playlist	ArtistDiv	4
+44	usual playlist	GenreSame	2
+44	usual playlist	GenreDiv	2
+44	usual playlist	MoodSame	5
+44	usual playlist	MoodDiv	2
+44	usual playlist	SongOrder	4
+44	usual playlist	SongTop	6
+44	usual playlist	SongLast	4
+45	chorus-playlist	SongHit	5
+45	chorus-playlist	SongNew	5
+45	chorus-playlist	ArtistSame	3
+45	chorus-playlist	ArtistDiv	3
+45	chorus-playlist	GenreSame	4
+45	chorus-playlist	GenreDiv	3
+45	chorus-playlist	MoodSame	3
+45	chorus-playlist	MoodDiv	5
+45	chorus-playlist	SongOrder	3
+45	chorus-playlist	SongTop	5
+45	chorus-playlist	SongLast	2
+45	usual playlist	SongHit	3
+45	usual playlist	SongNew	3
+45	usual playlist	ArtistSame	2
+45	usual playlist	ArtistDiv	4
+45	usual playlist	GenreSame	4
+45	usual playlist	GenreDiv	3
+45	usual playlist	MoodSame	3
+45	usual playlist	MoodDiv	4
+45	usual playlist	SongOrder	5
+45	usual playlist	SongTop	6
+45	usual playlist	SongLast	2
+46	chorus-playlist	SongHit	3
+46	chorus-playlist	SongNew	2
+46	chorus-playlist	ArtistSame	3
+46	chorus-playlist	ArtistDiv	5
+46	chorus-playlist	GenreSame	3
+46	chorus-playlist	GenreDiv	5
+46	chorus-playlist	MoodSame	2
+46	chorus-playlist	MoodDiv	5
+46	chorus-playlist	SongOrder	2
+46	chorus-playlist	SongTop	6
+46	chorus-playlist	SongLast	4
+46	usual playlist	SongHit	3
+46	usual playlist	SongNew	2
+46	usual playlist	ArtistSame	5
+46	usual playlist	ArtistDiv	2
+46	usual playlist	GenreSame	3
+46	usual playlist	GenreDiv	5
+46	usual playlist	MoodSame	2
+46	usual playlist	MoodDiv	5
+46	usual playlist	SongOrder	6
+46	usual playlist	SongTop	6
+46	usual playlist	SongLast	4
+47	chorus-playlist	SongHit	4
+47	chorus-playlist	SongNew	2
+47	chorus-playlist	ArtistSame	1
+47	chorus-playlist	ArtistDiv	5
+47	chorus-playlist	GenreSame	2
+47	chorus-playlist	GenreDiv	6
+47	chorus-playlist	MoodSame	1
+47	chorus-playlist	MoodDiv	3
+47	chorus-playlist	SongOrder	3
+47	chorus-playlist	SongTop	2
+47	chorus-playlist	SongLast	1
+47	usual playlist	SongHit	3
+47	usual playlist	SongNew	3
+47	usual playlist	ArtistSame	1
+47	usual playlist	ArtistDiv	5
+47	usual playlist	GenreSame	2
+47	usual playlist	GenreDiv	6
+47	usual playlist	MoodSame	1
+47	usual playlist	MoodDiv	4
+47	usual playlist	SongOrder	2
+47	usual playlist	SongTop	3
+47	usual playlist	SongLast	1
+48	chorus-playlist	SongHit	3
+48	chorus-playlist	SongNew	2
+48	chorus-playlist	ArtistSame	4
+48	chorus-playlist	ArtistDiv	3
+48	chorus-playlist	GenreSame	5
+48	chorus-playlist	GenreDiv	3
+48	chorus-playlist	MoodSame	5
+48	chorus-playlist	MoodDiv	4
+48	chorus-playlist	SongOrder	6
+48	chorus-playlist	SongTop	6
+48	chorus-playlist	SongLast	4
+48	usual playlist	SongHit	2
+48	usual playlist	SongNew	2
+48	usual playlist	ArtistSame	2
+48	usual playlist	ArtistDiv	4
+48	usual playlist	GenreSame	5
+48	usual playlist	GenreDiv	4
+48	usual playlist	MoodSame	5
+48	usual playlist	MoodDiv	4
+48	usual playlist	SongOrder	6
+48	usual playlist	SongTop	6
+48	usual playlist	SongLast	4
+49	chorus-playlist	SongHit	1
+49	chorus-playlist	SongNew	1
+49	chorus-playlist	ArtistSame	5
+49	chorus-playlist	ArtistDiv	5
+49	chorus-playlist	GenreSame	6
+49	chorus-playlist	GenreDiv	5
+49	chorus-playlist	MoodSame	2
+49	chorus-playlist	MoodDiv	4
+49	chorus-playlist	SongOrder	1
+49	chorus-playlist	SongTop	2
+49	chorus-playlist	SongLast	2
+49	usual playlist	SongHit	1
+49	usual playlist	SongNew	1
+49	usual playlist	ArtistSame	2
+49	usual playlist	ArtistDiv	4
+49	usual playlist	GenreSame	6
+49	usual playlist	GenreDiv	3
+49	usual playlist	MoodSame	3
+49	usual playlist	MoodDiv	4
+49	usual playlist	SongOrder	6
+49	usual playlist	SongTop	5
+49	usual playlist	SongLast	5
+52	chorus-playlist	SongHit	4
+52	chorus-playlist	SongNew	6
+52	chorus-playlist	ArtistSame	2
+52	chorus-playlist	ArtistDiv	6
+52	chorus-playlist	GenreSame	6
+52	chorus-playlist	GenreDiv	2
+52	chorus-playlist	MoodSame	4
+52	chorus-playlist	MoodDiv	4
+52	chorus-playlist	SongOrder	5
+52	chorus-playlist	SongTop	2
+52	chorus-playlist	SongLast	1
+52	usual playlist	SongHit	2
+52	usual playlist	SongNew	4
+52	usual playlist	ArtistSame	5
+52	usual playlist	ArtistDiv	4
+52	usual playlist	GenreSame	4
+52	usual playlist	GenreDiv	2
+52	usual playlist	MoodSame	2
+52	usual playlist	MoodDiv	4
+52	usual playlist	SongOrder	5
+52	usual playlist	SongTop	2
+52	usual playlist	SongLast	1
+53	chorus-playlist	SongHit	1
+53	chorus-playlist	SongNew	2
+53	chorus-playlist	ArtistSame	3
+53	chorus-playlist	ArtistDiv	4
+53	chorus-playlist	GenreSame	5
+53	chorus-playlist	GenreDiv	2
+53	chorus-playlist	MoodSame	5
+53	chorus-playlist	MoodDiv	5
+53	chorus-playlist	SongOrder	2
+53	chorus-playlist	SongTop	2
+53	chorus-playlist	SongLast	3
+53	usual playlist	SongHit	3
+53	usual playlist	SongNew	3
+53	usual playlist	ArtistSame	2
+53	usual playlist	ArtistDiv	4
+53	usual playlist	GenreSame	4
+53	usual playlist	GenreDiv	4
+53	usual playlist	MoodSame	3
+53	usual playlist	MoodDiv	3
+53	usual playlist	SongOrder	1
+53	usual playlist	SongTop	1
+53	usual playlist	SongLast	1
+54	chorus-playlist	SongHit	2
+54	chorus-playlist	SongNew	2
+54	chorus-playlist	ArtistSame	1
+54	chorus-playlist	ArtistDiv	2
+54	chorus-playlist	GenreSame	6
+54	chorus-playlist	GenreDiv	1
+54	chorus-playlist	MoodSame	4
+54	chorus-playlist	MoodDiv	2
+54	chorus-playlist	SongOrder	5
+54	chorus-playlist	SongTop	6
+54	chorus-playlist	SongLast	2
+54	usual playlist	SongHit	2
+54	usual playlist	SongNew	2
+54	usual playlist	ArtistSame	1
+54	usual playlist	ArtistDiv	2
+54	usual playlist	GenreSame	2
+54	usual playlist	GenreDiv	4
+54	usual playlist	MoodSame	1
+54	usual playlist	MoodDiv	2
+54	usual playlist	SongOrder	5
+54	usual playlist	SongTop	6
+54	usual playlist	SongLast	2
+55	chorus-playlist	SongHit	5
+55	chorus-playlist	SongNew	5
+55	chorus-playlist	ArtistSame	6
+55	chorus-playlist	ArtistDiv	2
+55	chorus-playlist	GenreSame	4
+55	chorus-playlist	GenreDiv	2
+55	chorus-playlist	MoodSame	3
+55	chorus-playlist	MoodDiv	2
+55	chorus-playlist	SongOrder	6
+55	chorus-playlist	SongTop	6
+55	chorus-playlist	SongLast	5
+55	usual playlist	SongHit	3
+55	usual playlist	SongNew	4
+55	usual playlist	ArtistSame	4
+55	usual playlist	ArtistDiv	2
+55	usual playlist	GenreSame	4
+55	usual playlist	GenreDiv	2
+55	usual playlist	MoodSame	3
+55	usual playlist	MoodDiv	2
+55	usual playlist	SongOrder	3
+55	usual playlist	SongTop	3
+55	usual playlist	SongLast	1
+56	chorus-playlist	SongHit	2
+56	chorus-playlist	SongNew	2
+56	chorus-playlist	ArtistSame	2
+56	chorus-playlist	ArtistDiv	2
+56	chorus-playlist	GenreSame	6
+56	chorus-playlist	GenreDiv	1
+56	chorus-playlist	MoodSame	6
+56	chorus-playlist	MoodDiv	1
+56	chorus-playlist	SongOrder	2
+56	chorus-playlist	SongTop	2
+56	chorus-playlist	SongLast	2
+56	usual playlist	SongHit	2
+56	usual playlist	SongNew	2
+56	usual playlist	ArtistSame	2
+56	usual playlist	ArtistDiv	2
+56	usual playlist	GenreSame	6
+56	usual playlist	GenreDiv	1
+56	usual playlist	MoodSame	6
+56	usual playlist	MoodDiv	1
+56	usual playlist	SongOrder	2
+56	usual playlist	SongTop	2
+56	usual playlist	SongLast	2
+57	chorus-playlist	SongHit	1
+57	chorus-playlist	SongNew	1
+57	chorus-playlist	ArtistSame	4
+57	chorus-playlist	ArtistDiv	4
+57	chorus-playlist	GenreSame	5
+57	chorus-playlist	GenreDiv	2
+57	chorus-playlist	MoodSame	4
+57	chorus-playlist	MoodDiv	3
+57	chorus-playlist	SongOrder	2
+57	chorus-playlist	SongTop	2
+57	chorus-playlist	SongLast	1
+57	usual playlist	SongHit	1
+57	usual playlist	SongNew	1
+57	usual playlist	ArtistSame	4
+57	usual playlist	ArtistDiv	4
+57	usual playlist	GenreSame	5
+57	usual playlist	GenreDiv	2
+57	usual playlist	MoodSame	4
+57	usual playlist	MoodDiv	3
+57	usual playlist	SongOrder	2
+57	usual playlist	SongTop	2
+57	usual playlist	SongLast	1
+58	chorus-playlist	SongHit	5
+58	chorus-playlist	SongNew	4
+58	chorus-playlist	ArtistSame	2
+58	chorus-playlist	ArtistDiv	5
+58	chorus-playlist	GenreSame	6
+58	chorus-playlist	GenreDiv	2
+58	chorus-playlist	MoodSame	3
+58	chorus-playlist	MoodDiv	4
+58	chorus-playlist	SongOrder	4
+58	chorus-playlist	SongTop	4
+58	chorus-playlist	SongLast	2
+58	usual playlist	SongHit	3
+58	usual playlist	SongNew	3
+58	usual playlist	ArtistSame	2
+58	usual playlist	ArtistDiv	5
+58	usual playlist	GenreSame	6
+58	usual playlist	GenreDiv	2
+58	usual playlist	MoodSame	3
+58	usual playlist	MoodDiv	4
+58	usual playlist	SongOrder	5
+58	usual playlist	SongTop	4
+58	usual playlist	SongLast	2
+59	chorus-playlist	SongHit	1
+59	chorus-playlist	SongNew	4
+59	chorus-playlist	ArtistSame	4
+59	chorus-playlist	ArtistDiv	2
+59	chorus-playlist	GenreSame	5
+59	chorus-playlist	GenreDiv	2
+59	chorus-playlist	MoodSame	6
+59	chorus-playlist	MoodDiv	1
+59	chorus-playlist	SongOrder	2
+59	chorus-playlist	SongTop	6
+59	chorus-playlist	SongLast	2
+59	usual playlist	SongHit	1
+59	usual playlist	SongNew	1
+59	usual playlist	ArtistSame	4
+59	usual playlist	ArtistDiv	2
+59	usual playlist	GenreSame	5
+59	usual playlist	GenreDiv	2
+59	usual playlist	MoodSame	5
+59	usual playlist	MoodDiv	1
+59	usual playlist	SongOrder	4
+59	usual playlist	SongTop	6
+59	usual playlist	SongLast	2
+60	chorus-playlist	SongHit	5
+60	chorus-playlist	SongNew	5
+60	chorus-playlist	ArtistSame	3
+60	chorus-playlist	ArtistDiv	5
+60	chorus-playlist	GenreSame	5
+60	chorus-playlist	GenreDiv	2
+60	chorus-playlist	MoodSame	5
+60	chorus-playlist	MoodDiv	4
+60	chorus-playlist	SongOrder	6
+60	chorus-playlist	SongTop	6
+60	chorus-playlist	SongLast	2
+60	usual playlist	SongHit	5
+60	usual playlist	SongNew	5
+60	usual playlist	ArtistSame	3
+60	usual playlist	ArtistDiv	5
+60	usual playlist	GenreSame	5
+60	usual playlist	GenreDiv	2
+60	usual playlist	MoodSame	5
+60	usual playlist	MoodDiv	4
+60	usual playlist	SongOrder	6
+60	usual playlist	SongTop	6
+60	usual playlist	SongLast	2
+61	chorus-playlist	SongHit	1
+61	chorus-playlist	SongNew	1
+61	chorus-playlist	ArtistSame	1
+61	chorus-playlist	ArtistDiv	1
+61	chorus-playlist	GenreSame	1
+61	chorus-playlist	GenreDiv	1
+61	chorus-playlist	MoodSame	1
+61	chorus-playlist	MoodDiv	1
+61	chorus-playlist	SongOrder	1
+61	chorus-playlist	SongTop	6
+61	chorus-playlist	SongLast	1
+61	usual playlist	SongHit	1
+61	usual playlist	SongNew	1
+61	usual playlist	ArtistSame	1
+61	usual playlist	ArtistDiv	1
+61	usual playlist	GenreSame	1
+61	usual playlist	GenreDiv	1
+61	usual playlist	MoodSame	1
+61	usual playlist	MoodDiv	1
+61	usual playlist	SongOrder	1
+61	usual playlist	SongTop	6
+61	usual playlist	SongLast	1
+62	chorus-playlist	SongHit	5
+62	chorus-playlist	SongNew	3
+62	chorus-playlist	ArtistSame	2
+62	chorus-playlist	ArtistDiv	4
+62	chorus-playlist	GenreSame	2
+62	chorus-playlist	GenreDiv	5
+62	chorus-playlist	MoodSame	1
+62	chorus-playlist	MoodDiv	5
+62	chorus-playlist	SongOrder	6
+62	chorus-playlist	SongTop	5
+62	chorus-playlist	SongLast	3
+62	usual playlist	SongHit	2
+62	usual playlist	SongNew	2
+62	usual playlist	ArtistSame	4
+62	usual playlist	ArtistDiv	2
+62	usual playlist	GenreSame	6
+62	usual playlist	GenreDiv	4
+62	usual playlist	MoodSame	2
+62	usual playlist	MoodDiv	6
+62	usual playlist	SongOrder	6
+62	usual playlist	SongTop	6
+62	usual playlist	SongLast	6
+63	chorus-playlist	SongHit	4
+63	chorus-playlist	SongNew	5
+63	chorus-playlist	ArtistSame	4
+63	chorus-playlist	ArtistDiv	3
+63	chorus-playlist	GenreSame	6
+63	chorus-playlist	GenreDiv	3
+63	chorus-playlist	MoodSame	5
+63	chorus-playlist	MoodDiv	4
+63	chorus-playlist	SongOrder	3
+63	chorus-playlist	SongTop	3
+63	chorus-playlist	SongLast	2
+63	usual playlist	SongHit	5
+63	usual playlist	SongNew	5
+63	usual playlist	ArtistSame	5
+63	usual playlist	ArtistDiv	3
+63	usual playlist	GenreSame	6
+63	usual playlist	GenreDiv	2
+63	usual playlist	MoodSame	4
+63	usual playlist	MoodDiv	4
+63	usual playlist	SongOrder	4
+63	usual playlist	SongTop	4
+63	usual playlist	SongLast	2
+64	chorus-playlist	SongHit	4
+64	chorus-playlist	SongNew	1
+64	chorus-playlist	ArtistSame	5
+64	chorus-playlist	ArtistDiv	5
+64	chorus-playlist	GenreSame	3
+64	chorus-playlist	GenreDiv	3
+64	chorus-playlist	MoodSame	1
+64	chorus-playlist	MoodDiv	4
+64	chorus-playlist	SongOrder	5
+64	chorus-playlist	SongTop	5
+64	chorus-playlist	SongLast	2
+64	usual playlist	SongHit	3
+64	usual playlist	SongNew	1
+64	usual playlist	ArtistSame	4
+64	usual playlist	ArtistDiv	3
+64	usual playlist	GenreSame	3
+64	usual playlist	GenreDiv	3
+64	usual playlist	MoodSame	1
+64	usual playlist	MoodDiv	5
+64	usual playlist	SongOrder	1
+64	usual playlist	SongTop	2
+64	usual playlist	SongLast	2
+65	chorus-playlist	SongHit	1
+65	chorus-playlist	SongNew	1
+65	chorus-playlist	ArtistSame	1
+65	chorus-playlist	ArtistDiv	1
+65	chorus-playlist	GenreSame	6
+65	chorus-playlist	GenreDiv	1
+65	chorus-playlist	MoodSame	4
+65	chorus-playlist	MoodDiv	4
+65	chorus-playlist	SongOrder	1
+65	chorus-playlist	SongTop	5
+65	chorus-playlist	SongLast	5
+65	usual playlist	SongHit	1
+65	usual playlist	SongNew	4
+65	usual playlist	ArtistSame	1
+65	usual playlist	ArtistDiv	1
+65	usual playlist	GenreSame	6
+65	usual playlist	GenreDiv	1
+65	usual playlist	MoodSame	6
+65	usual playlist	MoodDiv	1
+65	usual playlist	SongOrder	6
+65	usual playlist	SongTop	6
+65	usual playlist	SongLast	6
+66	chorus-playlist	SongHit	1
+66	chorus-playlist	SongNew	1
+66	chorus-playlist	ArtistSame	5
+66	chorus-playlist	ArtistDiv	2
+66	chorus-playlist	GenreSame	5
+66	chorus-playlist	GenreDiv	2
+66	chorus-playlist	MoodSame	5
+66	chorus-playlist	MoodDiv	2
+66	chorus-playlist	SongOrder	6
+66	chorus-playlist	SongTop	5
+66	chorus-playlist	SongLast	5
+66	usual playlist	SongHit	1
+66	usual playlist	SongNew	1
+66	usual playlist	ArtistSame	2
+66	usual playlist	ArtistDiv	5
+66	usual playlist	GenreSame	6
+66	usual playlist	GenreDiv	1
+66	usual playlist	MoodSame	6
+66	usual playlist	MoodDiv	2
+66	usual playlist	SongOrder	6
+66	usual playlist	SongTop	6
+66	usual playlist	SongLast	6
+67	chorus-playlist	SongHit	3
+67	chorus-playlist	SongNew	3
+67	chorus-playlist	ArtistSame	4
+67	chorus-playlist	ArtistDiv	4
+67	chorus-playlist	GenreSame	2
+67	chorus-playlist	GenreDiv	4
+67	chorus-playlist	MoodSame	4
+67	chorus-playlist	MoodDiv	4
+67	chorus-playlist	SongOrder	5
+67	chorus-playlist	SongTop	4
+67	chorus-playlist	SongLast	2
+67	usual playlist	SongHit	2
+67	usual playlist	SongNew	1
+67	usual playlist	ArtistSame	3
+67	usual playlist	ArtistDiv	5
+67	usual playlist	GenreSame	2
+67	usual playlist	GenreDiv	4
+67	usual playlist	MoodSame	3
+67	usual playlist	MoodDiv	3
+67	usual playlist	SongOrder	4
+67	usual playlist	SongTop	4
+67	usual playlist	SongLast	2
+68	chorus-playlist	SongHit	3
+68	chorus-playlist	SongNew	3
+68	chorus-playlist	ArtistSame	3
+68	chorus-playlist	ArtistDiv	4
+68	chorus-playlist	GenreSame	3
+68	chorus-playlist	GenreDiv	4
+68	chorus-playlist	MoodSame	2
+68	chorus-playlist	MoodDiv	5
+68	chorus-playlist	SongOrder	3
+68	chorus-playlist	SongTop	3
+68	chorus-playlist	SongLast	2
+68	usual playlist	SongHit	3
+68	usual playlist	SongNew	3
+68	usual playlist	ArtistSame	3
+68	usual playlist	ArtistDiv	4
+68	usual playlist	GenreSame	3
+68	usual playlist	GenreDiv	4
+68	usual playlist	MoodSame	2
+68	usual playlist	MoodDiv	5
+68	usual playlist	SongOrder	3
+68	usual playlist	SongTop	3
+68	usual playlist	SongLast	2
+69	chorus-playlist	SongHit	2
+69	chorus-playlist	SongNew	2
+69	chorus-playlist	ArtistSame	4
+69	chorus-playlist	ArtistDiv	4
+69	chorus-playlist	GenreSame	4
+69	chorus-playlist	GenreDiv	3
+69	chorus-playlist	MoodSame	5
+69	chorus-playlist	MoodDiv	3
+69	chorus-playlist	SongOrder	6
+69	chorus-playlist	SongTop	6
+69	chorus-playlist	SongLast	5
+69	usual playlist	SongHit	5
+69	usual playlist	SongNew	3
+69	usual playlist	ArtistSame	4
+69	usual playlist	ArtistDiv	2
+69	usual playlist	GenreSame	4
+69	usual playlist	GenreDiv	3
+69	usual playlist	MoodSame	5
+69	usual playlist	MoodDiv	3
+69	usual playlist	SongOrder	6
+69	usual playlist	SongTop	6
+69	usual playlist	SongLast	5
+70	chorus-playlist	SongHit	4
+70	chorus-playlist	SongNew	3
+70	chorus-playlist	ArtistSame	5
+70	chorus-playlist	ArtistDiv	4
+70	chorus-playlist	GenreSame	5
+70	chorus-playlist	GenreDiv	3
+70	chorus-playlist	MoodSame	5
+70	chorus-playlist	MoodDiv	3
+70	chorus-playlist	SongOrder	6
+70	chorus-playlist	SongTop	5
+70	chorus-playlist	SongLast	5
+70	usual playlist	SongHit	5
+70	usual playlist	SongNew	3
+70	usual playlist	ArtistSame	3
+70	usual playlist	ArtistDiv	4
+70	usual playlist	GenreSame	4
+70	usual playlist	GenreDiv	3
+70	usual playlist	MoodSame	4
+70	usual playlist	MoodDiv	2
+70	usual playlist	SongOrder	5
+70	usual playlist	SongTop	5
+70	usual playlist	SongLast	5
+71	chorus-playlist	SongHit	1
+71	chorus-playlist	SongNew	1
+71	chorus-playlist	ArtistSame	4
+71	chorus-playlist	ArtistDiv	2
+71	chorus-playlist	GenreSame	3
+71	chorus-playlist	GenreDiv	3
+71	chorus-playlist	MoodSame	2
+71	chorus-playlist	MoodDiv	4
+71	chorus-playlist	SongOrder	2
+71	chorus-playlist	SongTop	1
+71	chorus-playlist	SongLast	1
+71	usual playlist	SongHit	1
+71	usual playlist	SongNew	1
+71	usual playlist	ArtistSame	1
+71	usual playlist	ArtistDiv	2
+71	usual playlist	GenreSame	3
+71	usual playlist	GenreDiv	3
+71	usual playlist	MoodSame	2
+71	usual playlist	MoodDiv	4
+71	usual playlist	SongOrder	6
+71	usual playlist	SongTop	5
+71	usual playlist	SongLast	4
+72	chorus-playlist	SongHit	5
+72	chorus-playlist	SongNew	3
+72	chorus-playlist	ArtistSame	5
+72	chorus-playlist	ArtistDiv	3
+72	chorus-playlist	GenreSame	4
+72	chorus-playlist	GenreDiv	2
+72	chorus-playlist	MoodSame	5
+72	chorus-playlist	MoodDiv	3
+72	chorus-playlist	SongOrder	1
+72	chorus-playlist	SongTop	1
+72	chorus-playlist	SongLast	1
+72	usual playlist	SongHit	3
+72	usual playlist	SongNew	3
+72	usual playlist	ArtistSame	4
+72	usual playlist	ArtistDiv	3
+72	usual playlist	GenreSame	4
+72	usual playlist	GenreDiv	2
+72	usual playlist	MoodSame	5
+72	usual playlist	MoodDiv	2
+72	usual playlist	SongOrder	1
+72	usual playlist	SongTop	1
+72	usual playlist	SongLast	1
+73	chorus-playlist	SongHit	2
+73	chorus-playlist	SongNew	2
+73	chorus-playlist	ArtistSame	2
+73	chorus-playlist	ArtistDiv	3
+73	chorus-playlist	GenreSame	5
+73	chorus-playlist	GenreDiv	1
+73	chorus-playlist	MoodSame	1
+73	chorus-playlist	MoodDiv	1
+73	chorus-playlist	SongOrder	5
+73	chorus-playlist	SongTop	5
+73	chorus-playlist	SongLast	3
+73	usual playlist	SongHit	1
+73	usual playlist	SongNew	2
+73	usual playlist	ArtistSame	1
+73	usual playlist	ArtistDiv	1
+73	usual playlist	GenreSame	4
+73	usual playlist	GenreDiv	1
+73	usual playlist	MoodSame	1
+73	usual playlist	MoodDiv	3
+73	usual playlist	SongOrder	6
+73	usual playlist	SongTop	6
+73	usual playlist	SongLast	2
+74	chorus-playlist	SongHit	5
+74	chorus-playlist	SongNew	5
+74	chorus-playlist	ArtistSame	6
+74	chorus-playlist	ArtistDiv	5
+74	chorus-playlist	GenreSame	5
+74	chorus-playlist	GenreDiv	2
+74	chorus-playlist	MoodSame	5
+74	chorus-playlist	MoodDiv	3
+74	chorus-playlist	SongOrder	4
+74	chorus-playlist	SongTop	5
+74	chorus-playlist	SongLast	2
+74	usual playlist	SongHit	2
+74	usual playlist	SongNew	2
+74	usual playlist	ArtistSame	5
+74	usual playlist	ArtistDiv	2
+74	usual playlist	GenreSame	5
+74	usual playlist	GenreDiv	2
+74	usual playlist	MoodSame	5
+74	usual playlist	MoodDiv	3
+74	usual playlist	SongOrder	4
+74	usual playlist	SongTop	5
+74	usual playlist	SongLast	2
+75	chorus-playlist	SongHit	1
+75	chorus-playlist	SongNew	1
+75	chorus-playlist	ArtistSame	3
+75	chorus-playlist	ArtistDiv	4
+75	chorus-playlist	GenreSame	2
+75	chorus-playlist	GenreDiv	2
+75	chorus-playlist	MoodSame	6
+75	chorus-playlist	MoodDiv	2
+75	chorus-playlist	SongOrder	4
+75	chorus-playlist	SongTop	1
+75	chorus-playlist	SongLast	1
+75	usual playlist	SongHit	1
+75	usual playlist	SongNew	1
+75	usual playlist	ArtistSame	3
+75	usual playlist	ArtistDiv	4
+75	usual playlist	GenreSame	2
+75	usual playlist	GenreDiv	2
+75	usual playlist	MoodSame	5
+75	usual playlist	MoodDiv	2
+75	usual playlist	SongOrder	4
+75	usual playlist	SongTop	1
+75	usual playlist	SongLast	1
+76	chorus-playlist	SongHit	2
+76	chorus-playlist	SongNew	2
+76	chorus-playlist	ArtistSame	1
+76	chorus-playlist	ArtistDiv	6
+76	chorus-playlist	GenreSame	1
+76	chorus-playlist	GenreDiv	6
+76	chorus-playlist	MoodSame	1
+76	chorus-playlist	MoodDiv	6
+76	chorus-playlist	SongOrder	1
+76	chorus-playlist	SongTop	1
+76	chorus-playlist	SongLast	1
+76	usual playlist	SongHit	2
+76	usual playlist	SongNew	2
+76	usual playlist	ArtistSame	1
+76	usual playlist	ArtistDiv	6
+76	usual playlist	GenreSame	1
+76	usual playlist	GenreDiv	6
+76	usual playlist	MoodSame	1
+76	usual playlist	MoodDiv	6
+76	usual playlist	SongOrder	1
+76	usual playlist	SongTop	1
+76	usual playlist	SongLast	1
+77	chorus-playlist	SongHit	4
+77	chorus-playlist	SongNew	5
+77	chorus-playlist	ArtistSame	1
+77	chorus-playlist	ArtistDiv	4
+77	chorus-playlist	GenreSame	5
+77	chorus-playlist	GenreDiv	3
+77	chorus-playlist	MoodSame	4
+77	chorus-playlist	MoodDiv	3
+77	chorus-playlist	SongOrder	3
+77	chorus-playlist	SongTop	3
+77	chorus-playlist	SongLast	1
+77	usual playlist	SongHit	3
+77	usual playlist	SongNew	1
+77	usual playlist	ArtistSame	1
+77	usual playlist	ArtistDiv	4
+77	usual playlist	GenreSame	5
+77	usual playlist	GenreDiv	1
+77	usual playlist	MoodSame	6
+77	usual playlist	MoodDiv	1
+77	usual playlist	SongOrder	2
+77	usual playlist	SongTop	3
+77	usual playlist	SongLast	1
+78	chorus-playlist	SongHit	2
+78	chorus-playlist	SongNew	3
+78	chorus-playlist	ArtistSame	4
+78	chorus-playlist	ArtistDiv	5
+78	chorus-playlist	GenreSame	2
+78	chorus-playlist	GenreDiv	2
+78	chorus-playlist	MoodSame	4
+78	chorus-playlist	MoodDiv	2
+78	chorus-playlist	SongOrder	4
+78	chorus-playlist	SongTop	5
+78	chorus-playlist	SongLast	4
+78	usual playlist	SongHit	1
+78	usual playlist	SongNew	1
+78	usual playlist	ArtistSame	5
+78	usual playlist	ArtistDiv	3
+78	usual playlist	GenreSame	2
+78	usual playlist	GenreDiv	2
+78	usual playlist	MoodSame	2
+78	usual playlist	MoodDiv	2
+78	usual playlist	SongOrder	4
+78	usual playlist	SongTop	5
+78	usual playlist	SongLast	4
+79	chorus-playlist	SongHit	5
+79	chorus-playlist	SongNew	5
+79	chorus-playlist	ArtistSame	3
+79	chorus-playlist	ArtistDiv	4
+79	chorus-playlist	GenreSame	5
+79	chorus-playlist	GenreDiv	3
+79	chorus-playlist	MoodSame	4
+79	chorus-playlist	MoodDiv	3
+79	chorus-playlist	SongOrder	2
+79	chorus-playlist	SongTop	2
+79	chorus-playlist	SongLast	2
+79	usual playlist	SongHit	2
+79	usual playlist	SongNew	3
+79	usual playlist	ArtistSame	5
+79	usual playlist	ArtistDiv	3
+79	usual playlist	GenreSame	5
+79	usual playlist	GenreDiv	1
+79	usual playlist	MoodSame	5
+79	usual playlist	MoodDiv	2
+79	usual playlist	SongOrder	5
+79	usual playlist	SongTop	5
+79	usual playlist	SongLast	2
+80	chorus-playlist	SongHit	4
+80	chorus-playlist	SongNew	2
+80	chorus-playlist	ArtistSame	2
+80	chorus-playlist	ArtistDiv	4
+80	chorus-playlist	GenreSame	2
+80	chorus-playlist	GenreDiv	2
+80	chorus-playlist	MoodSame	2
+80	chorus-playlist	MoodDiv	2
+80	chorus-playlist	SongOrder	3
+80	chorus-playlist	SongTop	2
+80	chorus-playlist	SongLast	2
+80	usual playlist	SongHit	2
+80	usual playlist	SongNew	2
+80	usual playlist	ArtistSame	2
+80	usual playlist	ArtistDiv	2
+80	usual playlist	GenreSame	2
+80	usual playlist	GenreDiv	2
+80	usual playlist	MoodSame	1
+80	usual playlist	MoodDiv	2
+80	usual playlist	SongOrder	5
+80	usual playlist	SongTop	4
+80	usual playlist	SongLast	4
+81	chorus-playlist	SongHit	5
+81	chorus-playlist	SongNew	5
+81	chorus-playlist	ArtistSame	3
+81	chorus-playlist	ArtistDiv	5
+81	chorus-playlist	GenreSame	1
+81	chorus-playlist	GenreDiv	1
+81	chorus-playlist	MoodSame	2
+81	chorus-playlist	MoodDiv	2
+81	chorus-playlist	SongOrder	2
+81	chorus-playlist	SongTop	1
+81	chorus-playlist	SongLast	1
+81	usual playlist	SongHit	3
+81	usual playlist	SongNew	2
+81	usual playlist	ArtistSame	5
+81	usual playlist	ArtistDiv	5
+81	usual playlist	GenreSame	1
+81	usual playlist	GenreDiv	1
+81	usual playlist	MoodSame	2
+81	usual playlist	MoodDiv	2
+81	usual playlist	SongOrder	4
+81	usual playlist	SongTop	1
+81	usual playlist	SongLast	2
+82	chorus-playlist	SongHit	5
+82	chorus-playlist	SongNew	4
+82	chorus-playlist	ArtistSame	5
+82	chorus-playlist	ArtistDiv	5
+82	chorus-playlist	GenreSame	4
+82	chorus-playlist	GenreDiv	4
+82	chorus-playlist	MoodSame	3
+82	chorus-playlist	MoodDiv	4
+82	chorus-playlist	SongOrder	6
+82	chorus-playlist	SongTop	5
+82	chorus-playlist	SongLast	5
+82	usual playlist	SongHit	5
+82	usual playlist	SongNew	5
+82	usual playlist	ArtistSame	5
+82	usual playlist	ArtistDiv	5
+82	usual playlist	GenreSame	4
+82	usual playlist	GenreDiv	4
+82	usual playlist	MoodSame	3
+82	usual playlist	MoodDiv	4
+82	usual playlist	SongOrder	6
+82	usual playlist	SongTop	5
+82	usual playlist	SongLast	5
+84	chorus-playlist	SongHit	4
+84	chorus-playlist	SongNew	5
+84	chorus-playlist	ArtistSame	3
+84	chorus-playlist	ArtistDiv	3
+84	chorus-playlist	GenreSame	3
+84	chorus-playlist	GenreDiv	3
+84	chorus-playlist	MoodSame	2
+84	chorus-playlist	MoodDiv	4
+84	chorus-playlist	SongOrder	5
+84	chorus-playlist	SongTop	5
+84	chorus-playlist	SongLast	5
+84	usual playlist	SongHit	2
+84	usual playlist	SongNew	2
+84	usual playlist	ArtistSame	1
+84	usual playlist	ArtistDiv	2
+84	usual playlist	GenreSame	4
+84	usual playlist	GenreDiv	4
+84	usual playlist	MoodSame	5
+84	usual playlist	MoodDiv	2
+84	usual playlist	SongOrder	2
+84	usual playlist	SongTop	3
+84	usual playlist	SongLast	3
+85	chorus-playlist	SongHit	6
+85	chorus-playlist	SongNew	4
+85	chorus-playlist	ArtistSame	6
+85	chorus-playlist	ArtistDiv	5
+85	chorus-playlist	GenreSame	6
+85	chorus-playlist	GenreDiv	4
+85	chorus-playlist	MoodSame	4
+85	chorus-playlist	MoodDiv	4
+85	chorus-playlist	SongOrder	6
+85	chorus-playlist	SongTop	6
+85	chorus-playlist	SongLast	6
+85	usual playlist	SongHit	5
+85	usual playlist	SongNew	2
+85	usual playlist	ArtistSame	5
+85	usual playlist	ArtistDiv	5
+85	usual playlist	GenreSame	6
+85	usual playlist	GenreDiv	4
+85	usual playlist	MoodSame	4
+85	usual playlist	MoodDiv	4
+85	usual playlist	SongOrder	6
+85	usual playlist	SongTop	6
+85	usual playlist	SongLast	6
+86	chorus-playlist	SongHit	2
+86	chorus-playlist	SongNew	4
+86	chorus-playlist	ArtistSame	5
+86	chorus-playlist	ArtistDiv	2
+86	chorus-playlist	GenreSame	5
+86	chorus-playlist	GenreDiv	2
+86	chorus-playlist	MoodSame	4
+86	chorus-playlist	MoodDiv	3
+86	chorus-playlist	SongOrder	5
+86	chorus-playlist	SongTop	4
+86	chorus-playlist	SongLast	2
+86	usual playlist	SongHit	2
+86	usual playlist	SongNew	3
+86	usual playlist	ArtistSame	5
+86	usual playlist	ArtistDiv	2
+86	usual playlist	GenreSame	4
+86	usual playlist	GenreDiv	2
+86	usual playlist	MoodSame	4
+86	usual playlist	MoodDiv	3
+86	usual playlist	SongOrder	5
+86	usual playlist	SongTop	5
+86	usual playlist	SongLast	5
+87	chorus-playlist	SongHit	2
+87	chorus-playlist	SongNew	1
+87	chorus-playlist	ArtistSame	1
+87	chorus-playlist	ArtistDiv	6
+87	chorus-playlist	GenreSame	5
+87	chorus-playlist	GenreDiv	5
+87	chorus-playlist	MoodSame	3
+87	chorus-playlist	MoodDiv	4
+87	chorus-playlist	SongOrder	4
+87	chorus-playlist	SongTop	4
+87	chorus-playlist	SongLast	4
+87	usual playlist	SongHit	2
+87	usual playlist	SongNew	1
+87	usual playlist	ArtistSame	1
+87	usual playlist	ArtistDiv	5
+87	usual playlist	GenreSame	4
+87	usual playlist	GenreDiv	4
+87	usual playlist	MoodSame	3
+87	usual playlist	MoodDiv	4
+87	usual playlist	SongOrder	6
+87	usual playlist	SongTop	6
+87	usual playlist	SongLast	6
+88	chorus-playlist	SongHit	3
+88	chorus-playlist	SongNew	3
+88	chorus-playlist	ArtistSame	4
+88	chorus-playlist	ArtistDiv	5
+88	chorus-playlist	GenreSame	5
+88	chorus-playlist	GenreDiv	3
+88	chorus-playlist	MoodSame	4
+88	chorus-playlist	MoodDiv	3
+88	chorus-playlist	SongOrder	4
+88	chorus-playlist	SongTop	5
+88	chorus-playlist	SongLast	4
+88	usual playlist	SongHit	2
+88	usual playlist	SongNew	3
+88	usual playlist	ArtistSame	5
+88	usual playlist	ArtistDiv	4
+88	usual playlist	GenreSame	4
+88	usual playlist	GenreDiv	2
+88	usual playlist	MoodSame	5
+88	usual playlist	MoodDiv	3
+88	usual playlist	SongOrder	2
+88	usual playlist	SongTop	4
+88	usual playlist	SongLast	4
+89	chorus-playlist	SongHit	5
+89	chorus-playlist	SongNew	6
+89	chorus-playlist	ArtistSame	4
+89	chorus-playlist	ArtistDiv	4
+89	chorus-playlist	GenreSame	4
+89	chorus-playlist	GenreDiv	4
+89	chorus-playlist	MoodSame	4
+89	chorus-playlist	MoodDiv	5
+89	chorus-playlist	SongOrder	2
+89	chorus-playlist	SongTop	4
+89	chorus-playlist	SongLast	3
+89	usual playlist	SongHit	5
+89	usual playlist	SongNew	5
+89	usual playlist	ArtistSame	3
+89	usual playlist	ArtistDiv	4
+89	usual playlist	GenreSame	4
+89	usual playlist	GenreDiv	4
+89	usual playlist	MoodSame	5
+89	usual playlist	MoodDiv	5
+89	usual playlist	SongOrder	2
+89	usual playlist	SongTop	4
+89	usual playlist	SongLast	3
+90	chorus-playlist	SongHit	2
+90	chorus-playlist	SongNew	4
+90	chorus-playlist	ArtistSame	2
+90	chorus-playlist	ArtistDiv	5
+90	chorus-playlist	GenreSame	3
+90	chorus-playlist	GenreDiv	4
+90	chorus-playlist	MoodSame	4
+90	chorus-playlist	MoodDiv	4
+90	chorus-playlist	SongOrder	2
+90	chorus-playlist	SongTop	5
+90	chorus-playlist	SongLast	5
+90	usual playlist	SongHit	2
+90	usual playlist	SongNew	2
+90	usual playlist	ArtistSame	2
+90	usual playlist	ArtistDiv	5
+90	usual playlist	GenreSame	6
+90	usual playlist	GenreDiv	3
+90	usual playlist	MoodSame	3
+90	usual playlist	MoodDiv	4
+90	usual playlist	SongOrder	5
+90	usual playlist	SongTop	6
+90	usual playlist	SongLast	5
+91	chorus-playlist	SongHit	5
+91	chorus-playlist	SongNew	4
+91	chorus-playlist	ArtistSame	2
+91	chorus-playlist	ArtistDiv	4
+91	chorus-playlist	GenreSame	3
+91	chorus-playlist	GenreDiv	4
+91	chorus-playlist	MoodSame	3
+91	chorus-playlist	MoodDiv	4
+91	chorus-playlist	SongOrder	3
+91	chorus-playlist	SongTop	3
+91	chorus-playlist	SongLast	3
+91	usual playlist	SongHit	4
+91	usual playlist	SongNew	4
+91	usual playlist	ArtistSame	2
+91	usual playlist	ArtistDiv	4
+91	usual playlist	GenreSame	3
+91	usual playlist	GenreDiv	4
+91	usual playlist	MoodSame	3
+91	usual playlist	MoodDiv	4
+91	usual playlist	SongOrder	3
+91	usual playlist	SongTop	3
+91	usual playlist	SongLast	3
+92	chorus-playlist	SongHit	3
+92	chorus-playlist	SongNew	3
+92	chorus-playlist	ArtistSame	3
+92	chorus-playlist	ArtistDiv	4
+92	chorus-playlist	GenreSame	6
+92	chorus-playlist	GenreDiv	2
+92	chorus-playlist	MoodSame	5
+92	chorus-playlist	MoodDiv	2
+92	chorus-playlist	SongOrder	3
+92	chorus-playlist	SongTop	4
+92	chorus-playlist	SongLast	3
+92	usual playlist	SongHit	2
+92	usual playlist	SongNew	1
+92	usual playlist	ArtistSame	4
+92	usual playlist	ArtistDiv	3
+92	usual playlist	GenreSame	3
+92	usual playlist	GenreDiv	2
+92	usual playlist	MoodSame	3
+92	usual playlist	MoodDiv	2
+92	usual playlist	SongOrder	5
+92	usual playlist	SongTop	4
+92	usual playlist	SongLast	3
+93	chorus-playlist	SongHit	4
+93	chorus-playlist	SongNew	4
+93	chorus-playlist	ArtistSame	2
+93	chorus-playlist	ArtistDiv	5
+93	chorus-playlist	GenreSame	5
+93	chorus-playlist	GenreDiv	5
+93	chorus-playlist	MoodSame	5
+93	chorus-playlist	MoodDiv	5
+93	chorus-playlist	SongOrder	2
+93	chorus-playlist	SongTop	2
+93	chorus-playlist	SongLast	2
+93	usual playlist	SongHit	2
+93	usual playlist	SongNew	3
+93	usual playlist	ArtistSame	4
+93	usual playlist	ArtistDiv	2
+93	usual playlist	GenreSame	5
+93	usual playlist	GenreDiv	5
+93	usual playlist	MoodSame	5
+93	usual playlist	MoodDiv	5
+93	usual playlist	SongOrder	2
+93	usual playlist	SongTop	2
+93	usual playlist	SongLast	2
+94	chorus-playlist	SongHit	3
+94	chorus-playlist	SongNew	3
+94	chorus-playlist	ArtistSame	2
+94	chorus-playlist	ArtistDiv	3
+94	chorus-playlist	GenreSame	4
+94	chorus-playlist	GenreDiv	2
+94	chorus-playlist	MoodSame	3
+94	chorus-playlist	MoodDiv	2
+94	chorus-playlist	SongOrder	2
+94	chorus-playlist	SongTop	2
+94	chorus-playlist	SongLast	2
+94	usual playlist	SongHit	3
+94	usual playlist	SongNew	2
+94	usual playlist	ArtistSame	2
+94	usual playlist	ArtistDiv	4
+94	usual playlist	GenreSame	2
+94	usual playlist	GenreDiv	2
+94	usual playlist	MoodSame	2
+94	usual playlist	MoodDiv	3
+94	usual playlist	SongOrder	2
+94	usual playlist	SongTop	3
+94	usual playlist	SongLast	2
+95	chorus-playlist	SongHit	2
+95	chorus-playlist	SongNew	2
+95	chorus-playlist	ArtistSame	5
+95	chorus-playlist	ArtistDiv	5
+95	chorus-playlist	GenreSame	6
+95	chorus-playlist	GenreDiv	2
+95	chorus-playlist	MoodSame	4
+95	chorus-playlist	MoodDiv	3
+95	chorus-playlist	SongOrder	4
+95	chorus-playlist	SongTop	4
+95	chorus-playlist	SongLast	2
+95	usual playlist	SongHit	2
+95	usual playlist	SongNew	2
+95	usual playlist	ArtistSame	5
+95	usual playlist	ArtistDiv	3
+95	usual playlist	GenreSame	6
+95	usual playlist	GenreDiv	2
+95	usual playlist	MoodSame	2
+95	usual playlist	MoodDiv	3
+95	usual playlist	SongOrder	4
+95	usual playlist	SongTop	4
+95	usual playlist	SongLast	2
+97	chorus-playlist	SongHit	6
+97	chorus-playlist	SongNew	6
+97	chorus-playlist	ArtistSame	1
+97	chorus-playlist	ArtistDiv	6
+97	chorus-playlist	GenreSame	5
+97	chorus-playlist	GenreDiv	5
+97	chorus-playlist	MoodSame	5
+97	chorus-playlist	MoodDiv	5
+97	chorus-playlist	SongOrder	5
+97	chorus-playlist	SongTop	3
+97	chorus-playlist	SongLast	2
+97	usual playlist	SongHit	2
+97	usual playlist	SongNew	1
+97	usual playlist	ArtistSame	2
+97	usual playlist	ArtistDiv	5
+97	usual playlist	GenreSame	3
+97	usual playlist	GenreDiv	2
+97	usual playlist	MoodSame	3
+97	usual playlist	MoodDiv	5
+97	usual playlist	SongOrder	5
+97	usual playlist	SongTop	5
+97	usual playlist	SongLast	2
+98	chorus-playlist	SongHit	2
+98	chorus-playlist	SongNew	2
+98	chorus-playlist	ArtistSame	3
+98	chorus-playlist	ArtistDiv	5
+98	chorus-playlist	GenreSame	5
+98	chorus-playlist	GenreDiv	2
+98	chorus-playlist	MoodSame	5
+98	chorus-playlist	MoodDiv	2
+98	chorus-playlist	SongOrder	2
+98	chorus-playlist	SongTop	2
+98	chorus-playlist	SongLast	2
+98	usual playlist	SongHit	2
+98	usual playlist	SongNew	2
+98	usual playlist	ArtistSame	1
+98	usual playlist	ArtistDiv	5
+98	usual playlist	GenreSame	5
+98	usual playlist	GenreDiv	2
+98	usual playlist	MoodSame	2
+98	usual playlist	MoodDiv	4
+98	usual playlist	SongOrder	5
+98	usual playlist	SongTop	5
+98	usual playlist	SongLast	2
+99	chorus-playlist	SongHit	4
+99	chorus-playlist	SongNew	4
+99	chorus-playlist	ArtistSame	4
+99	chorus-playlist	ArtistDiv	4
+99	chorus-playlist	GenreSame	4
+99	chorus-playlist	GenreDiv	3
+99	chorus-playlist	MoodSame	4
+99	chorus-playlist	MoodDiv	3
+99	chorus-playlist	SongOrder	4
+99	chorus-playlist	SongTop	4
+99	chorus-playlist	SongLast	4
+99	usual playlist	SongHit	3
+99	usual playlist	SongNew	3
+99	usual playlist	ArtistSame	3
+99	usual playlist	ArtistDiv	3
+99	usual playlist	GenreSame	3
+99	usual playlist	GenreDiv	2
+99	usual playlist	MoodSame	3
+99	usual playlist	MoodDiv	2
+99	usual playlist	SongOrder	3
+99	usual playlist	SongTop	3
+99	usual playlist	SongLast	3
+100	chorus-playlist	SongHit	5
+100	chorus-playlist	SongNew	2
+100	chorus-playlist	ArtistSame	2
+100	chorus-playlist	ArtistDiv	4
+100	chorus-playlist	GenreSame	5
+100	chorus-playlist	GenreDiv	4
+100	chorus-playlist	MoodSame	5
+100	chorus-playlist	MoodDiv	3
+100	chorus-playlist	SongOrder	4
+100	chorus-playlist	SongTop	5
+100	chorus-playlist	SongLast	3
+100	usual playlist	SongHit	4
+100	usual playlist	SongNew	2
+100	usual playlist	ArtistSame	2
+100	usual playlist	ArtistDiv	2
+100	usual playlist	GenreSame	4
+100	usual playlist	GenreDiv	3
+100	usual playlist	MoodSame	5
+100	usual playlist	MoodDiv	4
+100	usual playlist	SongOrder	2
+100	usual playlist	SongTop	5
+100	usual playlist	SongLast	3
+101	chorus-playlist	SongHit	3
+101	chorus-playlist	SongNew	2
+101	chorus-playlist	ArtistSame	3
+101	chorus-playlist	ArtistDiv	3
+101	chorus-playlist	GenreSame	3
+101	chorus-playlist	GenreDiv	3
+101	chorus-playlist	MoodSame	2
+101	chorus-playlist	MoodDiv	2
+101	chorus-playlist	SongOrder	2
+101	chorus-playlist	SongTop	4
+101	chorus-playlist	SongLast	4
+101	usual playlist	SongHit	4
+101	usual playlist	SongNew	2
+101	usual playlist	ArtistSame	4
+101	usual playlist	ArtistDiv	4
+101	usual playlist	GenreSame	4
+101	usual playlist	GenreDiv	4
+101	usual playlist	MoodSame	2
+101	usual playlist	MoodDiv	2
+101	usual playlist	SongOrder	4
+101	usual playlist	SongTop	4
+101	usual playlist	SongLast	4
+102	chorus-playlist	SongHit	6
+102	chorus-playlist	SongNew	4
+102	chorus-playlist	ArtistSame	3
+102	chorus-playlist	ArtistDiv	3
+102	chorus-playlist	GenreSame	5
+102	chorus-playlist	GenreDiv	2
+102	chorus-playlist	MoodSame	4
+102	chorus-playlist	MoodDiv	2
+102	chorus-playlist	SongOrder	1
+102	chorus-playlist	SongTop	2
+102	chorus-playlist	SongLast	1
+102	usual playlist	SongHit	4
+102	usual playlist	SongNew	2
+102	usual playlist	ArtistSame	3
+102	usual playlist	ArtistDiv	2
+102	usual playlist	GenreSame	6
+102	usual playlist	GenreDiv	1
+102	usual playlist	MoodSame	2
+102	usual playlist	MoodDiv	3
+102	usual playlist	SongOrder	1
+102	usual playlist	SongTop	4
+102	usual playlist	SongLast	1
+103	chorus-playlist	SongHit	4
+103	chorus-playlist	SongNew	5
+103	chorus-playlist	ArtistSame	2
+103	chorus-playlist	ArtistDiv	3
+103	chorus-playlist	GenreSame	5
+103	chorus-playlist	GenreDiv	2
+103	chorus-playlist	MoodSame	5
+103	chorus-playlist	MoodDiv	2
+103	chorus-playlist	SongOrder	2
+103	chorus-playlist	SongTop	2
+103	chorus-playlist	SongLast	2
+103	usual playlist	SongHit	2
+103	usual playlist	SongNew	2
+103	usual playlist	ArtistSame	5
+103	usual playlist	ArtistDiv	4
+103	usual playlist	GenreSame	5
+103	usual playlist	GenreDiv	2
+103	usual playlist	MoodSame	6
+103	usual playlist	MoodDiv	2
+103	usual playlist	SongOrder	2
+103	usual playlist	SongTop	2
+103	usual playlist	SongLast	2
+104	chorus-playlist	SongHit	4
+104	chorus-playlist	SongNew	2
+104	chorus-playlist	ArtistSame	2
+104	chorus-playlist	ArtistDiv	4
+104	chorus-playlist	GenreSame	5
+104	chorus-playlist	GenreDiv	2
+104	chorus-playlist	MoodSame	4
+104	chorus-playlist	MoodDiv	2
+104	chorus-playlist	SongOrder	5
+104	chorus-playlist	SongTop	5
+104	chorus-playlist	SongLast	5
+104	usual playlist	SongHit	2
+104	usual playlist	SongNew	2
+104	usual playlist	ArtistSame	2
+104	usual playlist	ArtistDiv	2
+104	usual playlist	GenreSame	5
+104	usual playlist	GenreDiv	2
+104	usual playlist	MoodSame	4
+104	usual playlist	MoodDiv	2
+104	usual playlist	SongOrder	5
+104	usual playlist	SongTop	5
+104	usual playlist	SongLast	5
+105	chorus-playlist	SongHit	4
+105	chorus-playlist	SongNew	2
+105	chorus-playlist	ArtistSame	2
+105	chorus-playlist	ArtistDiv	3
+105	chorus-playlist	GenreSame	6
+105	chorus-playlist	GenreDiv	2
+105	chorus-playlist	MoodSame	5
+105	chorus-playlist	MoodDiv	2
+105	chorus-playlist	SongOrder	3
+105	chorus-playlist	SongTop	3
+105	chorus-playlist	SongLast	2
+105	usual playlist	SongHit	2
+105	usual playlist	SongNew	1
+105	usual playlist	ArtistSame	1
+105	usual playlist	ArtistDiv	3
+105	usual playlist	GenreSame	4
+105	usual playlist	GenreDiv	3
+105	usual playlist	MoodSame	4
+105	usual playlist	MoodDiv	4
+105	usual playlist	SongOrder	6
+105	usual playlist	SongTop	5
+105	usual playlist	SongLast	5
+106	chorus-playlist	SongHit	4
+106	chorus-playlist	SongNew	3
+106	chorus-playlist	ArtistSame	4
+106	chorus-playlist	ArtistDiv	4
+106	chorus-playlist	GenreSame	4
+106	chorus-playlist	GenreDiv	3
+106	chorus-playlist	MoodSame	4
+106	chorus-playlist	MoodDiv	3
+106	chorus-playlist	SongOrder	4
+106	chorus-playlist	SongTop	4
+106	chorus-playlist	SongLast	4
+106	usual playlist	SongHit	4
+106	usual playlist	SongNew	3
+106	usual playlist	ArtistSame	4
+106	usual playlist	ArtistDiv	4
+106	usual playlist	GenreSame	4
+106	usual playlist	GenreDiv	3
+106	usual playlist	MoodSame	4
+106	usual playlist	MoodDiv	3
+106	usual playlist	SongOrder	4
+106	usual playlist	SongTop	4
+106	usual playlist	SongLast	4
+107	chorus-playlist	SongHit	1
+107	chorus-playlist	SongNew	4
+107	chorus-playlist	ArtistSame	4
+107	chorus-playlist	ArtistDiv	5
+107	chorus-playlist	GenreSame	3
+107	chorus-playlist	GenreDiv	1
+107	chorus-playlist	MoodSame	1
+107	chorus-playlist	MoodDiv	1
+107	chorus-playlist	SongOrder	1
+107	chorus-playlist	SongTop	1
+107	chorus-playlist	SongLast	1
+107	usual playlist	SongHit	1
+107	usual playlist	SongNew	5
+107	usual playlist	ArtistSame	5
+107	usual playlist	ArtistDiv	5
+107	usual playlist	GenreSame	4
+107	usual playlist	GenreDiv	1
+107	usual playlist	MoodSame	1
+107	usual playlist	MoodDiv	1
+107	usual playlist	SongOrder	4
+107	usual playlist	SongTop	3
+107	usual playlist	SongLast	3
+108	chorus-playlist	SongHit	6
+108	chorus-playlist	SongNew	6
+108	chorus-playlist	ArtistSame	6
+108	chorus-playlist	ArtistDiv	6
+108	chorus-playlist	GenreSame	6
+108	chorus-playlist	GenreDiv	1
+108	chorus-playlist	MoodSame	2
+108	chorus-playlist	MoodDiv	1
+108	chorus-playlist	SongOrder	6
+108	chorus-playlist	SongTop	6
+108	chorus-playlist	SongLast	1
+108	usual playlist	SongHit	6
+108	usual playlist	SongNew	6
+108	usual playlist	ArtistSame	6
+108	usual playlist	ArtistDiv	6
+108	usual playlist	GenreSame	6
+108	usual playlist	GenreDiv	1
+108	usual playlist	MoodSame	2
+108	usual playlist	MoodDiv	1
+108	usual playlist	SongOrder	6
+108	usual playlist	SongTop	6
+108	usual playlist	SongLast	1
+109	chorus-playlist	SongHit	3
+109	chorus-playlist	SongNew	2
+109	chorus-playlist	ArtistSame	4
+109	chorus-playlist	ArtistDiv	2
+109	chorus-playlist	GenreSame	5
+109	chorus-playlist	GenreDiv	4
+109	chorus-playlist	MoodSame	5
+109	chorus-playlist	MoodDiv	5
+109	chorus-playlist	SongOrder	3
+109	chorus-playlist	SongTop	5
+109	chorus-playlist	SongLast	5
+109	usual playlist	SongHit	4
+109	usual playlist	SongNew	2
+109	usual playlist	ArtistSame	4
+109	usual playlist	ArtistDiv	2
+109	usual playlist	GenreSame	5
+109	usual playlist	GenreDiv	4
+109	usual playlist	MoodSame	5
+109	usual playlist	MoodDiv	5
+109	usual playlist	SongOrder	3
+109	usual playlist	SongTop	5
+109	usual playlist	SongLast	5
+110	chorus-playlist	SongHit	3
+110	chorus-playlist	SongNew	4
+110	chorus-playlist	ArtistSame	2
+110	chorus-playlist	ArtistDiv	4
+110	chorus-playlist	GenreSame	4
+110	chorus-playlist	GenreDiv	4
+110	chorus-playlist	MoodSame	4
+110	chorus-playlist	MoodDiv	4
+110	chorus-playlist	SongOrder	2
+110	chorus-playlist	SongTop	2
+110	chorus-playlist	SongLast	2
+110	usual playlist	SongHit	3
+110	usual playlist	SongNew	3
+110	usual playlist	ArtistSame	3
+110	usual playlist	ArtistDiv	3
+110	usual playlist	GenreSame	3
+110	usual playlist	GenreDiv	3
+110	usual playlist	MoodSame	3
+110	usual playlist	MoodDiv	3
+110	usual playlist	SongOrder	2
+110	usual playlist	SongTop	3
+110	usual playlist	SongLast	3
+111	chorus-playlist	SongHit	1
+111	chorus-playlist	SongNew	1
+111	chorus-playlist	ArtistSame	2
+111	chorus-playlist	ArtistDiv	2
+111	chorus-playlist	GenreSame	3
+111	chorus-playlist	GenreDiv	1
+111	chorus-playlist	MoodSame	5
+111	chorus-playlist	MoodDiv	1
+111	chorus-playlist	SongOrder	5
+111	chorus-playlist	SongTop	5
+111	chorus-playlist	SongLast	5
+111	usual playlist	SongHit	1
+111	usual playlist	SongNew	2
+111	usual playlist	ArtistSame	2
+111	usual playlist	ArtistDiv	1
+111	usual playlist	GenreSame	3
+111	usual playlist	GenreDiv	1
+111	usual playlist	MoodSame	4
+111	usual playlist	MoodDiv	1
+111	usual playlist	SongOrder	5
+111	usual playlist	SongTop	5
+111	usual playlist	SongLast	4
+112	chorus-playlist	SongHit	5
+112	chorus-playlist	SongNew	2
+112	chorus-playlist	ArtistSame	2
+112	chorus-playlist	ArtistDiv	5
+112	chorus-playlist	GenreSame	5
+112	chorus-playlist	GenreDiv	3
+112	chorus-playlist	MoodSame	5
+112	chorus-playlist	MoodDiv	2
+112	chorus-playlist	SongOrder	5
+112	chorus-playlist	SongTop	6
+112	chorus-playlist	SongLast	2
+112	usual playlist	SongHit	2
+112	usual playlist	SongNew	1
+112	usual playlist	ArtistSame	3
+112	usual playlist	ArtistDiv	3
+112	usual playlist	GenreSame	1
+112	usual playlist	GenreDiv	5
+112	usual playlist	MoodSame	2
+112	usual playlist	MoodDiv	5
+112	usual playlist	SongOrder	3
+112	usual playlist	SongTop	5
+112	usual playlist	SongLast	2
+113	chorus-playlist	SongHit	3
+113	chorus-playlist	SongNew	3
+113	chorus-playlist	ArtistSame	2
+113	chorus-playlist	ArtistDiv	4
+113	chorus-playlist	GenreSame	5
+113	chorus-playlist	GenreDiv	2
+113	chorus-playlist	MoodSame	6
+113	chorus-playlist	MoodDiv	2
+113	chorus-playlist	SongOrder	5
+113	chorus-playlist	SongTop	5
+113	chorus-playlist	SongLast	4
+113	usual playlist	SongHit	3
+113	usual playlist	SongNew	3
+113	usual playlist	ArtistSame	2
+113	usual playlist	ArtistDiv	4
+113	usual playlist	GenreSame	3
+113	usual playlist	GenreDiv	4
+113	usual playlist	MoodSame	2
+113	usual playlist	MoodDiv	4
+113	usual playlist	SongOrder	5
+113	usual playlist	SongTop	5
+113	usual playlist	SongLast	3
+114	chorus-playlist	SongHit	4
+114	chorus-playlist	SongNew	4
+114	chorus-playlist	ArtistSame	2
+114	chorus-playlist	ArtistDiv	5
+114	chorus-playlist	GenreSame	3
+114	chorus-playlist	GenreDiv	6
+114	chorus-playlist	MoodSame	2
+114	chorus-playlist	MoodDiv	6
+114	chorus-playlist	SongOrder	3
+114	chorus-playlist	SongTop	3
+114	chorus-playlist	SongLast	3
+114	usual playlist	SongHit	4
+114	usual playlist	SongNew	4
+114	usual playlist	ArtistSame	6
+114	usual playlist	ArtistDiv	5
+114	usual playlist	GenreSame	3
+114	usual playlist	GenreDiv	3
+114	usual playlist	MoodSame	2
+114	usual playlist	MoodDiv	4
+114	usual playlist	SongOrder	5
+114	usual playlist	SongTop	4
+114	usual playlist	SongLast	3
+115	chorus-playlist	SongHit	2
+115	chorus-playlist	SongNew	4
+115	chorus-playlist	ArtistSame	5
+115	chorus-playlist	ArtistDiv	2
+115	chorus-playlist	GenreSame	4
+115	chorus-playlist	GenreDiv	3
+115	chorus-playlist	MoodSame	5
+115	chorus-playlist	MoodDiv	3
+115	chorus-playlist	SongOrder	6
+115	chorus-playlist	SongTop	5
+115	chorus-playlist	SongLast	1
+115	usual playlist	SongHit	2
+115	usual playlist	SongNew	2
+115	usual playlist	ArtistSame	5
+115	usual playlist	ArtistDiv	2
+115	usual playlist	GenreSame	2
+115	usual playlist	GenreDiv	2
+115	usual playlist	MoodSame	4
+115	usual playlist	MoodDiv	2
+115	usual playlist	SongOrder	2
+115	usual playlist	SongTop	6
+115	usual playlist	SongLast	2
+116	chorus-playlist	SongHit	1
+116	chorus-playlist	SongNew	2
+116	chorus-playlist	ArtistSame	4
+116	chorus-playlist	ArtistDiv	2
+116	chorus-playlist	GenreSame	1
+116	chorus-playlist	GenreDiv	1
+116	chorus-playlist	MoodSame	1
+116	chorus-playlist	MoodDiv	1
+116	chorus-playlist	SongOrder	4
+116	chorus-playlist	SongTop	1
+116	chorus-playlist	SongLast	1
+116	usual playlist	SongHit	1
+116	usual playlist	SongNew	2
+116	usual playlist	ArtistSame	2
+116	usual playlist	ArtistDiv	4
+116	usual playlist	GenreSame	1
+116	usual playlist	GenreDiv	1
+116	usual playlist	MoodSame	1
+116	usual playlist	MoodDiv	1
+116	usual playlist	SongOrder	1
+116	usual playlist	SongTop	1
+116	usual playlist	SongLast	1
+117	chorus-playlist	SongHit	1
+117	chorus-playlist	SongNew	1
+117	chorus-playlist	ArtistSame	2
+117	chorus-playlist	ArtistDiv	5
+117	chorus-playlist	GenreSame	5
+117	chorus-playlist	GenreDiv	2
+117	chorus-playlist	MoodSame	3
+117	chorus-playlist	MoodDiv	4
+117	chorus-playlist	SongOrder	6
+117	chorus-playlist	SongTop	6
+117	chorus-playlist	SongLast	6
+117	usual playlist	SongHit	1
+117	usual playlist	SongNew	1
+117	usual playlist	ArtistSame	2
+117	usual playlist	ArtistDiv	5
+117	usual playlist	GenreSame	5
+117	usual playlist	GenreDiv	2
+117	usual playlist	MoodSame	3
+117	usual playlist	MoodDiv	4
+117	usual playlist	SongOrder	6
+117	usual playlist	SongTop	6
+117	usual playlist	SongLast	6
+118	chorus-playlist	SongHit	3
+118	chorus-playlist	SongNew	3
+118	chorus-playlist	ArtistSame	5
+118	chorus-playlist	ArtistDiv	3
+118	chorus-playlist	GenreSame	6
+118	chorus-playlist	GenreDiv	2
+118	chorus-playlist	MoodSame	5
+118	chorus-playlist	MoodDiv	5
+118	chorus-playlist	SongOrder	5
+118	chorus-playlist	SongTop	2
+118	chorus-playlist	SongLast	2
+118	usual playlist	SongHit	2
+118	usual playlist	SongNew	2
+118	usual playlist	ArtistSame	5
+118	usual playlist	ArtistDiv	3
+118	usual playlist	GenreSame	6
+118	usual playlist	GenreDiv	2
+118	usual playlist	MoodSame	6
+118	usual playlist	MoodDiv	5
+118	usual playlist	SongOrder	6
+118	usual playlist	SongTop	1
+118	usual playlist	SongLast	1
+119	chorus-playlist	SongHit	5
+119	chorus-playlist	SongNew	2
+119	chorus-playlist	ArtistSame	6
+119	chorus-playlist	ArtistDiv	6
+119	chorus-playlist	GenreSame	6
+119	chorus-playlist	GenreDiv	6
+119	chorus-playlist	MoodSame	5
+119	chorus-playlist	MoodDiv	6
+119	chorus-playlist	SongOrder	6
+119	chorus-playlist	SongTop	4
+119	chorus-playlist	SongLast	2
+119	usual playlist	SongHit	4
+119	usual playlist	SongNew	6
+119	usual playlist	ArtistSame	3
+119	usual playlist	ArtistDiv	6
+119	usual playlist	GenreSame	2
+119	usual playlist	GenreDiv	2
+119	usual playlist	MoodSame	6
+119	usual playlist	MoodDiv	5
+119	usual playlist	SongOrder	5
+119	usual playlist	SongTop	6
+119	usual playlist	SongLast	2
+120	chorus-playlist	SongHit	5
+120	chorus-playlist	SongNew	6
+120	chorus-playlist	ArtistSame	2
+120	chorus-playlist	ArtistDiv	6
+120	chorus-playlist	GenreSame	6
+120	chorus-playlist	GenreDiv	2
+120	chorus-playlist	MoodSame	6
+120	chorus-playlist	MoodDiv	2
+120	chorus-playlist	SongOrder	2
+120	chorus-playlist	SongTop	6
+120	chorus-playlist	SongLast	5
+120	usual playlist	SongHit	2
+120	usual playlist	SongNew	1
+120	usual playlist	ArtistSame	4
+120	usual playlist	ArtistDiv	2
+120	usual playlist	GenreSame	1
+120	usual playlist	GenreDiv	3
+120	usual playlist	MoodSame	5
+120	usual playlist	MoodDiv	3
+120	usual playlist	SongOrder	4
+120	usual playlist	SongTop	5
+120	usual playlist	SongLast	6
+121	chorus-playlist	SongHit	4
+121	chorus-playlist	SongNew	4
+121	chorus-playlist	ArtistSame	1
+121	chorus-playlist	ArtistDiv	4
+121	chorus-playlist	GenreSame	4
+121	chorus-playlist	GenreDiv	2
+121	chorus-playlist	MoodSame	4
+121	chorus-playlist	MoodDiv	3
+121	chorus-playlist	SongOrder	5
+121	chorus-playlist	SongTop	5
+121	chorus-playlist	SongLast	5
+121	usual playlist	SongHit	1
+121	usual playlist	SongNew	1
+121	usual playlist	ArtistSame	1
+121	usual playlist	ArtistDiv	1
+121	usual playlist	GenreSame	1
+121	usual playlist	GenreDiv	2
+121	usual playlist	MoodSame	1
+121	usual playlist	MoodDiv	2
+121	usual playlist	SongOrder	5
+121	usual playlist	SongTop	5
+121	usual playlist	SongLast	5
+122	chorus-playlist	SongHit	6
+122	chorus-playlist	SongNew	5
+122	chorus-playlist	ArtistSame	1
+122	chorus-playlist	ArtistDiv	1
+122	chorus-playlist	GenreSame	5
+122	chorus-playlist	GenreDiv	2
+122	chorus-playlist	MoodSame	1
+122	chorus-playlist	MoodDiv	1
+122	chorus-playlist	SongOrder	4
+122	chorus-playlist	SongTop	5
+122	chorus-playlist	SongLast	3
+122	usual playlist	SongHit	4
+122	usual playlist	SongNew	3
+122	usual playlist	ArtistSame	1
+122	usual playlist	ArtistDiv	1
+122	usual playlist	GenreSame	5
+122	usual playlist	GenreDiv	2
+122	usual playlist	MoodSame	3
+122	usual playlist	MoodDiv	3
+122	usual playlist	SongOrder	6
+122	usual playlist	SongTop	6
+122	usual playlist	SongLast	3
+123	chorus-playlist	SongHit	6
+123	chorus-playlist	SongNew	4
+123	chorus-playlist	ArtistSame	2
+123	chorus-playlist	ArtistDiv	5
+123	chorus-playlist	GenreSame	2
+123	chorus-playlist	GenreDiv	5
+123	chorus-playlist	MoodSame	1
+123	chorus-playlist	MoodDiv	5
+123	chorus-playlist	SongOrder	2
+123	chorus-playlist	SongTop	5
+123	chorus-playlist	SongLast	5
+123	usual playlist	SongHit	5
+123	usual playlist	SongNew	2
+123	usual playlist	ArtistSame	5
+123	usual playlist	ArtistDiv	3
+123	usual playlist	GenreSame	2
+123	usual playlist	GenreDiv	4
+123	usual playlist	MoodSame	1
+123	usual playlist	MoodDiv	5
+123	usual playlist	SongOrder	3
+123	usual playlist	SongTop	4
+123	usual playlist	SongLast	6
+124	chorus-playlist	SongHit	5
+124	chorus-playlist	SongNew	5
+124	chorus-playlist	ArtistSame	3
+124	chorus-playlist	ArtistDiv	5
+124	chorus-playlist	GenreSame	6
+124	chorus-playlist	GenreDiv	4
+124	chorus-playlist	MoodSame	6
+124	chorus-playlist	MoodDiv	4
+124	chorus-playlist	SongOrder	2
+124	chorus-playlist	SongTop	5
+124	chorus-playlist	SongLast	3
+124	usual playlist	SongHit	5
+124	usual playlist	SongNew	5
+124	usual playlist	ArtistSame	5
+124	usual playlist	ArtistDiv	4
+124	usual playlist	GenreSame	5
+124	usual playlist	GenreDiv	5
+124	usual playlist	MoodSame	5
+124	usual playlist	MoodDiv	5
+124	usual playlist	SongOrder	5
+124	usual playlist	SongTop	4
+124	usual playlist	SongLast	4
+125	chorus-playlist	SongHit	2
+125	chorus-playlist	SongNew	2
+125	chorus-playlist	ArtistSame	3
+125	chorus-playlist	ArtistDiv	4
+125	chorus-playlist	GenreSame	5
+125	chorus-playlist	GenreDiv	2
+125	chorus-playlist	MoodSame	5
+125	chorus-playlist	MoodDiv	2
+125	chorus-playlist	SongOrder	2
+125	chorus-playlist	SongTop	2
+125	chorus-playlist	SongLast	2
+125	usual playlist	SongHit	2
+125	usual playlist	SongNew	2
+125	usual playlist	ArtistSame	3
+125	usual playlist	ArtistDiv	4
+125	usual playlist	GenreSame	5
+125	usual playlist	GenreDiv	2
+125	usual playlist	MoodSame	5
+125	usual playlist	MoodDiv	2
+125	usual playlist	SongOrder	2
+125	usual playlist	SongTop	2
+125	usual playlist	SongLast	2
+126	chorus-playlist	SongHit	2
+126	chorus-playlist	SongNew	2
+126	chorus-playlist	ArtistSame	2
+126	chorus-playlist	ArtistDiv	4
+126	chorus-playlist	GenreSame	2
+126	chorus-playlist	GenreDiv	5
+126	chorus-playlist	MoodSame	2
+126	chorus-playlist	MoodDiv	5
+126	chorus-playlist	SongOrder	2
+126	chorus-playlist	SongTop	2
+126	chorus-playlist	SongLast	2
+126	usual playlist	SongHit	2
+126	usual playlist	SongNew	2
+126	usual playlist	ArtistSame	2
+126	usual playlist	ArtistDiv	4
+126	usual playlist	GenreSame	2
+126	usual playlist	GenreDiv	5
+126	usual playlist	MoodSame	2
+126	usual playlist	MoodDiv	5
+126	usual playlist	SongOrder	2
+126	usual playlist	SongTop	2
+126	usual playlist	SongLast	2
+127	chorus-playlist	SongHit	2
+127	chorus-playlist	SongNew	2
+127	chorus-playlist	ArtistSame	2
+127	chorus-playlist	ArtistDiv	4
+127	chorus-playlist	GenreSame	5
+127	chorus-playlist	GenreDiv	4
+127	chorus-playlist	MoodSame	5
+127	chorus-playlist	MoodDiv	4
+127	chorus-playlist	SongOrder	2
+127	chorus-playlist	SongTop	2
+127	chorus-playlist	SongLast	2
+127	usual playlist	SongHit	2
+127	usual playlist	SongNew	2
+127	usual playlist	ArtistSame	2
+127	usual playlist	ArtistDiv	4
+127	usual playlist	GenreSame	5
+127	usual playlist	GenreDiv	4
+127	usual playlist	MoodSame	5
+127	usual playlist	MoodDiv	4
+127	usual playlist	SongOrder	2
+127	usual playlist	SongTop	2
+127	usual playlist	SongLast	2
+128	chorus-playlist	SongHit	5
+128	chorus-playlist	SongNew	4
+128	chorus-playlist	ArtistSame	3
+128	chorus-playlist	ArtistDiv	6
+128	chorus-playlist	GenreSame	4
+128	chorus-playlist	GenreDiv	4
+128	chorus-playlist	MoodSame	4
+128	chorus-playlist	MoodDiv	3
+128	chorus-playlist	SongOrder	5
+128	chorus-playlist	SongTop	5
+128	chorus-playlist	SongLast	1
+128	usual playlist	SongHit	3
+128	usual playlist	SongNew	3
+128	usual playlist	ArtistSame	3
+128	usual playlist	ArtistDiv	4
+128	usual playlist	GenreSame	4
+128	usual playlist	GenreDiv	4
+128	usual playlist	MoodSame	4
+128	usual playlist	MoodDiv	4
+128	usual playlist	SongOrder	5
+128	usual playlist	SongTop	5
+128	usual playlist	SongLast	2
+129	chorus-playlist	SongHit	2
+129	chorus-playlist	SongNew	2
+129	chorus-playlist	ArtistSame	2
+129	chorus-playlist	ArtistDiv	4
+129	chorus-playlist	GenreSame	5
+129	chorus-playlist	GenreDiv	2
+129	chorus-playlist	MoodSame	4
+129	chorus-playlist	MoodDiv	2
+129	chorus-playlist	SongOrder	2
+129	chorus-playlist	SongTop	2
+129	chorus-playlist	SongLast	2
+129	usual playlist	SongHit	2
+129	usual playlist	SongNew	2
+129	usual playlist	ArtistSame	3
+129	usual playlist	ArtistDiv	4
+129	usual playlist	GenreSame	5
+129	usual playlist	GenreDiv	2
+129	usual playlist	MoodSame	5
+129	usual playlist	MoodDiv	2
+129	usual playlist	SongOrder	4
+129	usual playlist	SongTop	4
+129	usual playlist	SongLast	2
+130	chorus-playlist	SongHit	2
+130	chorus-playlist	SongNew	1
+130	chorus-playlist	ArtistSame	2
+130	chorus-playlist	ArtistDiv	4
+130	chorus-playlist	GenreSame	5
+130	chorus-playlist	GenreDiv	2
+130	chorus-playlist	MoodSame	5
+130	chorus-playlist	MoodDiv	2
+130	chorus-playlist	SongOrder	2
+130	chorus-playlist	SongTop	2
+130	chorus-playlist	SongLast	2
+130	usual playlist	SongHit	2
+130	usual playlist	SongNew	1
+130	usual playlist	ArtistSame	4
+130	usual playlist	ArtistDiv	4
+130	usual playlist	GenreSame	5
+130	usual playlist	GenreDiv	3
+130	usual playlist	MoodSame	5
+130	usual playlist	MoodDiv	3
+130	usual playlist	SongOrder	2
+130	usual playlist	SongTop	2
+130	usual playlist	SongLast	2
+131	chorus-playlist	SongHit	4
+131	chorus-playlist	SongNew	2
+131	chorus-playlist	ArtistSame	1
+131	chorus-playlist	ArtistDiv	5
+131	chorus-playlist	GenreSame	4
+131	chorus-playlist	GenreDiv	1
+131	chorus-playlist	MoodSame	4
+131	chorus-playlist	MoodDiv	2
+131	chorus-playlist	SongOrder	2
+131	chorus-playlist	SongTop	4
+131	chorus-playlist	SongLast	2
+131	usual playlist	SongHit	2
+131	usual playlist	SongNew	2
+131	usual playlist	ArtistSame	1
+131	usual playlist	ArtistDiv	3
+131	usual playlist	GenreSame	4
+131	usual playlist	GenreDiv	1
+131	usual playlist	MoodSame	2
+131	usual playlist	MoodDiv	2
+131	usual playlist	SongOrder	2
+131	usual playlist	SongTop	4
+131	usual playlist	SongLast	2
+132	chorus-playlist	SongHit	6
+132	chorus-playlist	SongNew	6
+132	chorus-playlist	ArtistSame	3
+132	chorus-playlist	ArtistDiv	6
+132	chorus-playlist	GenreSame	4
+132	chorus-playlist	GenreDiv	6
+132	chorus-playlist	MoodSame	5
+132	chorus-playlist	MoodDiv	2
+132	chorus-playlist	SongOrder	6
+132	chorus-playlist	SongTop	1
+132	chorus-playlist	SongLast	1
+132	usual playlist	SongHit	5
+132	usual playlist	SongNew	6
+132	usual playlist	ArtistSame	5
+132	usual playlist	ArtistDiv	6
+132	usual playlist	GenreSame	4
+132	usual playlist	GenreDiv	6
+132	usual playlist	MoodSame	5
+132	usual playlist	MoodDiv	2
+132	usual playlist	SongOrder	6
+132	usual playlist	SongTop	1
+132	usual playlist	SongLast	1
+133	chorus-playlist	SongHit	1
+133	chorus-playlist	SongNew	1
+133	chorus-playlist	ArtistSame	5
+133	chorus-playlist	ArtistDiv	5
+133	chorus-playlist	GenreSame	2
+133	chorus-playlist	GenreDiv	5
+133	chorus-playlist	MoodSame	4
+133	chorus-playlist	MoodDiv	5
+133	chorus-playlist	SongOrder	2
+133	chorus-playlist	SongTop	2
+133	chorus-playlist	SongLast	1
+133	usual playlist	SongHit	1
+133	usual playlist	SongNew	1
+133	usual playlist	ArtistSame	3
+133	usual playlist	ArtistDiv	5
+133	usual playlist	GenreSame	5
+133	usual playlist	GenreDiv	2
+133	usual playlist	MoodSame	5
+133	usual playlist	MoodDiv	2
+133	usual playlist	SongOrder	5
+133	usual playlist	SongTop	4
+133	usual playlist	SongLast	1
+134	chorus-playlist	SongHit	4
+134	chorus-playlist	SongNew	5
+134	chorus-playlist	ArtistSame	4
+134	chorus-playlist	ArtistDiv	3
+134	chorus-playlist	GenreSame	5
+134	chorus-playlist	GenreDiv	3
+134	chorus-playlist	MoodSame	4
+134	chorus-playlist	MoodDiv	4
+134	chorus-playlist	SongOrder	5
+134	chorus-playlist	SongTop	5
+134	chorus-playlist	SongLast	5
+134	usual playlist	SongHit	2
+134	usual playlist	SongNew	2
+134	usual playlist	ArtistSame	1
+134	usual playlist	ArtistDiv	6
+134	usual playlist	GenreSame	5
+134	usual playlist	GenreDiv	5
+134	usual playlist	MoodSame	5
+134	usual playlist	MoodDiv	4
+134	usual playlist	SongOrder	6
+134	usual playlist	SongTop	6
+134	usual playlist	SongLast	6
+135	chorus-playlist	SongHit	5
+135	chorus-playlist	SongNew	3
+135	chorus-playlist	ArtistSame	5
+135	chorus-playlist	ArtistDiv	2
+135	chorus-playlist	GenreSame	5
+135	chorus-playlist	GenreDiv	1
+135	chorus-playlist	MoodSame	1
+135	chorus-playlist	MoodDiv	5
+135	chorus-playlist	SongOrder	1
+135	chorus-playlist	SongTop	2
+135	chorus-playlist	SongLast	2
+135	usual playlist	SongHit	6
+135	usual playlist	SongNew	2
+135	usual playlist	ArtistSame	5
+135	usual playlist	ArtistDiv	3
+135	usual playlist	GenreSame	6
+135	usual playlist	GenreDiv	3
+135	usual playlist	MoodSame	2
+135	usual playlist	MoodDiv	6
+135	usual playlist	SongOrder	5
+135	usual playlist	SongTop	3
+135	usual playlist	SongLast	3
+136	chorus-playlist	SongHit	5
+136	chorus-playlist	SongNew	6
+136	chorus-playlist	ArtistSame	2
+136	chorus-playlist	ArtistDiv	5
+136	chorus-playlist	GenreSame	3
+136	chorus-playlist	GenreDiv	5
+136	chorus-playlist	MoodSame	3
+136	chorus-playlist	MoodDiv	5
+136	chorus-playlist	SongOrder	4
+136	chorus-playlist	SongTop	4
+136	chorus-playlist	SongLast	5
+136	usual playlist	SongHit	6
+136	usual playlist	SongNew	5
+136	usual playlist	ArtistSame	1
+136	usual playlist	ArtistDiv	6
+136	usual playlist	GenreSame	3
+136	usual playlist	GenreDiv	5
+136	usual playlist	MoodSame	4
+136	usual playlist	MoodDiv	5
+136	usual playlist	SongOrder	5
+136	usual playlist	SongTop	4
+136	usual playlist	SongLast	5
+137	chorus-playlist	SongHit	1
+137	chorus-playlist	SongNew	1
+137	chorus-playlist	ArtistSame	3
+137	chorus-playlist	ArtistDiv	4
+137	chorus-playlist	GenreSame	6
+137	chorus-playlist	GenreDiv	4
+137	chorus-playlist	MoodSame	5
+137	chorus-playlist	MoodDiv	3
+137	chorus-playlist	SongOrder	2
+137	chorus-playlist	SongTop	5
+137	chorus-playlist	SongLast	2
+137	usual playlist	SongHit	1
+137	usual playlist	SongNew	1
+137	usual playlist	ArtistSame	5
+137	usual playlist	ArtistDiv	2
+137	usual playlist	GenreSame	6
+137	usual playlist	GenreDiv	2
+137	usual playlist	MoodSame	5
+137	usual playlist	MoodDiv	3
+137	usual playlist	SongOrder	3
+137	usual playlist	SongTop	5
+137	usual playlist	SongLast	2
+138	chorus-playlist	SongHit	5
+138	chorus-playlist	SongNew	5
+138	chorus-playlist	ArtistSame	2
+138	chorus-playlist	ArtistDiv	5
+138	chorus-playlist	GenreSame	3
+138	chorus-playlist	GenreDiv	3
+138	chorus-playlist	MoodSame	2
+138	chorus-playlist	MoodDiv	2
+138	chorus-playlist	SongOrder	2
+138	chorus-playlist	SongTop	2
+138	chorus-playlist	SongLast	4
+138	usual playlist	SongHit	4
+138	usual playlist	SongNew	3
+138	usual playlist	ArtistSame	4
+138	usual playlist	ArtistDiv	4
+138	usual playlist	GenreSame	4
+138	usual playlist	GenreDiv	3
+138	usual playlist	MoodSame	5
+138	usual playlist	MoodDiv	2
+138	usual playlist	SongOrder	4
+138	usual playlist	SongTop	5
+138	usual playlist	SongLast	2
+139	chorus-playlist	SongHit	1
+139	chorus-playlist	SongNew	2
+139	chorus-playlist	ArtistSame	3
+139	chorus-playlist	ArtistDiv	4
+139	chorus-playlist	GenreSame	1
+139	chorus-playlist	GenreDiv	4
+139	chorus-playlist	MoodSame	4
+139	chorus-playlist	MoodDiv	2
+139	chorus-playlist	SongOrder	5
+139	chorus-playlist	SongTop	4
+139	chorus-playlist	SongLast	4
+139	usual playlist	SongHit	1
+139	usual playlist	SongNew	4
+139	usual playlist	ArtistSame	3
+139	usual playlist	ArtistDiv	4
+139	usual playlist	GenreSame	1
+139	usual playlist	GenreDiv	4
+139	usual playlist	MoodSame	4
+139	usual playlist	MoodDiv	2
+139	usual playlist	SongOrder	5
+139	usual playlist	SongTop	4
+139	usual playlist	SongLast	4
+140	chorus-playlist	SongHit	3
+140	chorus-playlist	SongNew	2
+140	chorus-playlist	ArtistSame	4
+140	chorus-playlist	ArtistDiv	3
+140	chorus-playlist	GenreSame	4
+140	chorus-playlist	GenreDiv	2
+140	chorus-playlist	MoodSame	4
+140	chorus-playlist	MoodDiv	3
+140	chorus-playlist	SongOrder	4
+140	chorus-playlist	SongTop	4
+140	chorus-playlist	SongLast	3
+140	usual playlist	SongHit	2
+140	usual playlist	SongNew	2
+140	usual playlist	ArtistSame	4
+140	usual playlist	ArtistDiv	3
+140	usual playlist	GenreSame	3
+140	usual playlist	GenreDiv	2
+140	usual playlist	MoodSame	4
+140	usual playlist	MoodDiv	3
+140	usual playlist	SongOrder	4
+140	usual playlist	SongTop	4
+140	usual playlist	SongLast	3
+141	chorus-playlist	SongHit	5
+141	chorus-playlist	SongNew	3
+141	chorus-playlist	ArtistSame	5
+141	chorus-playlist	ArtistDiv	5
+141	chorus-playlist	GenreSame	6
+141	chorus-playlist	GenreDiv	3
+141	chorus-playlist	MoodSame	2
+141	chorus-playlist	MoodDiv	3
+141	chorus-playlist	SongOrder	3
+141	chorus-playlist	SongTop	2
+141	chorus-playlist	SongLast	1
+141	usual playlist	SongHit	5
+141	usual playlist	SongNew	3
+141	usual playlist	ArtistSame	5
+141	usual playlist	ArtistDiv	4
+141	usual playlist	GenreSame	6
+141	usual playlist	GenreDiv	1
+141	usual playlist	MoodSame	5
+141	usual playlist	MoodDiv	2
+141	usual playlist	SongOrder	5
+141	usual playlist	SongTop	5
+141	usual playlist	SongLast	2
+142	chorus-playlist	SongHit	6
+142	chorus-playlist	SongNew	5
+142	chorus-playlist	ArtistSame	2
+142	chorus-playlist	ArtistDiv	6
+142	chorus-playlist	GenreSame	5
+142	chorus-playlist	GenreDiv	5
+142	chorus-playlist	MoodSame	2
+142	chorus-playlist	MoodDiv	4
+142	chorus-playlist	SongOrder	1
+142	chorus-playlist	SongTop	1
+142	chorus-playlist	SongLast	1
+142	usual playlist	SongHit	6
+142	usual playlist	SongNew	5
+142	usual playlist	ArtistSame	1
+142	usual playlist	ArtistDiv	6
+142	usual playlist	GenreSame	3
+142	usual playlist	GenreDiv	6
+142	usual playlist	MoodSame	2
+142	usual playlist	MoodDiv	2
+142	usual playlist	SongOrder	1
+142	usual playlist	SongTop	1
+142	usual playlist	SongLast	1
+143	chorus-playlist	SongHit	2
+143	chorus-playlist	SongNew	2
+143	chorus-playlist	ArtistSame	3
+143	chorus-playlist	ArtistDiv	5
+143	chorus-playlist	GenreSame	2
+143	chorus-playlist	GenreDiv	5
+143	chorus-playlist	MoodSame	2
+143	chorus-playlist	MoodDiv	5
+143	chorus-playlist	SongOrder	3
+143	chorus-playlist	SongTop	2
+143	chorus-playlist	SongLast	2
+143	usual playlist	SongHit	2
+143	usual playlist	SongNew	2
+143	usual playlist	ArtistSame	2
+143	usual playlist	ArtistDiv	5
+143	usual playlist	GenreSame	2
+143	usual playlist	GenreDiv	5
+143	usual playlist	MoodSame	1
+143	usual playlist	MoodDiv	5
+143	usual playlist	SongOrder	3
+143	usual playlist	SongTop	2
+143	usual playlist	SongLast	2
+144	chorus-playlist	SongHit	4
+144	chorus-playlist	SongNew	4
+144	chorus-playlist	ArtistSame	4
+144	chorus-playlist	ArtistDiv	2
+144	chorus-playlist	GenreSame	2
+144	chorus-playlist	GenreDiv	2
+144	chorus-playlist	MoodSame	3
+144	chorus-playlist	MoodDiv	2
+144	chorus-playlist	SongOrder	4
+144	chorus-playlist	SongTop	5
+144	chorus-playlist	SongLast	5
+144	usual playlist	SongHit	3
+144	usual playlist	SongNew	1
+144	usual playlist	ArtistSame	2
+144	usual playlist	ArtistDiv	3
+144	usual playlist	GenreSame	2
+144	usual playlist	GenreDiv	2
+144	usual playlist	MoodSame	3
+144	usual playlist	MoodDiv	2
+144	usual playlist	SongOrder	6
+144	usual playlist	SongTop	6
+144	usual playlist	SongLast	6
+145	chorus-playlist	SongHit	3
+145	chorus-playlist	SongNew	3
+145	chorus-playlist	ArtistSame	2
+145	chorus-playlist	ArtistDiv	5
+145	chorus-playlist	GenreSame	3
+145	chorus-playlist	GenreDiv	6
+145	chorus-playlist	MoodSame	2
+145	chorus-playlist	MoodDiv	6
+145	chorus-playlist	SongOrder	5
+145	chorus-playlist	SongTop	6
+145	chorus-playlist	SongLast	4
+145	usual playlist	SongHit	3
+145	usual playlist	SongNew	2
+145	usual playlist	ArtistSame	2
+145	usual playlist	ArtistDiv	5
+145	usual playlist	GenreSame	3
+145	usual playlist	GenreDiv	5
+145	usual playlist	MoodSame	2
+145	usual playlist	MoodDiv	4
+145	usual playlist	SongOrder	6
+145	usual playlist	SongTop	6
+145	usual playlist	SongLast	5
+146	chorus-playlist	SongHit	5
+146	chorus-playlist	SongNew	4
+146	chorus-playlist	ArtistSame	4
+146	chorus-playlist	ArtistDiv	5
+146	chorus-playlist	GenreSame	5
+146	chorus-playlist	GenreDiv	6
+146	chorus-playlist	MoodSame	5
+146	chorus-playlist	MoodDiv	3
+146	chorus-playlist	SongOrder	5
+146	chorus-playlist	SongTop	5
+146	chorus-playlist	SongLast	4
+146	usual playlist	SongHit	4
+146	usual playlist	SongNew	6
+146	usual playlist	ArtistSame	6
+146	usual playlist	ArtistDiv	6
+146	usual playlist	GenreSame	6
+146	usual playlist	GenreDiv	5
+146	usual playlist	MoodSame	5
+146	usual playlist	MoodDiv	6
+146	usual playlist	SongOrder	5
+146	usual playlist	SongTop	5
+146	usual playlist	SongLast	6
+147	chorus-playlist	SongHit	6
+147	chorus-playlist	SongNew	6
+147	chorus-playlist	ArtistSame	5
+147	chorus-playlist	ArtistDiv	6
+147	chorus-playlist	GenreSame	6
+147	chorus-playlist	GenreDiv	5
+147	chorus-playlist	MoodSame	4
+147	chorus-playlist	MoodDiv	5
+147	chorus-playlist	SongOrder	2
+147	chorus-playlist	SongTop	2
+147	chorus-playlist	SongLast	2
+147	usual playlist	SongHit	3
+147	usual playlist	SongNew	3
+147	usual playlist	ArtistSame	5
+147	usual playlist	ArtistDiv	3
+147	usual playlist	GenreSame	5
+147	usual playlist	GenreDiv	2
+147	usual playlist	MoodSame	6
+147	usual playlist	MoodDiv	2
+147	usual playlist	SongOrder	6
+147	usual playlist	SongTop	6
+147	usual playlist	SongLast	5
+148	chorus-playlist	SongHit	4
+148	chorus-playlist	SongNew	5
+148	chorus-playlist	ArtistSame	1
+148	chorus-playlist	ArtistDiv	5
+148	chorus-playlist	GenreSame	3
+148	chorus-playlist	GenreDiv	5
+148	chorus-playlist	MoodSame	2
+148	chorus-playlist	MoodDiv	4
+148	chorus-playlist	SongOrder	1
+148	chorus-playlist	SongTop	2
+148	chorus-playlist	SongLast	1
+148	usual playlist	SongHit	3
+148	usual playlist	SongNew	3
+148	usual playlist	ArtistSame	4
+148	usual playlist	ArtistDiv	2
+148	usual playlist	GenreSame	5
+148	usual playlist	GenreDiv	2
+148	usual playlist	MoodSame	2
+148	usual playlist	MoodDiv	2
+148	usual playlist	SongOrder	4
+148	usual playlist	SongTop	4
+148	usual playlist	SongLast	1
+149	chorus-playlist	SongHit	1
+149	chorus-playlist	SongNew	1
+149	chorus-playlist	ArtistSame	3
+149	chorus-playlist	ArtistDiv	1
+149	chorus-playlist	GenreSame	3
+149	chorus-playlist	GenreDiv	1
+149	chorus-playlist	MoodSame	3
+149	chorus-playlist	MoodDiv	1
+149	chorus-playlist	SongOrder	4
+149	chorus-playlist	SongTop	5
+149	chorus-playlist	SongLast	4
+149	usual playlist	SongHit	1
+149	usual playlist	SongNew	1
+149	usual playlist	ArtistSame	3
+149	usual playlist	ArtistDiv	1
+149	usual playlist	GenreSame	5
+149	usual playlist	GenreDiv	1
+149	usual playlist	MoodSame	4
+149	usual playlist	MoodDiv	1
+149	usual playlist	SongOrder	4
+149	usual playlist	SongTop	5
+149	usual playlist	SongLast	4
+150	chorus-playlist	SongHit	5
+150	chorus-playlist	SongNew	5
+150	chorus-playlist	ArtistSame	2
+150	chorus-playlist	ArtistDiv	5
+150	chorus-playlist	GenreSame	4
+150	chorus-playlist	GenreDiv	3
+150	chorus-playlist	MoodSame	3
+150	chorus-playlist	MoodDiv	3
+150	chorus-playlist	SongOrder	2
+150	chorus-playlist	SongTop	2
+150	chorus-playlist	SongLast	1
+150	usual playlist	SongHit	2
+150	usual playlist	SongNew	2
+150	usual playlist	ArtistSame	3
+150	usual playlist	ArtistDiv	2
+150	usual playlist	GenreSame	4
+150	usual playlist	GenreDiv	3
+150	usual playlist	MoodSame	2
+150	usual playlist	MoodDiv	3
+150	usual playlist	SongOrder	4
+150	usual playlist	SongTop	4
+150	usual playlist	SongLast	4
+151	chorus-playlist	SongHit	5
+151	chorus-playlist	SongNew	5
+151	chorus-playlist	ArtistSame	3
+151	chorus-playlist	ArtistDiv	3
+151	chorus-playlist	GenreSame	5
+151	chorus-playlist	GenreDiv	5
+151	chorus-playlist	MoodSame	5
+151	chorus-playlist	MoodDiv	2
+151	chorus-playlist	SongOrder	5
+151	chorus-playlist	SongTop	5
+151	chorus-playlist	SongLast	2
+151	usual playlist	SongHit	5
+151	usual playlist	SongNew	2
+151	usual playlist	ArtistSame	2
+151	usual playlist	ArtistDiv	3
+151	usual playlist	GenreSame	4
+151	usual playlist	GenreDiv	5
+151	usual playlist	MoodSame	3
+151	usual playlist	MoodDiv	2
+151	usual playlist	SongOrder	5
+151	usual playlist	SongTop	5
+151	usual playlist	SongLast	2
+152	chorus-playlist	SongHit	5
+152	chorus-playlist	SongNew	5
+152	chorus-playlist	ArtistSame	6
+152	chorus-playlist	ArtistDiv	5
+152	chorus-playlist	GenreSame	5
+152	chorus-playlist	GenreDiv	2
+152	chorus-playlist	MoodSame	5
+152	chorus-playlist	MoodDiv	3
+152	chorus-playlist	SongOrder	2
+152	chorus-playlist	SongTop	5
+152	chorus-playlist	SongLast	2
+152	usual playlist	SongHit	5
+152	usual playlist	SongNew	4
+152	usual playlist	ArtistSame	6
+152	usual playlist	ArtistDiv	5
+152	usual playlist	GenreSame	4
+152	usual playlist	GenreDiv	3
+152	usual playlist	MoodSame	4
+152	usual playlist	MoodDiv	3
+152	usual playlist	SongOrder	2
+152	usual playlist	SongTop	5
+152	usual playlist	SongLast	2
+153	chorus-playlist	SongHit	5
+153	chorus-playlist	SongNew	5
+153	chorus-playlist	ArtistSame	1
+153	chorus-playlist	ArtistDiv	3
+153	chorus-playlist	GenreSame	5
+153	chorus-playlist	GenreDiv	5
+153	chorus-playlist	MoodSame	6
+153	chorus-playlist	MoodDiv	4
+153	chorus-playlist	SongOrder	5
+153	chorus-playlist	SongTop	6
+153	chorus-playlist	SongLast	6
+153	usual playlist	SongHit	1
+153	usual playlist	SongNew	1
+153	usual playlist	ArtistSame	1
+153	usual playlist	ArtistDiv	3
+153	usual playlist	GenreSame	5
+153	usual playlist	GenreDiv	1
+153	usual playlist	MoodSame	4
+153	usual playlist	MoodDiv	2
+153	usual playlist	SongOrder	2
+153	usual playlist	SongTop	6
+153	usual playlist	SongLast	6
+154	chorus-playlist	SongHit	5
+154	chorus-playlist	SongNew	6
+154	chorus-playlist	ArtistSame	1
+154	chorus-playlist	ArtistDiv	6
+154	chorus-playlist	GenreSame	5
+154	chorus-playlist	GenreDiv	6
+154	chorus-playlist	MoodSame	5
+154	chorus-playlist	MoodDiv	6
+154	chorus-playlist	SongOrder	2
+154	chorus-playlist	SongTop	6
+154	chorus-playlist	SongLast	2
+154	usual playlist	SongHit	4
+154	usual playlist	SongNew	2
+154	usual playlist	ArtistSame	6
+154	usual playlist	ArtistDiv	2
+154	usual playlist	GenreSame	6
+154	usual playlist	GenreDiv	2
+154	usual playlist	MoodSame	2
+154	usual playlist	MoodDiv	1
+154	usual playlist	SongOrder	6
+154	usual playlist	SongTop	6
+154	usual playlist	SongLast	6
+155	chorus-playlist	SongHit	5
+155	chorus-playlist	SongNew	2
+155	chorus-playlist	ArtistSame	2
+155	chorus-playlist	ArtistDiv	2
+155	chorus-playlist	GenreSame	4
+155	chorus-playlist	GenreDiv	4
+155	chorus-playlist	MoodSame	5
+155	chorus-playlist	MoodDiv	4
+155	chorus-playlist	SongOrder	2
+155	chorus-playlist	SongTop	3
+155	chorus-playlist	SongLast	3
+155	usual playlist	SongHit	4
+155	usual playlist	SongNew	2
+155	usual playlist	ArtistSame	2
+155	usual playlist	ArtistDiv	2
+155	usual playlist	GenreSame	4
+155	usual playlist	GenreDiv	4
+155	usual playlist	MoodSame	5
+155	usual playlist	MoodDiv	4
+155	usual playlist	SongOrder	2
+155	usual playlist	SongTop	3
+155	usual playlist	SongLast	3
+156	chorus-playlist	SongHit	6
+156	chorus-playlist	SongNew	6
+156	chorus-playlist	ArtistSame	1
+156	chorus-playlist	ArtistDiv	6
+156	chorus-playlist	GenreSame	3
+156	chorus-playlist	GenreDiv	3
+156	chorus-playlist	MoodSame	1
+156	chorus-playlist	MoodDiv	1
+156	chorus-playlist	SongOrder	1
+156	chorus-playlist	SongTop	1
+156	chorus-playlist	SongLast	1
+156	usual playlist	SongHit	1
+156	usual playlist	SongNew	1
+156	usual playlist	ArtistSame	5
+156	usual playlist	ArtistDiv	2
+156	usual playlist	GenreSame	6
+156	usual playlist	GenreDiv	2
+156	usual playlist	MoodSame	1
+156	usual playlist	MoodDiv	1
+156	usual playlist	SongOrder	1
+156	usual playlist	SongTop	1
+156	usual playlist	SongLast	1
+157	chorus-playlist	SongHit	4
+157	chorus-playlist	SongNew	5
+157	chorus-playlist	ArtistSame	5
+157	chorus-playlist	ArtistDiv	5
+157	chorus-playlist	GenreSame	3
+157	chorus-playlist	GenreDiv	3
+157	chorus-playlist	MoodSame	4
+157	chorus-playlist	MoodDiv	4
+157	chorus-playlist	SongOrder	2
+157	chorus-playlist	SongTop	2
+157	chorus-playlist	SongLast	2
+157	usual playlist	SongHit	3
+157	usual playlist	SongNew	4
+157	usual playlist	ArtistSame	4
+157	usual playlist	ArtistDiv	3
+157	usual playlist	GenreSame	3
+157	usual playlist	GenreDiv	3
+157	usual playlist	MoodSame	3
+157	usual playlist	MoodDiv	3
+157	usual playlist	SongOrder	3
+157	usual playlist	SongTop	4
+157	usual playlist	SongLast	3
+158	chorus-playlist	SongHit	2
+158	chorus-playlist	SongNew	1
+158	chorus-playlist	ArtistSame	2
+158	chorus-playlist	ArtistDiv	4
+158	chorus-playlist	GenreSame	3
+158	chorus-playlist	GenreDiv	4
+158	chorus-playlist	MoodSame	3
+158	chorus-playlist	MoodDiv	4
+158	chorus-playlist	SongOrder	1
+158	chorus-playlist	SongTop	3
+158	chorus-playlist	SongLast	1
+158	usual playlist	SongHit	2
+158	usual playlist	SongNew	2
+158	usual playlist	ArtistSame	4
+158	usual playlist	ArtistDiv	4
+158	usual playlist	GenreSame	4
+158	usual playlist	GenreDiv	3
+158	usual playlist	MoodSame	3
+158	usual playlist	MoodDiv	4
+158	usual playlist	SongOrder	4
+158	usual playlist	SongTop	4
+158	usual playlist	SongLast	2
+160	chorus-playlist	SongHit	5
+160	chorus-playlist	SongNew	2
+160	chorus-playlist	ArtistSame	3
+160	chorus-playlist	ArtistDiv	4
+160	chorus-playlist	GenreSame	6
+160	chorus-playlist	GenreDiv	1
+160	chorus-playlist	MoodSame	4
+160	chorus-playlist	MoodDiv	2
+160	chorus-playlist	SongOrder	1
+160	chorus-playlist	SongTop	1
+160	chorus-playlist	SongLast	1
+160	usual playlist	SongHit	2
+160	usual playlist	SongNew	1
+160	usual playlist	ArtistSame	2
+160	usual playlist	ArtistDiv	4
+160	usual playlist	GenreSame	6
+160	usual playlist	GenreDiv	1
+160	usual playlist	MoodSame	5
+160	usual playlist	MoodDiv	2
+160	usual playlist	SongOrder	1
+160	usual playlist	SongTop	1
+160	usual playlist	SongLast	1
+161	chorus-playlist	SongHit	4
+161	chorus-playlist	SongNew	4
+161	chorus-playlist	ArtistSame	1
+161	chorus-playlist	ArtistDiv	5
+161	chorus-playlist	GenreSame	4
+161	chorus-playlist	GenreDiv	4
+161	chorus-playlist	MoodSame	1
+161	chorus-playlist	MoodDiv	4
+161	chorus-playlist	SongOrder	4
+161	chorus-playlist	SongTop	3
+161	chorus-playlist	SongLast	3
+161	usual playlist	SongHit	1
+161	usual playlist	SongNew	1
+161	usual playlist	ArtistSame	1
+161	usual playlist	ArtistDiv	6
+161	usual playlist	GenreSame	6
+161	usual playlist	GenreDiv	5
+161	usual playlist	MoodSame	1
+161	usual playlist	MoodDiv	5
+161	usual playlist	SongOrder	5
+161	usual playlist	SongTop	4
+161	usual playlist	SongLast	2
+162	chorus-playlist	SongHit	2
+162	chorus-playlist	SongNew	4
+162	chorus-playlist	ArtistSame	2
+162	chorus-playlist	ArtistDiv	2
+162	chorus-playlist	GenreSame	4
+162	chorus-playlist	GenreDiv	2
+162	chorus-playlist	MoodSame	4
+162	chorus-playlist	MoodDiv	4
+162	chorus-playlist	SongOrder	4
+162	chorus-playlist	SongTop	4
+162	chorus-playlist	SongLast	4
+162	usual playlist	SongHit	2
+162	usual playlist	SongNew	2
+162	usual playlist	ArtistSame	2
+162	usual playlist	ArtistDiv	2
+162	usual playlist	GenreSame	4
+162	usual playlist	GenreDiv	3
+162	usual playlist	MoodSame	3
+162	usual playlist	MoodDiv	3
+162	usual playlist	SongOrder	4
+162	usual playlist	SongTop	4
+162	usual playlist	SongLast	4
+163	chorus-playlist	SongHit	5
+163	chorus-playlist	SongNew	4
+163	chorus-playlist	ArtistSame	3
+163	chorus-playlist	ArtistDiv	5
+163	chorus-playlist	GenreSame	3
+163	chorus-playlist	GenreDiv	5
+163	chorus-playlist	MoodSame	3
+163	chorus-playlist	MoodDiv	4
+163	chorus-playlist	SongOrder	4
+163	chorus-playlist	SongTop	3
+163	chorus-playlist	SongLast	3
+163	usual playlist	SongHit	4
+163	usual playlist	SongNew	4
+163	usual playlist	ArtistSame	3
+163	usual playlist	ArtistDiv	5
+163	usual playlist	GenreSame	3
+163	usual playlist	GenreDiv	5
+163	usual playlist	MoodSame	3
+163	usual playlist	MoodDiv	4
+163	usual playlist	SongOrder	4
+163	usual playlist	SongTop	3
+163	usual playlist	SongLast	3
+164	chorus-playlist	SongHit	4
+164	chorus-playlist	SongNew	4
+164	chorus-playlist	ArtistSame	3
+164	chorus-playlist	ArtistDiv	4
+164	chorus-playlist	GenreSame	3
+164	chorus-playlist	GenreDiv	4
+164	chorus-playlist	MoodSame	4
+164	chorus-playlist	MoodDiv	4
+164	chorus-playlist	SongOrder	2
+164	chorus-playlist	SongTop	2
+164	chorus-playlist	SongLast	2
+164	usual playlist	SongHit	2
+164	usual playlist	SongNew	2
+164	usual playlist	ArtistSame	5
+164	usual playlist	ArtistDiv	3
+164	usual playlist	GenreSame	5
+164	usual playlist	GenreDiv	2
+164	usual playlist	MoodSame	5
+164	usual playlist	MoodDiv	3
+164	usual playlist	SongOrder	2
+164	usual playlist	SongTop	3
+164	usual playlist	SongLast	3
+165	chorus-playlist	SongHit	1
+165	chorus-playlist	SongNew	2
+165	chorus-playlist	ArtistSame	6
+165	chorus-playlist	ArtistDiv	2
+165	chorus-playlist	GenreSame	2
+165	chorus-playlist	GenreDiv	2
+165	chorus-playlist	MoodSame	2
+165	chorus-playlist	MoodDiv	2
+165	chorus-playlist	SongOrder	5
+165	chorus-playlist	SongTop	6
+165	chorus-playlist	SongLast	6
+165	usual playlist	SongHit	1
+165	usual playlist	SongNew	2
+165	usual playlist	ArtistSame	6
+165	usual playlist	ArtistDiv	2
+165	usual playlist	GenreSame	2
+165	usual playlist	GenreDiv	2
+165	usual playlist	MoodSame	2
+165	usual playlist	MoodDiv	2
+165	usual playlist	SongOrder	5
+165	usual playlist	SongTop	6
+165	usual playlist	SongLast	6
+166	chorus-playlist	SongHit	1
+166	chorus-playlist	SongNew	1
+166	chorus-playlist	ArtistSame	4
+166	chorus-playlist	ArtistDiv	4
+166	chorus-playlist	GenreSame	4
+166	chorus-playlist	GenreDiv	6
+166	chorus-playlist	MoodSame	6
+166	chorus-playlist	MoodDiv	6
+166	chorus-playlist	SongOrder	1
+166	chorus-playlist	SongTop	3
+166	chorus-playlist	SongLast	5
+166	usual playlist	SongHit	1
+166	usual playlist	SongNew	1
+166	usual playlist	ArtistSame	4
+166	usual playlist	ArtistDiv	4
+166	usual playlist	GenreSame	4
+166	usual playlist	GenreDiv	6
+166	usual playlist	MoodSame	6
+166	usual playlist	MoodDiv	6
+166	usual playlist	SongOrder	1
+166	usual playlist	SongTop	3
+166	usual playlist	SongLast	5
+167	chorus-playlist	SongHit	3
+167	chorus-playlist	SongNew	2
+167	chorus-playlist	ArtistSame	2
+167	chorus-playlist	ArtistDiv	4
+167	chorus-playlist	GenreSame	4
+167	chorus-playlist	GenreDiv	5
+167	chorus-playlist	MoodSame	5
+167	chorus-playlist	MoodDiv	4
+167	chorus-playlist	SongOrder	4
+167	chorus-playlist	SongTop	3
+167	chorus-playlist	SongLast	3
+167	usual playlist	SongHit	2
+167	usual playlist	SongNew	2
+167	usual playlist	ArtistSame	2
+167	usual playlist	ArtistDiv	4
+167	usual playlist	GenreSame	4
+167	usual playlist	GenreDiv	5
+167	usual playlist	MoodSame	5
+167	usual playlist	MoodDiv	5
+167	usual playlist	SongOrder	5
+167	usual playlist	SongTop	3
+167	usual playlist	SongLast	3
+168	chorus-playlist	SongHit	5
+168	chorus-playlist	SongNew	2
+168	chorus-playlist	ArtistSame	5
+168	chorus-playlist	ArtistDiv	5
+168	chorus-playlist	GenreSame	6
+168	chorus-playlist	GenreDiv	5
+168	chorus-playlist	MoodSame	2
+168	chorus-playlist	MoodDiv	2
+168	chorus-playlist	SongOrder	2
+168	chorus-playlist	SongTop	2
+168	chorus-playlist	SongLast	2
+168	usual playlist	SongHit	4
+168	usual playlist	SongNew	2
+168	usual playlist	ArtistSame	5
+168	usual playlist	ArtistDiv	5
+168	usual playlist	GenreSame	6
+168	usual playlist	GenreDiv	3
+168	usual playlist	MoodSame	2
+168	usual playlist	MoodDiv	2
+168	usual playlist	SongOrder	2
+168	usual playlist	SongTop	2
+168	usual playlist	SongLast	2
+169	chorus-playlist	SongHit	2
+169	chorus-playlist	SongNew	1
+169	chorus-playlist	ArtistSame	3
+169	chorus-playlist	ArtistDiv	3
+169	chorus-playlist	GenreSame	5
+169	chorus-playlist	GenreDiv	4
+169	chorus-playlist	MoodSame	2
+169	chorus-playlist	MoodDiv	4
+169	chorus-playlist	SongOrder	5
+169	chorus-playlist	SongTop	5
+169	chorus-playlist	SongLast	2
+169	usual playlist	SongHit	3
+169	usual playlist	SongNew	3
+169	usual playlist	ArtistSame	2
+169	usual playlist	ArtistDiv	2
+169	usual playlist	GenreSame	5
+169	usual playlist	GenreDiv	5
+169	usual playlist	MoodSame	2
+169	usual playlist	MoodDiv	5
+169	usual playlist	SongOrder	5
+169	usual playlist	SongTop	5
+169	usual playlist	SongLast	2
+170	chorus-playlist	SongHit	5
+170	chorus-playlist	SongNew	3
+170	chorus-playlist	ArtistSame	2
+170	chorus-playlist	ArtistDiv	1
+170	chorus-playlist	GenreSame	2
+170	chorus-playlist	GenreDiv	4
+170	chorus-playlist	MoodSame	2
+170	chorus-playlist	MoodDiv	4
+170	chorus-playlist	SongOrder	1
+170	chorus-playlist	SongTop	4
+170	chorus-playlist	SongLast	1
+170	usual playlist	SongHit	4
+170	usual playlist	SongNew	2
+170	usual playlist	ArtistSame	1
+170	usual playlist	ArtistDiv	1
+170	usual playlist	GenreSame	2
+170	usual playlist	GenreDiv	4
+170	usual playlist	MoodSame	2
+170	usual playlist	MoodDiv	5
+170	usual playlist	SongOrder	1
+170	usual playlist	SongTop	6
+170	usual playlist	SongLast	5
+171	chorus-playlist	SongHit	2
+171	chorus-playlist	SongNew	2
+171	chorus-playlist	ArtistSame	4
+171	chorus-playlist	ArtistDiv	5
+171	chorus-playlist	GenreSame	4
+171	chorus-playlist	GenreDiv	5
+171	chorus-playlist	MoodSame	5
+171	chorus-playlist	MoodDiv	5
+171	chorus-playlist	SongOrder	5
+171	chorus-playlist	SongTop	3
+171	chorus-playlist	SongLast	3
+171	usual playlist	SongHit	2
+171	usual playlist	SongNew	2
+171	usual playlist	ArtistSame	4
+171	usual playlist	ArtistDiv	5
+171	usual playlist	GenreSame	4
+171	usual playlist	GenreDiv	5
+171	usual playlist	MoodSame	5
+171	usual playlist	MoodDiv	5
+171	usual playlist	SongOrder	4
+171	usual playlist	SongTop	3
+171	usual playlist	SongLast	3
+172	chorus-playlist	SongHit	1
+172	chorus-playlist	SongNew	3
+172	chorus-playlist	ArtistSame	3
+172	chorus-playlist	ArtistDiv	4
+172	chorus-playlist	GenreSame	5
+172	chorus-playlist	GenreDiv	2
+172	chorus-playlist	MoodSame	5
+172	chorus-playlist	MoodDiv	3
+172	chorus-playlist	SongOrder	4
+172	chorus-playlist	SongTop	5
+172	chorus-playlist	SongLast	2
+172	usual playlist	SongHit	1
+172	usual playlist	SongNew	2
+172	usual playlist	ArtistSame	3
+172	usual playlist	ArtistDiv	2
+172	usual playlist	GenreSame	6
+172	usual playlist	GenreDiv	1
+172	usual playlist	MoodSame	6
+172	usual playlist	MoodDiv	2
+172	usual playlist	SongOrder	4
+172	usual playlist	SongTop	5
+172	usual playlist	SongLast	2
+174	chorus-playlist	SongHit	2
+174	chorus-playlist	SongNew	5
+174	chorus-playlist	ArtistSame	2
+174	chorus-playlist	ArtistDiv	6
+174	chorus-playlist	GenreSame	2
+174	chorus-playlist	GenreDiv	6
+174	chorus-playlist	MoodSame	2
+174	chorus-playlist	MoodDiv	5
+174	chorus-playlist	SongOrder	2
+174	chorus-playlist	SongTop	6
+174	chorus-playlist	SongLast	2
+174	usual playlist	SongHit	5
+174	usual playlist	SongNew	3
+174	usual playlist	ArtistSame	5
+174	usual playlist	ArtistDiv	4
+174	usual playlist	GenreSame	6
+174	usual playlist	GenreDiv	3
+174	usual playlist	MoodSame	5
+174	usual playlist	MoodDiv	3
+174	usual playlist	SongOrder	5
+174	usual playlist	SongTop	3
+174	usual playlist	SongLast	6
+175	chorus-playlist	SongHit	3
+175	chorus-playlist	SongNew	2
+175	chorus-playlist	ArtistSame	3
+175	chorus-playlist	ArtistDiv	4
+175	chorus-playlist	GenreSame	4
+175	chorus-playlist	GenreDiv	5
+175	chorus-playlist	MoodSame	4
+175	chorus-playlist	MoodDiv	2
+175	chorus-playlist	SongOrder	5
+175	chorus-playlist	SongTop	5
+175	chorus-playlist	SongLast	6
+175	usual playlist	SongHit	2
+175	usual playlist	SongNew	1
+175	usual playlist	ArtistSame	5
+175	usual playlist	ArtistDiv	3
+175	usual playlist	GenreSame	5
+175	usual playlist	GenreDiv	2
+175	usual playlist	MoodSame	5
+175	usual playlist	MoodDiv	4
+175	usual playlist	SongOrder	6
+175	usual playlist	SongTop	6
+175	usual playlist	SongLast	6
+176	chorus-playlist	SongHit	5
+176	chorus-playlist	SongNew	5
+176	chorus-playlist	ArtistSame	2
+176	chorus-playlist	ArtistDiv	2
+176	chorus-playlist	GenreSame	2
+176	chorus-playlist	GenreDiv	4
+176	chorus-playlist	MoodSame	2
+176	chorus-playlist	MoodDiv	3
+176	chorus-playlist	SongOrder	6
+176	chorus-playlist	SongTop	6
+176	chorus-playlist	SongLast	4
+176	usual playlist	SongHit	2
+176	usual playlist	SongNew	3
+176	usual playlist	ArtistSame	2
+176	usual playlist	ArtistDiv	2
+176	usual playlist	GenreSame	2
+176	usual playlist	GenreDiv	2
+176	usual playlist	MoodSame	2
+176	usual playlist	MoodDiv	3
+176	usual playlist	SongOrder	6
+176	usual playlist	SongTop	6
+176	usual playlist	SongLast	6
+177	chorus-playlist	SongHit	5
+177	chorus-playlist	SongNew	1
+177	chorus-playlist	ArtistSame	5
+177	chorus-playlist	ArtistDiv	4
+177	chorus-playlist	GenreSame	6
+177	chorus-playlist	GenreDiv	4
+177	chorus-playlist	MoodSame	6
+177	chorus-playlist	MoodDiv	4
+177	chorus-playlist	SongOrder	1
+177	chorus-playlist	SongTop	1
+177	chorus-playlist	SongLast	1
+177	usual playlist	SongHit	2
+177	usual playlist	SongNew	1
+177	usual playlist	ArtistSame	5
+177	usual playlist	ArtistDiv	5
+177	usual playlist	GenreSame	6
+177	usual playlist	GenreDiv	2
+177	usual playlist	MoodSame	2
+177	usual playlist	MoodDiv	5
+177	usual playlist	SongOrder	2
+177	usual playlist	SongTop	1
+177	usual playlist	SongLast	1
+178	chorus-playlist	SongHit	5
+178	chorus-playlist	SongNew	4
+178	chorus-playlist	ArtistSame	3
+178	chorus-playlist	ArtistDiv	5
+178	chorus-playlist	GenreSame	3
+178	chorus-playlist	GenreDiv	3
+178	chorus-playlist	MoodSame	3
+178	chorus-playlist	MoodDiv	3
+178	chorus-playlist	SongOrder	4
+178	chorus-playlist	SongTop	3
+178	chorus-playlist	SongLast	2
+178	usual playlist	SongHit	3
+178	usual playlist	SongNew	3
+178	usual playlist	ArtistSame	4
+178	usual playlist	ArtistDiv	4
+178	usual playlist	GenreSame	5
+178	usual playlist	GenreDiv	2
+178	usual playlist	MoodSame	5
+178	usual playlist	MoodDiv	2
+178	usual playlist	SongOrder	6
+178	usual playlist	SongTop	6
+178	usual playlist	SongLast	2
+179	chorus-playlist	SongHit	2
+179	chorus-playlist	SongNew	5
+179	chorus-playlist	ArtistSame	5
+179	chorus-playlist	ArtistDiv	6
+179	chorus-playlist	GenreSame	6
+179	chorus-playlist	GenreDiv	6
+179	chorus-playlist	MoodSame	5
+179	chorus-playlist	MoodDiv	6
+179	chorus-playlist	SongOrder	3
+179	chorus-playlist	SongTop	2
+179	chorus-playlist	SongLast	2
+179	usual playlist	SongHit	3
+179	usual playlist	SongNew	3
+179	usual playlist	ArtistSame	5
+179	usual playlist	ArtistDiv	5
+179	usual playlist	GenreSame	4
+179	usual playlist	GenreDiv	4
+179	usual playlist	MoodSame	4
+179	usual playlist	MoodDiv	5
+179	usual playlist	SongOrder	3
+179	usual playlist	SongTop	2
+179	usual playlist	SongLast	2
+180	chorus-playlist	SongHit	5
+180	chorus-playlist	SongNew	5
+180	chorus-playlist	ArtistSame	6
+180	chorus-playlist	ArtistDiv	3
+180	chorus-playlist	GenreSame	3
+180	chorus-playlist	GenreDiv	3
+180	chorus-playlist	MoodSame	5
+180	chorus-playlist	MoodDiv	5
+180	chorus-playlist	SongOrder	4
+180	chorus-playlist	SongTop	4
+180	chorus-playlist	SongLast	6
+180	usual playlist	SongHit	1
+180	usual playlist	SongNew	5
+180	usual playlist	ArtistSame	3
+180	usual playlist	ArtistDiv	4
+180	usual playlist	GenreSame	4
+180	usual playlist	GenreDiv	4
+180	usual playlist	MoodSame	2
+180	usual playlist	MoodDiv	6
+180	usual playlist	SongOrder	4
+180	usual playlist	SongTop	2
+180	usual playlist	SongLast	1
+181	chorus-playlist	SongHit	2
+181	chorus-playlist	SongNew	2
+181	chorus-playlist	ArtistSame	5
+181	chorus-playlist	ArtistDiv	3
+181	chorus-playlist	GenreSame	6
+181	chorus-playlist	GenreDiv	2
+181	chorus-playlist	MoodSame	6
+181	chorus-playlist	MoodDiv	2
+181	chorus-playlist	SongOrder	2
+181	chorus-playlist	SongTop	2
+181	chorus-playlist	SongLast	1
+181	usual playlist	SongHit	2
+181	usual playlist	SongNew	2
+181	usual playlist	ArtistSame	4
+181	usual playlist	ArtistDiv	3
+181	usual playlist	GenreSame	5
+181	usual playlist	GenreDiv	3
+181	usual playlist	MoodSame	6
+181	usual playlist	MoodDiv	2
+181	usual playlist	SongOrder	1
+181	usual playlist	SongTop	1
+181	usual playlist	SongLast	1
+182	chorus-playlist	SongHit	3
+182	chorus-playlist	SongNew	5
+182	chorus-playlist	ArtistSame	2
+182	chorus-playlist	ArtistDiv	3
+182	chorus-playlist	GenreSame	2
+182	chorus-playlist	GenreDiv	3
+182	chorus-playlist	MoodSame	1
+182	chorus-playlist	MoodDiv	3
+182	chorus-playlist	SongOrder	2
+182	chorus-playlist	SongTop	5
+182	chorus-playlist	SongLast	5
+182	usual playlist	SongHit	1
+182	usual playlist	SongNew	1
+182	usual playlist	ArtistSame	1
+182	usual playlist	ArtistDiv	1
+182	usual playlist	GenreSame	1
+182	usual playlist	GenreDiv	1
+182	usual playlist	MoodSame	1
+182	usual playlist	MoodDiv	1
+182	usual playlist	SongOrder	4
+182	usual playlist	SongTop	5
+182	usual playlist	SongLast	5
+183	chorus-playlist	SongHit	4
+183	chorus-playlist	SongNew	3
+183	chorus-playlist	ArtistSame	5
+183	chorus-playlist	ArtistDiv	2
+183	chorus-playlist	GenreSame	2
+183	chorus-playlist	GenreDiv	3
+183	chorus-playlist	MoodSame	2
+183	chorus-playlist	MoodDiv	2
+183	chorus-playlist	SongOrder	2
+183	chorus-playlist	SongTop	3
+183	chorus-playlist	SongLast	3
+183	usual playlist	SongHit	1
+183	usual playlist	SongNew	1
+183	usual playlist	ArtistSame	3
+183	usual playlist	ArtistDiv	5
+183	usual playlist	GenreSame	5
+183	usual playlist	GenreDiv	3
+183	usual playlist	MoodSame	5
+183	usual playlist	MoodDiv	2
+183	usual playlist	SongOrder	5
+183	usual playlist	SongTop	4
+183	usual playlist	SongLast	6
+184	chorus-playlist	SongHit	5
+184	chorus-playlist	SongNew	5
+184	chorus-playlist	ArtistSame	3
+184	chorus-playlist	ArtistDiv	4
+184	chorus-playlist	GenreSame	4
+184	chorus-playlist	GenreDiv	4
+184	chorus-playlist	MoodSame	4
+184	chorus-playlist	MoodDiv	4
+184	chorus-playlist	SongOrder	4
+184	chorus-playlist	SongTop	4
+184	chorus-playlist	SongLast	3
+184	usual playlist	SongHit	5
+184	usual playlist	SongNew	5
+184	usual playlist	ArtistSame	3
+184	usual playlist	ArtistDiv	4
+184	usual playlist	GenreSame	4
+184	usual playlist	GenreDiv	4
+184	usual playlist	MoodSame	4
+184	usual playlist	MoodDiv	4
+184	usual playlist	SongOrder	4
+184	usual playlist	SongTop	4
+184	usual playlist	SongLast	3
+185	chorus-playlist	SongHit	5
+185	chorus-playlist	SongNew	5
+185	chorus-playlist	ArtistSame	1
+185	chorus-playlist	ArtistDiv	6
+185	chorus-playlist	GenreSame	6
+185	chorus-playlist	GenreDiv	3
+185	chorus-playlist	MoodSame	5
+185	chorus-playlist	MoodDiv	2
+185	chorus-playlist	SongOrder	1
+185	chorus-playlist	SongTop	1
+185	chorus-playlist	SongLast	1
+185	usual playlist	SongHit	4
+185	usual playlist	SongNew	3
+185	usual playlist	ArtistSame	1
+185	usual playlist	ArtistDiv	5
+185	usual playlist	GenreSame	6
+185	usual playlist	GenreDiv	3
+185	usual playlist	MoodSame	5
+185	usual playlist	MoodDiv	1
+185	usual playlist	SongOrder	1
+185	usual playlist	SongTop	2
+185	usual playlist	SongLast	1
+186	chorus-playlist	SongHit	1
+186	chorus-playlist	SongNew	1
+186	chorus-playlist	ArtistSame	3
+186	chorus-playlist	ArtistDiv	2
+186	chorus-playlist	GenreSame	4
+186	chorus-playlist	GenreDiv	2
+186	chorus-playlist	MoodSame	2
+186	chorus-playlist	MoodDiv	3
+186	chorus-playlist	SongOrder	1
+186	chorus-playlist	SongTop	1
+186	chorus-playlist	SongLast	1
+186	usual playlist	SongHit	1
+186	usual playlist	SongNew	1
+186	usual playlist	ArtistSame	1
+186	usual playlist	ArtistDiv	1
+186	usual playlist	GenreSame	2
+186	usual playlist	GenreDiv	1
+186	usual playlist	MoodSame	1
+186	usual playlist	MoodDiv	1
+186	usual playlist	SongOrder	1
+186	usual playlist	SongTop	1
+186	usual playlist	SongLast	1
+187	chorus-playlist	SongHit	4
+187	chorus-playlist	SongNew	3
+187	chorus-playlist	ArtistSame	2
+187	chorus-playlist	ArtistDiv	3
+187	chorus-playlist	GenreSame	3
+187	chorus-playlist	GenreDiv	4
+187	chorus-playlist	MoodSame	2
+187	chorus-playlist	MoodDiv	2
+187	chorus-playlist	SongOrder	2
+187	chorus-playlist	SongTop	3
+187	chorus-playlist	SongLast	3
+187	usual playlist	SongHit	2
+187	usual playlist	SongNew	2
+187	usual playlist	ArtistSame	2
+187	usual playlist	ArtistDiv	3
+187	usual playlist	GenreSame	4
+187	usual playlist	GenreDiv	3
+187	usual playlist	MoodSame	2
+187	usual playlist	MoodDiv	2
+187	usual playlist	SongOrder	6
+187	usual playlist	SongTop	4
+187	usual playlist	SongLast	4
+188	chorus-playlist	SongHit	4
+188	chorus-playlist	SongNew	1
+188	chorus-playlist	ArtistSame	3
+188	chorus-playlist	ArtistDiv	4
+188	chorus-playlist	GenreSame	5
+188	chorus-playlist	GenreDiv	3
+188	chorus-playlist	MoodSame	5
+188	chorus-playlist	MoodDiv	2
+188	chorus-playlist	SongOrder	2
+188	chorus-playlist	SongTop	2
+188	chorus-playlist	SongLast	2
+188	usual playlist	SongHit	1
+188	usual playlist	SongNew	1
+188	usual playlist	ArtistSame	3
+188	usual playlist	ArtistDiv	4
+188	usual playlist	GenreSame	4
+188	usual playlist	GenreDiv	3
+188	usual playlist	MoodSame	3
+188	usual playlist	MoodDiv	3
+188	usual playlist	SongOrder	2
+188	usual playlist	SongTop	2
+188	usual playlist	SongLast	2
+189	chorus-playlist	SongHit	1
+189	chorus-playlist	SongNew	1
+189	chorus-playlist	ArtistSame	2
+189	chorus-playlist	ArtistDiv	5
+189	chorus-playlist	GenreSame	4
+189	chorus-playlist	GenreDiv	2
+189	chorus-playlist	MoodSame	6
+189	chorus-playlist	MoodDiv	2
+189	chorus-playlist	SongOrder	2
+189	chorus-playlist	SongTop	2
+189	chorus-playlist	SongLast	1
+189	usual playlist	SongHit	1
+189	usual playlist	SongNew	1
+189	usual playlist	ArtistSame	2
+189	usual playlist	ArtistDiv	2
+189	usual playlist	GenreSame	4
+189	usual playlist	GenreDiv	2
+189	usual playlist	MoodSame	4
+189	usual playlist	MoodDiv	3
+189	usual playlist	SongOrder	4
+189	usual playlist	SongTop	4
+189	usual playlist	SongLast	3
+190	chorus-playlist	SongHit	4
+190	chorus-playlist	SongNew	3
+190	chorus-playlist	ArtistSame	1
+190	chorus-playlist	ArtistDiv	1
+190	chorus-playlist	GenreSame	1
+190	chorus-playlist	GenreDiv	1
+190	chorus-playlist	MoodSame	1
+190	chorus-playlist	MoodDiv	1
+190	chorus-playlist	SongOrder	3
+190	chorus-playlist	SongTop	2
+190	chorus-playlist	SongLast	2
+190	usual playlist	SongHit	1
+190	usual playlist	SongNew	2
+190	usual playlist	ArtistSame	1
+190	usual playlist	ArtistDiv	1
+190	usual playlist	GenreSame	1
+190	usual playlist	GenreDiv	1
+190	usual playlist	MoodSame	1
+190	usual playlist	MoodDiv	1
+190	usual playlist	SongOrder	3
+190	usual playlist	SongTop	2
+190	usual playlist	SongLast	2
+191	chorus-playlist	SongHit	1
+191	chorus-playlist	SongNew	1
+191	chorus-playlist	ArtistSame	1
+191	chorus-playlist	ArtistDiv	1
+191	chorus-playlist	GenreSame	3
+191	chorus-playlist	GenreDiv	2
+191	chorus-playlist	MoodSame	4
+191	chorus-playlist	MoodDiv	3
+191	chorus-playlist	SongOrder	6
+191	chorus-playlist	SongTop	6
+191	chorus-playlist	SongLast	5
+191	usual playlist	SongHit	1
+191	usual playlist	SongNew	1
+191	usual playlist	ArtistSame	1
+191	usual playlist	ArtistDiv	1
+191	usual playlist	GenreSame	4
+191	usual playlist	GenreDiv	2
+191	usual playlist	MoodSame	3
+191	usual playlist	MoodDiv	2
+191	usual playlist	SongOrder	5
+191	usual playlist	SongTop	5
+191	usual playlist	SongLast	4
+192	chorus-playlist	SongHit	6
+192	chorus-playlist	SongNew	4
+192	chorus-playlist	ArtistSame	2
+192	chorus-playlist	ArtistDiv	2
+192	chorus-playlist	GenreSame	2
+192	chorus-playlist	GenreDiv	2
+192	chorus-playlist	MoodSame	2
+192	chorus-playlist	MoodDiv	2
+192	chorus-playlist	SongOrder	2
+192	chorus-playlist	SongTop	2
+192	chorus-playlist	SongLast	2
+192	usual playlist	SongHit	6
+192	usual playlist	SongNew	4
+192	usual playlist	ArtistSame	2
+192	usual playlist	ArtistDiv	2
+192	usual playlist	GenreSame	2
+192	usual playlist	GenreDiv	2
+192	usual playlist	MoodSame	2
+192	usual playlist	MoodDiv	2
+192	usual playlist	SongOrder	2
+192	usual playlist	SongTop	2
+192	usual playlist	SongLast	2
+194	chorus-playlist	SongHit	2
+194	chorus-playlist	SongNew	2
+194	chorus-playlist	ArtistSame	2
+194	chorus-playlist	ArtistDiv	5
+194	chorus-playlist	GenreSame	4
+194	chorus-playlist	GenreDiv	3
+194	chorus-playlist	MoodSame	5
+194	chorus-playlist	MoodDiv	2
+194	chorus-playlist	SongOrder	4
+194	chorus-playlist	SongTop	3
+194	chorus-playlist	SongLast	2
+194	usual playlist	SongHit	2
+194	usual playlist	SongNew	2
+194	usual playlist	ArtistSame	3
+194	usual playlist	ArtistDiv	3
+194	usual playlist	GenreSame	4
+194	usual playlist	GenreDiv	3
+194	usual playlist	MoodSame	5
+194	usual playlist	MoodDiv	2
+194	usual playlist	SongOrder	4
+194	usual playlist	SongTop	4
+194	usual playlist	SongLast	2
+195	chorus-playlist	SongHit	5
+195	chorus-playlist	SongNew	4
+195	chorus-playlist	ArtistSame	3
+195	chorus-playlist	ArtistDiv	4
+195	chorus-playlist	GenreSame	3
+195	chorus-playlist	GenreDiv	4
+195	chorus-playlist	MoodSame	3
+195	chorus-playlist	MoodDiv	4
+195	chorus-playlist	SongOrder	3
+195	chorus-playlist	SongTop	3
+195	chorus-playlist	SongLast	3
+195	usual playlist	SongHit	2
+195	usual playlist	SongNew	4
+195	usual playlist	ArtistSame	4
+195	usual playlist	ArtistDiv	4
+195	usual playlist	GenreSame	4
+195	usual playlist	GenreDiv	3
+195	usual playlist	MoodSame	4
+195	usual playlist	MoodDiv	3
+195	usual playlist	SongOrder	5
+195	usual playlist	SongTop	4
+195	usual playlist	SongLast	4
+196	chorus-playlist	SongHit	4
+196	chorus-playlist	SongNew	4
+196	chorus-playlist	ArtistSame	3
+196	chorus-playlist	ArtistDiv	4
+196	chorus-playlist	GenreSame	3
+196	chorus-playlist	GenreDiv	4
+196	chorus-playlist	MoodSame	4
+196	chorus-playlist	MoodDiv	3
+196	chorus-playlist	SongOrder	3
+196	chorus-playlist	SongTop	4
+196	chorus-playlist	SongLast	3
+196	usual playlist	SongHit	2
+196	usual playlist	SongNew	2
+196	usual playlist	ArtistSame	4
+196	usual playlist	ArtistDiv	3
+196	usual playlist	GenreSame	4
+196	usual playlist	GenreDiv	4
+196	usual playlist	MoodSame	4
+196	usual playlist	MoodDiv	3
+196	usual playlist	SongOrder	4
+196	usual playlist	SongTop	4
+196	usual playlist	SongLast	4
+197	chorus-playlist	SongHit	5
+197	chorus-playlist	SongNew	4
+197	chorus-playlist	ArtistSame	1
+197	chorus-playlist	ArtistDiv	5
+197	chorus-playlist	GenreSame	4
+197	chorus-playlist	GenreDiv	1
+197	chorus-playlist	MoodSame	1
+197	chorus-playlist	MoodDiv	6
+197	chorus-playlist	SongOrder	6
+197	chorus-playlist	SongTop	6
+197	chorus-playlist	SongLast	1
+197	usual playlist	SongHit	1
+197	usual playlist	SongNew	1
+197	usual playlist	ArtistSame	5
+197	usual playlist	ArtistDiv	1
+197	usual playlist	GenreSame	2
+197	usual playlist	GenreDiv	1
+197	usual playlist	MoodSame	3
+197	usual playlist	MoodDiv	2
+197	usual playlist	SongOrder	3
+197	usual playlist	SongTop	5
+197	usual playlist	SongLast	6
+198	chorus-playlist	SongHit	4
+198	chorus-playlist	SongNew	4
+198	chorus-playlist	ArtistSame	3
+198	chorus-playlist	ArtistDiv	4
+198	chorus-playlist	GenreSame	3
+198	chorus-playlist	GenreDiv	4
+198	chorus-playlist	MoodSame	3
+198	chorus-playlist	MoodDiv	4
+198	chorus-playlist	SongOrder	6
+198	chorus-playlist	SongTop	5
+198	chorus-playlist	SongLast	5
+198	usual playlist	SongHit	4
+198	usual playlist	SongNew	4
+198	usual playlist	ArtistSame	3
+198	usual playlist	ArtistDiv	3
+198	usual playlist	GenreSame	4
+198	usual playlist	GenreDiv	4
+198	usual playlist	MoodSame	3
+198	usual playlist	MoodDiv	4
+198	usual playlist	SongOrder	5
+198	usual playlist	SongTop	6
+198	usual playlist	SongLast	6
+199	chorus-playlist	SongHit	4
+199	chorus-playlist	SongNew	2
+199	chorus-playlist	ArtistSame	2
+199	chorus-playlist	ArtistDiv	2
+199	chorus-playlist	GenreSame	2
+199	chorus-playlist	GenreDiv	2
+199	chorus-playlist	MoodSame	2
+199	chorus-playlist	MoodDiv	2
+199	chorus-playlist	SongOrder	2
+199	chorus-playlist	SongTop	2
+199	chorus-playlist	SongLast	2
+199	usual playlist	SongHit	2
+199	usual playlist	SongNew	2
+199	usual playlist	ArtistSame	2
+199	usual playlist	ArtistDiv	2
+199	usual playlist	GenreSame	4
+199	usual playlist	GenreDiv	2
+199	usual playlist	MoodSame	2
+199	usual playlist	MoodDiv	2
+199	usual playlist	SongOrder	2
+199	usual playlist	SongTop	5
+199	usual playlist	SongLast	2
+201	chorus-playlist	SongHit	4
+201	chorus-playlist	SongNew	4
+201	chorus-playlist	ArtistSame	2
+201	chorus-playlist	ArtistDiv	2
+201	chorus-playlist	GenreSame	6
+201	chorus-playlist	GenreDiv	1
+201	chorus-playlist	MoodSame	5
+201	chorus-playlist	MoodDiv	2
+201	chorus-playlist	SongOrder	2
+201	chorus-playlist	SongTop	2
+201	chorus-playlist	SongLast	2
+201	usual playlist	SongHit	2
+201	usual playlist	SongNew	2
+201	usual playlist	ArtistSame	3
+201	usual playlist	ArtistDiv	5
+201	usual playlist	GenreSame	5
+201	usual playlist	GenreDiv	3
+201	usual playlist	MoodSame	4
+201	usual playlist	MoodDiv	3
+201	usual playlist	SongOrder	5
+201	usual playlist	SongTop	4
+201	usual playlist	SongLast	4
+202	chorus-playlist	SongHit	1
+202	chorus-playlist	SongNew	1
+202	chorus-playlist	ArtistSame	1
+202	chorus-playlist	ArtistDiv	6
+202	chorus-playlist	GenreSame	1
+202	chorus-playlist	GenreDiv	1
+202	chorus-playlist	MoodSame	2
+202	chorus-playlist	MoodDiv	5
+202	chorus-playlist	SongOrder	2
+202	chorus-playlist	SongTop	1
+202	chorus-playlist	SongLast	5
+202	usual playlist	SongHit	1
+202	usual playlist	SongNew	1
+202	usual playlist	ArtistSame	1
+202	usual playlist	ArtistDiv	6
+202	usual playlist	GenreSame	1
+202	usual playlist	GenreDiv	1
+202	usual playlist	MoodSame	4
+202	usual playlist	MoodDiv	3
+202	usual playlist	SongOrder	2
+202	usual playlist	SongTop	5
+202	usual playlist	SongLast	2
+203	chorus-playlist	SongHit	4
+203	chorus-playlist	SongNew	4
+203	chorus-playlist	ArtistSame	5
+203	chorus-playlist	ArtistDiv	4
+203	chorus-playlist	GenreSame	4
+203	chorus-playlist	GenreDiv	2
+203	chorus-playlist	MoodSame	3
+203	chorus-playlist	MoodDiv	2
+203	chorus-playlist	SongOrder	5
+203	chorus-playlist	SongTop	4
+203	chorus-playlist	SongLast	2
+203	usual playlist	SongHit	2
+203	usual playlist	SongNew	2
+203	usual playlist	ArtistSame	5
+203	usual playlist	ArtistDiv	3
+203	usual playlist	GenreSame	5
+203	usual playlist	GenreDiv	3
+203	usual playlist	MoodSame	5
+203	usual playlist	MoodDiv	3
+203	usual playlist	SongOrder	4
+203	usual playlist	SongTop	5
+203	usual playlist	SongLast	2
+204	chorus-playlist	SongHit	5
+204	chorus-playlist	SongNew	5
+204	chorus-playlist	ArtistSame	2
+204	chorus-playlist	ArtistDiv	4
+204	chorus-playlist	GenreSame	5
+204	chorus-playlist	GenreDiv	4
+204	chorus-playlist	MoodSame	4
+204	chorus-playlist	MoodDiv	4
+204	chorus-playlist	SongOrder	2
+204	chorus-playlist	SongTop	4
+204	chorus-playlist	SongLast	2
+204	usual playlist	SongHit	4
+204	usual playlist	SongNew	4
+204	usual playlist	ArtistSame	3
+204	usual playlist	ArtistDiv	2
+204	usual playlist	GenreSame	4
+204	usual playlist	GenreDiv	5
+204	usual playlist	MoodSame	5
+204	usual playlist	MoodDiv	5
+204	usual playlist	SongOrder	2
+204	usual playlist	SongTop	4
+204	usual playlist	SongLast	2
+205	chorus-playlist	SongHit	3
+205	chorus-playlist	SongNew	2
+205	chorus-playlist	ArtistSame	2
+205	chorus-playlist	ArtistDiv	5
+205	chorus-playlist	GenreSame	6
+205	chorus-playlist	GenreDiv	2
+205	chorus-playlist	MoodSame	6
+205	chorus-playlist	MoodDiv	2
+205	chorus-playlist	SongOrder	1
+205	chorus-playlist	SongTop	1
+205	chorus-playlist	SongLast	1
+205	usual playlist	SongHit	3
+205	usual playlist	SongNew	2
+205	usual playlist	ArtistSame	3
+205	usual playlist	ArtistDiv	4
+205	usual playlist	GenreSame	5
+205	usual playlist	GenreDiv	3
+205	usual playlist	MoodSame	5
+205	usual playlist	MoodDiv	3
+205	usual playlist	SongOrder	1
+205	usual playlist	SongTop	1
+205	usual playlist	SongLast	1
+206	chorus-playlist	SongHit	3
+206	chorus-playlist	SongNew	3
+206	chorus-playlist	ArtistSame	3
+206	chorus-playlist	ArtistDiv	5
+206	chorus-playlist	GenreSame	3
+206	chorus-playlist	GenreDiv	5
+206	chorus-playlist	MoodSame	3
+206	chorus-playlist	MoodDiv	5
+206	chorus-playlist	SongOrder	2
+206	chorus-playlist	SongTop	2
+206	chorus-playlist	SongLast	2
+206	usual playlist	SongHit	3
+206	usual playlist	SongNew	3
+206	usual playlist	ArtistSame	5
+206	usual playlist	ArtistDiv	4
+206	usual playlist	GenreSame	5
+206	usual playlist	GenreDiv	3
+206	usual playlist	MoodSame	4
+206	usual playlist	MoodDiv	4
+206	usual playlist	SongOrder	5
+206	usual playlist	SongTop	5
+206	usual playlist	SongLast	4
+207	chorus-playlist	SongHit	3
+207	chorus-playlist	SongNew	4
+207	chorus-playlist	ArtistSame	5
+207	chorus-playlist	ArtistDiv	4
+207	chorus-playlist	GenreSame	6
+207	chorus-playlist	GenreDiv	3
+207	chorus-playlist	MoodSame	5
+207	chorus-playlist	MoodDiv	3
+207	chorus-playlist	SongOrder	3
+207	chorus-playlist	SongTop	1
+207	chorus-playlist	SongLast	1
+207	usual playlist	SongHit	1
+207	usual playlist	SongNew	1
+207	usual playlist	ArtistSame	5
+207	usual playlist	ArtistDiv	2
+207	usual playlist	GenreSame	4
+207	usual playlist	GenreDiv	5
+207	usual playlist	MoodSame	2
+207	usual playlist	MoodDiv	3
+207	usual playlist	SongOrder	6
+207	usual playlist	SongTop	1
+207	usual playlist	SongLast	1
+208	chorus-playlist	SongHit	4
+208	chorus-playlist	SongNew	5
+208	chorus-playlist	ArtistSame	1
+208	chorus-playlist	ArtistDiv	6
+208	chorus-playlist	GenreSame	5
+208	chorus-playlist	GenreDiv	3
+208	chorus-playlist	MoodSame	3
+208	chorus-playlist	MoodDiv	2
+208	chorus-playlist	SongOrder	1
+208	chorus-playlist	SongTop	1
+208	chorus-playlist	SongLast	1
+208	usual playlist	SongHit	5
+208	usual playlist	SongNew	2
+208	usual playlist	ArtistSame	1
+208	usual playlist	ArtistDiv	6
+208	usual playlist	GenreSame	5
+208	usual playlist	GenreDiv	2
+208	usual playlist	MoodSame	4
+208	usual playlist	MoodDiv	2
+208	usual playlist	SongOrder	1
+208	usual playlist	SongTop	1
+208	usual playlist	SongLast	1
+209	chorus-playlist	SongHit	2
+209	chorus-playlist	SongNew	3
+209	chorus-playlist	ArtistSame	4
+209	chorus-playlist	ArtistDiv	3
+209	chorus-playlist	GenreSame	2
+209	chorus-playlist	GenreDiv	3
+209	chorus-playlist	MoodSame	2
+209	chorus-playlist	MoodDiv	2
+209	chorus-playlist	SongOrder	2
+209	chorus-playlist	SongTop	1
+209	chorus-playlist	SongLast	1
+209	usual playlist	SongHit	2
+209	usual playlist	SongNew	3
+209	usual playlist	ArtistSame	2
+209	usual playlist	ArtistDiv	5
+209	usual playlist	GenreSame	6
+209	usual playlist	GenreDiv	2
+209	usual playlist	MoodSame	4
+209	usual playlist	MoodDiv	3
+209	usual playlist	SongOrder	5
+209	usual playlist	SongTop	4
+209	usual playlist	SongLast	5
+210	chorus-playlist	SongHit	5
+210	chorus-playlist	SongNew	4
+210	chorus-playlist	ArtistSame	1
+210	chorus-playlist	ArtistDiv	3
+210	chorus-playlist	GenreSame	3
+210	chorus-playlist	GenreDiv	4
+210	chorus-playlist	MoodSame	3
+210	chorus-playlist	MoodDiv	4
+210	chorus-playlist	SongOrder	2
+210	chorus-playlist	SongTop	2
+210	chorus-playlist	SongLast	3
+210	usual playlist	SongHit	3
+210	usual playlist	SongNew	2
+210	usual playlist	ArtistSame	1
+210	usual playlist	ArtistDiv	6
+210	usual playlist	GenreSame	5
+210	usual playlist	GenreDiv	2
+210	usual playlist	MoodSame	6
+210	usual playlist	MoodDiv	1
+210	usual playlist	SongOrder	6
+210	usual playlist	SongTop	4
+210	usual playlist	SongLast	4
+211	chorus-playlist	SongHit	1
+211	chorus-playlist	SongNew	1
+211	chorus-playlist	ArtistSame	3
+211	chorus-playlist	ArtistDiv	3
+211	chorus-playlist	GenreSame	5
+211	chorus-playlist	GenreDiv	2
+211	chorus-playlist	MoodSame	3
+211	chorus-playlist	MoodDiv	5
+211	chorus-playlist	SongOrder	2
+211	chorus-playlist	SongTop	2
+211	chorus-playlist	SongLast	2
+211	usual playlist	SongHit	1
+211	usual playlist	SongNew	1
+211	usual playlist	ArtistSame	4
+211	usual playlist	ArtistDiv	1
+211	usual playlist	GenreSame	5
+211	usual playlist	GenreDiv	1
+211	usual playlist	MoodSame	4
+211	usual playlist	MoodDiv	3
+211	usual playlist	SongOrder	6
+211	usual playlist	SongTop	6
+211	usual playlist	SongLast	5
+213	chorus-playlist	SongHit	1
+213	chorus-playlist	SongNew	1
+213	chorus-playlist	ArtistSame	1
+213	chorus-playlist	ArtistDiv	1
+213	chorus-playlist	GenreSame	5
+213	chorus-playlist	GenreDiv	1
+213	chorus-playlist	MoodSame	1
+213	chorus-playlist	MoodDiv	1
+213	chorus-playlist	SongOrder	6
+213	chorus-playlist	SongTop	6
+213	chorus-playlist	SongLast	1
+213	usual playlist	SongHit	1
+213	usual playlist	SongNew	1
+213	usual playlist	ArtistSame	1
+213	usual playlist	ArtistDiv	1
+213	usual playlist	GenreSame	5
+213	usual playlist	GenreDiv	1
+213	usual playlist	MoodSame	1
+213	usual playlist	MoodDiv	1
+213	usual playlist	SongOrder	6
+213	usual playlist	SongTop	6
+213	usual playlist	SongLast	1
+214	chorus-playlist	SongHit	4
+214	chorus-playlist	SongNew	5
+214	chorus-playlist	ArtistSame	2
+214	chorus-playlist	ArtistDiv	5
+214	chorus-playlist	GenreSame	6
+214	chorus-playlist	GenreDiv	6
+214	chorus-playlist	MoodSame	2
+214	chorus-playlist	MoodDiv	6
+214	chorus-playlist	SongOrder	2
+214	chorus-playlist	SongTop	6
+214	chorus-playlist	SongLast	2
+214	usual playlist	SongHit	2
+214	usual playlist	SongNew	2
+214	usual playlist	ArtistSame	1
+214	usual playlist	ArtistDiv	2
+214	usual playlist	GenreSame	3
+214	usual playlist	GenreDiv	4
+214	usual playlist	MoodSame	4
+214	usual playlist	MoodDiv	3
+214	usual playlist	SongOrder	4
+214	usual playlist	SongTop	6
+214	usual playlist	SongLast	2

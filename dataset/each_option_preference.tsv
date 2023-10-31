@@ -1,0 +1,1713 @@
+Participant_id	Choice	Option	Preference
+1	TimePreChorus	no playback	2
+1	TimePreChorus	5 seconds	6
+1	TimePreChorus	10 seconds	4
+1	Crossfade	on	6
+1	Crossfade	off	1
+1	TimeChorus	15 seconds	2
+1	TimeChorus	30 seconds	6
+1	TimeChorus	adaptive	3
+2	TimePreChorus	no playback	5
+2	TimePreChorus	5 seconds	3
+2	TimePreChorus	10 seconds	2
+2	Crossfade	on	2
+2	Crossfade	off	4
+2	TimeChorus	15 seconds	2
+2	TimeChorus	30 seconds	2
+2	TimeChorus	adaptive	5
+3	TimePreChorus	no playback	6
+3	TimePreChorus	5 seconds	5
+3	TimePreChorus	10 seconds	3
+3	Crossfade	on	5
+3	Crossfade	off	3
+3	TimeChorus	15 seconds	1
+3	TimeChorus	30 seconds	1
+3	TimeChorus	adaptive	5
+4	TimePreChorus	no playback	2
+4	TimePreChorus	5 seconds	5
+4	TimePreChorus	10 seconds	4
+4	Crossfade	on	3
+4	Crossfade	off	5
+4	TimeChorus	15 seconds	3
+4	TimeChorus	30 seconds	2
+4	TimeChorus	adaptive	6
+5	TimePreChorus	no playback	3
+5	TimePreChorus	5 seconds	5
+5	TimePreChorus	10 seconds	3
+5	Crossfade	on	5
+5	Crossfade	off	3
+5	TimeChorus	15 seconds	3
+5	TimeChorus	30 seconds	4
+5	TimeChorus	adaptive	5
+6	TimePreChorus	no playback	2
+6	TimePreChorus	5 seconds	4
+6	TimePreChorus	10 seconds	4
+6	Crossfade	on	6
+6	Crossfade	off	2
+6	TimeChorus	15 seconds	5
+6	TimeChorus	30 seconds	3
+6	TimeChorus	adaptive	3
+7	TimePreChorus	no playback	2
+7	TimePreChorus	5 seconds	6
+7	TimePreChorus	10 seconds	4
+7	Crossfade	on	6
+7	Crossfade	off	2
+7	TimeChorus	15 seconds	2
+7	TimeChorus	30 seconds	3
+7	TimeChorus	adaptive	6
+8	TimePreChorus	no playback	2
+8	TimePreChorus	5 seconds	6
+8	TimePreChorus	10 seconds	4
+8	Crossfade	on	6
+8	Crossfade	off	2
+8	TimeChorus	15 seconds	6
+8	TimeChorus	30 seconds	3
+8	TimeChorus	adaptive	3
+9	TimePreChorus	no playback	2
+9	TimePreChorus	5 seconds	5
+9	TimePreChorus	10 seconds	6
+9	Crossfade	on	6
+9	Crossfade	off	2
+9	TimeChorus	15 seconds	3
+9	TimeChorus	30 seconds	3
+9	TimeChorus	adaptive	6
+10	TimePreChorus	no playback	5
+10	TimePreChorus	5 seconds	3
+10	TimePreChorus	10 seconds	1
+10	Crossfade	on	6
+10	Crossfade	off	1
+10	TimeChorus	15 seconds	2
+10	TimeChorus	30 seconds	3
+10	TimeChorus	adaptive	5
+11	TimePreChorus	no playback	4
+11	TimePreChorus	5 seconds	5
+11	TimePreChorus	10 seconds	3
+11	Crossfade	on	3
+11	Crossfade	off	4
+11	TimeChorus	15 seconds	1
+11	TimeChorus	30 seconds	1
+11	TimeChorus	adaptive	4
+12	TimePreChorus	no playback	1
+12	TimePreChorus	5 seconds	5
+12	TimePreChorus	10 seconds	4
+12	Crossfade	on	5
+12	Crossfade	off	2
+12	TimeChorus	15 seconds	2
+12	TimeChorus	30 seconds	5
+12	TimeChorus	adaptive	4
+13	TimePreChorus	no playback	6
+13	TimePreChorus	5 seconds	2
+13	TimePreChorus	10 seconds	3
+13	Crossfade	on	6
+13	Crossfade	off	4
+13	TimeChorus	15 seconds	5
+13	TimeChorus	30 seconds	3
+13	TimeChorus	adaptive	4
+14	TimePreChorus	no playback	3
+14	TimePreChorus	5 seconds	4
+14	TimePreChorus	10 seconds	3
+14	Crossfade	on	3
+14	Crossfade	off	4
+14	TimeChorus	15 seconds	2
+14	TimeChorus	30 seconds	2
+14	TimeChorus	adaptive	4
+15	TimePreChorus	no playback	5
+15	TimePreChorus	5 seconds	4
+15	TimePreChorus	10 seconds	4
+15	Crossfade	on	6
+15	Crossfade	off	2
+15	TimeChorus	15 seconds	3
+15	TimeChorus	30 seconds	5
+15	TimeChorus	adaptive	6
+16	TimePreChorus	no playback	6
+16	TimePreChorus	5 seconds	4
+16	TimePreChorus	10 seconds	1
+16	Crossfade	on	4
+16	Crossfade	off	3
+16	TimeChorus	15 seconds	1
+16	TimeChorus	30 seconds	3
+16	TimeChorus	adaptive	5
+17	TimePreChorus	no playback	2
+17	TimePreChorus	5 seconds	6
+17	TimePreChorus	10 seconds	3
+17	Crossfade	on	3
+17	Crossfade	off	4
+17	TimeChorus	15 seconds	1
+17	TimeChorus	30 seconds	1
+17	TimeChorus	adaptive	6
+18	TimePreChorus	no playback	4
+18	TimePreChorus	5 seconds	5
+18	TimePreChorus	10 seconds	3
+18	Crossfade	on	5
+18	Crossfade	off	5
+18	TimeChorus	15 seconds	3
+18	TimeChorus	30 seconds	3
+18	TimeChorus	adaptive	6
+19	TimePreChorus	no playback	6
+19	TimePreChorus	5 seconds	5
+19	TimePreChorus	10 seconds	2
+19	Crossfade	on	6
+19	Crossfade	off	2
+19	TimeChorus	15 seconds	2
+19	TimeChorus	30 seconds	2
+19	TimeChorus	adaptive	6
+20	TimePreChorus	no playback	5
+20	TimePreChorus	5 seconds	6
+20	TimePreChorus	10 seconds	2
+20	Crossfade	on	6
+20	Crossfade	off	1
+20	TimeChorus	15 seconds	5
+20	TimeChorus	30 seconds	5
+20	TimeChorus	adaptive	6
+21	TimePreChorus	no playback	4
+21	TimePreChorus	5 seconds	1
+21	TimePreChorus	10 seconds	1
+21	Crossfade	on	4
+21	Crossfade	off	1
+21	TimeChorus	15 seconds	4
+21	TimeChorus	30 seconds	6
+21	TimeChorus	adaptive	6
+22	TimePreChorus	no playback	5
+22	TimePreChorus	5 seconds	6
+22	TimePreChorus	10 seconds	3
+22	Crossfade	on	6
+22	Crossfade	off	2
+22	TimeChorus	15 seconds	3
+22	TimeChorus	30 seconds	4
+22	TimeChorus	adaptive	6
+23	TimePreChorus	no playback	6
+23	TimePreChorus	5 seconds	2
+23	TimePreChorus	10 seconds	1
+23	Crossfade	on	4
+23	Crossfade	off	3
+23	TimeChorus	15 seconds	4
+23	TimeChorus	30 seconds	3
+23	TimeChorus	adaptive	5
+24	TimePreChorus	no playback	4
+24	TimePreChorus	5 seconds	2
+24	TimePreChorus	10 seconds	1
+24	Crossfade	on	2
+24	Crossfade	off	4
+24	TimeChorus	15 seconds	1
+24	TimeChorus	30 seconds	1
+24	TimeChorus	adaptive	5
+25	TimePreChorus	no playback	3
+25	TimePreChorus	5 seconds	5
+25	TimePreChorus	10 seconds	3
+25	Crossfade	on	6
+25	Crossfade	off	2
+25	TimeChorus	15 seconds	4
+25	TimeChorus	30 seconds	4
+25	TimeChorus	adaptive	4
+26	TimePreChorus	no playback	2
+26	TimePreChorus	5 seconds	5
+26	TimePreChorus	10 seconds	4
+26	Crossfade	on	6
+26	Crossfade	off	4
+26	TimeChorus	15 seconds	3
+26	TimeChorus	30 seconds	5
+26	TimeChorus	adaptive	6
+27	TimePreChorus	no playback	1
+27	TimePreChorus	5 seconds	2
+27	TimePreChorus	10 seconds	6
+27	Crossfade	on	4
+27	Crossfade	off	1
+27	TimeChorus	15 seconds	1
+27	TimeChorus	30 seconds	1
+27	TimeChorus	adaptive	6
+28	TimePreChorus	no playback	1
+28	TimePreChorus	5 seconds	3
+28	TimePreChorus	10 seconds	4
+28	Crossfade	on	4
+28	Crossfade	off	1
+28	TimeChorus	15 seconds	1
+28	TimeChorus	30 seconds	2
+28	TimeChorus	adaptive	4
+29	TimePreChorus	no playback	3
+29	TimePreChorus	5 seconds	3
+29	TimePreChorus	10 seconds	5
+29	Crossfade	on	5
+29	Crossfade	off	3
+29	TimeChorus	15 seconds	2
+29	TimeChorus	30 seconds	4
+29	TimeChorus	adaptive	5
+30	TimePreChorus	no playback	2
+30	TimePreChorus	5 seconds	5
+30	TimePreChorus	10 seconds	1
+30	Crossfade	on	5
+30	Crossfade	off	2
+30	TimeChorus	15 seconds	4
+30	TimeChorus	30 seconds	2
+30	TimeChorus	adaptive	5
+31	TimePreChorus	no playback	4
+31	TimePreChorus	5 seconds	4
+31	TimePreChorus	10 seconds	3
+31	Crossfade	on	3
+31	Crossfade	off	4
+31	TimeChorus	15 seconds	2
+31	TimeChorus	30 seconds	2
+31	TimeChorus	adaptive	5
+32	TimePreChorus	no playback	1
+32	TimePreChorus	5 seconds	6
+32	TimePreChorus	10 seconds	4
+32	Crossfade	on	6
+32	Crossfade	off	1
+32	TimeChorus	15 seconds	2
+32	TimeChorus	30 seconds	1
+32	TimeChorus	adaptive	6
+33	TimePreChorus	no playback	6
+33	TimePreChorus	5 seconds	2
+33	TimePreChorus	10 seconds	1
+33	Crossfade	on	5
+33	Crossfade	off	6
+33	TimeChorus	15 seconds	6
+33	TimeChorus	30 seconds	3
+33	TimeChorus	adaptive	5
+34	TimePreChorus	no playback	1
+34	TimePreChorus	5 seconds	4
+34	TimePreChorus	10 seconds	4
+34	Crossfade	on	3
+34	Crossfade	off	5
+34	TimeChorus	15 seconds	4
+34	TimeChorus	30 seconds	4
+34	TimeChorus	adaptive	6
+35	TimePreChorus	no playback	2
+35	TimePreChorus	5 seconds	4
+35	TimePreChorus	10 seconds	2
+35	Crossfade	on	4
+35	Crossfade	off	3
+35	TimeChorus	15 seconds	3
+35	TimeChorus	30 seconds	2
+35	TimeChorus	adaptive	5
+36	TimePreChorus	no playback	5
+36	TimePreChorus	5 seconds	4
+36	TimePreChorus	10 seconds	3
+36	Crossfade	on	5
+36	Crossfade	off	4
+36	TimeChorus	15 seconds	5
+36	TimeChorus	30 seconds	6
+36	TimeChorus	adaptive	5
+37	TimePreChorus	no playback	2
+37	TimePreChorus	5 seconds	6
+37	TimePreChorus	10 seconds	4
+37	Crossfade	on	6
+37	Crossfade	off	3
+37	TimeChorus	15 seconds	3
+37	TimeChorus	30 seconds	4
+37	TimeChorus	adaptive	6
+38	TimePreChorus	no playback	6
+38	TimePreChorus	5 seconds	5
+38	TimePreChorus	10 seconds	2
+38	Crossfade	on	6
+38	Crossfade	off	2
+38	TimeChorus	15 seconds	2
+38	TimeChorus	30 seconds	4
+38	TimeChorus	adaptive	6
+39	TimePreChorus	no playback	1
+39	TimePreChorus	5 seconds	6
+39	TimePreChorus	10 seconds	3
+39	Crossfade	on	3
+39	Crossfade	off	5
+39	TimeChorus	15 seconds	1
+39	TimeChorus	30 seconds	3
+39	TimeChorus	adaptive	6
+40	TimePreChorus	no playback	6
+40	TimePreChorus	5 seconds	2
+40	TimePreChorus	10 seconds	1
+40	Crossfade	on	6
+40	Crossfade	off	2
+40	TimeChorus	15 seconds	3
+40	TimeChorus	30 seconds	3
+40	TimeChorus	adaptive	5
+41	TimePreChorus	no playback	2
+41	TimePreChorus	5 seconds	4
+41	TimePreChorus	10 seconds	4
+41	Crossfade	on	4
+41	Crossfade	off	4
+41	TimeChorus	15 seconds	4
+41	TimeChorus	30 seconds	4
+41	TimeChorus	adaptive	5
+42	TimePreChorus	no playback	5
+42	TimePreChorus	5 seconds	4
+42	TimePreChorus	10 seconds	2
+42	Crossfade	on	6
+42	Crossfade	off	1
+42	TimeChorus	15 seconds	6
+42	TimeChorus	30 seconds	2
+42	TimeChorus	adaptive	2
+43	TimePreChorus	no playback	6
+43	TimePreChorus	5 seconds	3
+43	TimePreChorus	10 seconds	1
+43	Crossfade	on	1
+43	Crossfade	off	6
+43	TimeChorus	15 seconds	1
+43	TimeChorus	30 seconds	3
+43	TimeChorus	adaptive	3
+44	TimePreChorus	no playback	2
+44	TimePreChorus	5 seconds	6
+44	TimePreChorus	10 seconds	4
+44	Crossfade	on	5
+44	Crossfade	off	5
+44	TimeChorus	15 seconds	6
+44	TimeChorus	30 seconds	5
+44	TimeChorus	adaptive	5
+45	TimePreChorus	no playback	6
+45	TimePreChorus	5 seconds	6
+45	TimePreChorus	10 seconds	3
+45	Crossfade	on	4
+45	Crossfade	off	3
+45	TimeChorus	15 seconds	5
+45	TimeChorus	30 seconds	3
+45	TimeChorus	adaptive	4
+46	TimePreChorus	no playback	2
+46	TimePreChorus	5 seconds	6
+46	TimePreChorus	10 seconds	5
+46	Crossfade	on	5
+46	Crossfade	off	3
+46	TimeChorus	15 seconds	1
+46	TimeChorus	30 seconds	2
+46	TimeChorus	adaptive	6
+47	TimePreChorus	no playback	2
+47	TimePreChorus	5 seconds	5
+47	TimePreChorus	10 seconds	4
+47	Crossfade	on	4
+47	Crossfade	off	2
+47	TimeChorus	15 seconds	2
+47	TimeChorus	30 seconds	5
+47	TimeChorus	adaptive	4
+48	TimePreChorus	no playback	3
+48	TimePreChorus	5 seconds	2
+48	TimePreChorus	10 seconds	2
+48	Crossfade	on	5
+48	Crossfade	off	3
+48	TimeChorus	15 seconds	2
+48	TimeChorus	30 seconds	3
+48	TimeChorus	adaptive	4
+49	TimePreChorus	no playback	4
+49	TimePreChorus	5 seconds	3
+49	TimePreChorus	10 seconds	2
+49	Crossfade	on	4
+49	Crossfade	off	3
+49	TimeChorus	15 seconds	4
+49	TimeChorus	30 seconds	3
+49	TimeChorus	adaptive	1
+50	TimePreChorus	no playback	3
+50	TimePreChorus	5 seconds	5
+50	TimePreChorus	10 seconds	3
+50	Crossfade	on	5
+50	Crossfade	off	2
+50	TimeChorus	15 seconds	1
+50	TimeChorus	30 seconds	1
+50	TimeChorus	adaptive	5
+51	TimePreChorus	no playback	3
+51	TimePreChorus	5 seconds	3
+51	TimePreChorus	10 seconds	4
+51	Crossfade	on	2
+51	Crossfade	off	4
+51	TimeChorus	15 seconds	1
+51	TimeChorus	30 seconds	3
+51	TimeChorus	adaptive	5
+52	TimePreChorus	no playback	2
+52	TimePreChorus	5 seconds	6
+52	TimePreChorus	10 seconds	5
+52	Crossfade	on	6
+52	Crossfade	off	2
+52	TimeChorus	15 seconds	2
+52	TimeChorus	30 seconds	4
+52	TimeChorus	adaptive	6
+53	TimePreChorus	no playback	6
+53	TimePreChorus	5 seconds	2
+53	TimePreChorus	10 seconds	1
+53	Crossfade	on	6
+53	Crossfade	off	1
+53	TimeChorus	15 seconds	2
+53	TimeChorus	30 seconds	1
+53	TimeChorus	adaptive	6
+54	TimePreChorus	no playback	5
+54	TimePreChorus	5 seconds	6
+54	TimePreChorus	10 seconds	3
+54	Crossfade	on	6
+54	Crossfade	off	5
+54	TimeChorus	15 seconds	2
+54	TimeChorus	30 seconds	2
+54	TimeChorus	adaptive	6
+55	TimePreChorus	no playback	5
+55	TimePreChorus	5 seconds	4
+55	TimePreChorus	10 seconds	3
+55	Crossfade	on	5
+55	Crossfade	off	3
+55	TimeChorus	15 seconds	3
+55	TimeChorus	30 seconds	3
+55	TimeChorus	adaptive	5
+56	TimePreChorus	no playback	6
+56	TimePreChorus	5 seconds	5
+56	TimePreChorus	10 seconds	3
+56	Crossfade	on	6
+56	Crossfade	off	5
+56	TimeChorus	15 seconds	4
+56	TimeChorus	30 seconds	3
+56	TimeChorus	adaptive	6
+57	TimePreChorus	no playback	6
+57	TimePreChorus	5 seconds	4
+57	TimePreChorus	10 seconds	3
+57	Crossfade	on	6
+57	Crossfade	off	5
+57	TimeChorus	15 seconds	3
+57	TimeChorus	30 seconds	3
+57	TimeChorus	adaptive	6
+58	TimePreChorus	no playback	2
+58	TimePreChorus	5 seconds	4
+58	TimePreChorus	10 seconds	5
+58	Crossfade	on	6
+58	Crossfade	off	2
+58	TimeChorus	15 seconds	4
+58	TimeChorus	30 seconds	5
+58	TimeChorus	adaptive	6
+59	TimePreChorus	no playback	2
+59	TimePreChorus	5 seconds	4
+59	TimePreChorus	10 seconds	6
+59	Crossfade	on	6
+59	Crossfade	off	3
+59	TimeChorus	15 seconds	3
+59	TimeChorus	30 seconds	5
+59	TimeChorus	adaptive	4
+60	TimePreChorus	no playback	2
+60	TimePreChorus	5 seconds	5
+60	TimePreChorus	10 seconds	2
+60	Crossfade	on	5
+60	Crossfade	off	3
+60	TimeChorus	15 seconds	5
+60	TimeChorus	30 seconds	4
+60	TimeChorus	adaptive	3
+61	TimePreChorus	no playback	6
+61	TimePreChorus	5 seconds	3
+61	TimePreChorus	10 seconds	2
+61	Crossfade	on	6
+61	Crossfade	off	3
+61	TimeChorus	15 seconds	4
+61	TimeChorus	30 seconds	5
+61	TimeChorus	adaptive	6
+62	TimePreChorus	no playback	5
+62	TimePreChorus	5 seconds	3
+62	TimePreChorus	10 seconds	3
+62	Crossfade	on	5
+62	Crossfade	off	3
+62	TimeChorus	15 seconds	3
+62	TimeChorus	30 seconds	2
+62	TimeChorus	adaptive	6
+63	TimePreChorus	no playback	2
+63	TimePreChorus	5 seconds	4
+63	TimePreChorus	10 seconds	6
+63	Crossfade	on	5
+63	Crossfade	off	4
+63	TimeChorus	15 seconds	6
+63	TimeChorus	30 seconds	2
+63	TimeChorus	adaptive	4
+64	TimePreChorus	no playback	2
+64	TimePreChorus	5 seconds	4
+64	TimePreChorus	10 seconds	6
+64	Crossfade	on	6
+64	Crossfade	off	2
+64	TimeChorus	15 seconds	1
+64	TimeChorus	30 seconds	2
+64	TimeChorus	adaptive	6
+65	TimePreChorus	no playback	6
+65	TimePreChorus	5 seconds	1
+65	TimePreChorus	10 seconds	1
+65	Crossfade	on	1
+65	Crossfade	off	6
+65	TimeChorus	15 seconds	5
+65	TimeChorus	30 seconds	5
+65	TimeChorus	adaptive	6
+66	TimePreChorus	no playback	2
+66	TimePreChorus	5 seconds	6
+66	TimePreChorus	10 seconds	2
+66	Crossfade	on	5
+66	Crossfade	off	3
+66	TimeChorus	15 seconds	2
+66	TimeChorus	30 seconds	1
+66	TimeChorus	adaptive	6
+67	TimePreChorus	no playback	1
+67	TimePreChorus	5 seconds	4
+67	TimePreChorus	10 seconds	6
+67	Crossfade	on	5
+67	Crossfade	off	3
+67	TimeChorus	15 seconds	2
+67	TimeChorus	30 seconds	5
+67	TimeChorus	adaptive	3
+68	TimePreChorus	no playback	5
+68	TimePreChorus	5 seconds	3
+68	TimePreChorus	10 seconds	2
+68	Crossfade	on	5
+68	Crossfade	off	3
+68	TimeChorus	15 seconds	3
+68	TimeChorus	30 seconds	2
+68	TimeChorus	adaptive	5
+69	TimePreChorus	no playback	2
+69	TimePreChorus	5 seconds	4
+69	TimePreChorus	10 seconds	3
+69	Crossfade	on	6
+69	Crossfade	off	2
+69	TimeChorus	15 seconds	1
+69	TimeChorus	30 seconds	1
+69	TimeChorus	adaptive	1
+70	TimePreChorus	no playback	2
+70	TimePreChorus	5 seconds	5
+70	TimePreChorus	10 seconds	4
+70	Crossfade	on	6
+70	Crossfade	off	3
+70	TimeChorus	15 seconds	5
+70	TimeChorus	30 seconds	5
+70	TimeChorus	adaptive	4
+71	TimePreChorus	no playback	5
+71	TimePreChorus	5 seconds	2
+71	TimePreChorus	10 seconds	1
+71	Crossfade	on	3
+71	Crossfade	off	6
+71	TimeChorus	15 seconds	5
+71	TimeChorus	30 seconds	1
+71	TimeChorus	adaptive	1
+72	TimePreChorus	no playback	3
+72	TimePreChorus	5 seconds	6
+72	TimePreChorus	10 seconds	4
+72	Crossfade	on	6
+72	Crossfade	off	1
+72	TimeChorus	15 seconds	3
+72	TimeChorus	30 seconds	3
+72	TimeChorus	adaptive	5
+73	TimePreChorus	no playback	2
+73	TimePreChorus	5 seconds	6
+73	TimePreChorus	10 seconds	5
+73	Crossfade	on	3
+73	Crossfade	off	5
+73	TimeChorus	15 seconds	3
+73	TimeChorus	30 seconds	4
+73	TimeChorus	adaptive	5
+74	TimePreChorus	no playback	6
+74	TimePreChorus	5 seconds	3
+74	TimePreChorus	10 seconds	1
+74	Crossfade	on	6
+74	Crossfade	off	3
+74	TimeChorus	15 seconds	1
+74	TimeChorus	30 seconds	1
+74	TimeChorus	adaptive	6
+75	TimePreChorus	no playback	1
+75	TimePreChorus	5 seconds	4
+75	TimePreChorus	10 seconds	6
+75	Crossfade	on	6
+75	Crossfade	off	3
+75	TimeChorus	15 seconds	1
+75	TimeChorus	30 seconds	1
+75	TimeChorus	adaptive	6
+76	TimePreChorus	no playback	1
+76	TimePreChorus	5 seconds	6
+76	TimePreChorus	10 seconds	5
+76	Crossfade	on	6
+76	Crossfade	off	1
+76	TimeChorus	15 seconds	4
+76	TimeChorus	30 seconds	5
+76	TimeChorus	adaptive	4
+77	TimePreChorus	no playback	3
+77	TimePreChorus	5 seconds	5
+77	TimePreChorus	10 seconds	2
+77	Crossfade	on	5
+77	Crossfade	off	3
+77	TimeChorus	15 seconds	3
+77	TimeChorus	30 seconds	2
+77	TimeChorus	adaptive	1
+78	TimePreChorus	no playback	5
+78	TimePreChorus	5 seconds	4
+78	TimePreChorus	10 seconds	2
+78	Crossfade	on	5
+78	Crossfade	off	2
+78	TimeChorus	15 seconds	2
+78	TimeChorus	30 seconds	3
+78	TimeChorus	adaptive	6
+79	TimePreChorus	no playback	5
+79	TimePreChorus	5 seconds	3
+79	TimePreChorus	10 seconds	2
+79	Crossfade	on	6
+79	Crossfade	off	4
+79	TimeChorus	15 seconds	3
+79	TimeChorus	30 seconds	4
+79	TimeChorus	adaptive	5
+80	TimePreChorus	no playback	6
+80	TimePreChorus	5 seconds	4
+80	TimePreChorus	10 seconds	2
+80	Crossfade	on	5
+80	Crossfade	off	4
+80	TimeChorus	15 seconds	1
+80	TimeChorus	30 seconds	2
+80	TimeChorus	adaptive	6
+81	TimePreChorus	no playback	2
+81	TimePreChorus	5 seconds	3
+81	TimePreChorus	10 seconds	5
+81	Crossfade	on	4
+81	Crossfade	off	5
+81	TimeChorus	15 seconds	5
+81	TimeChorus	30 seconds	4
+81	TimeChorus	adaptive	5
+82	TimePreChorus	no playback	2
+82	TimePreChorus	5 seconds	5
+82	TimePreChorus	10 seconds	4
+82	Crossfade	on	5
+82	Crossfade	off	3
+82	TimeChorus	15 seconds	1
+82	TimeChorus	30 seconds	3
+82	TimeChorus	adaptive	6
+83	TimePreChorus	no playback	2
+83	TimePreChorus	5 seconds	5
+83	TimePreChorus	10 seconds	2
+83	Crossfade	on	5
+83	Crossfade	off	2
+83	TimeChorus	15 seconds	3
+83	TimeChorus	30 seconds	2
+83	TimeChorus	adaptive	6
+84	TimePreChorus	no playback	3
+84	TimePreChorus	5 seconds	6
+84	TimePreChorus	10 seconds	5
+84	Crossfade	on	3
+84	Crossfade	off	6
+84	TimeChorus	15 seconds	5
+84	TimeChorus	30 seconds	5
+84	TimeChorus	adaptive	6
+85	TimePreChorus	no playback	3
+85	TimePreChorus	5 seconds	6
+85	TimePreChorus	10 seconds	6
+85	Crossfade	on	6
+85	Crossfade	off	3
+85	TimeChorus	15 seconds	4
+85	TimeChorus	30 seconds	3
+85	TimeChorus	adaptive	6
+86	TimePreChorus	no playback	2
+86	TimePreChorus	5 seconds	5
+86	TimePreChorus	10 seconds	6
+86	Crossfade	on	6
+86	Crossfade	off	2
+86	TimeChorus	15 seconds	5
+86	TimeChorus	30 seconds	2
+86	TimeChorus	adaptive	6
+87	TimePreChorus	no playback	3
+87	TimePreChorus	5 seconds	4
+87	TimePreChorus	10 seconds	5
+87	Crossfade	on	3
+87	Crossfade	off	4
+87	TimeChorus	15 seconds	2
+87	TimeChorus	30 seconds	4
+87	TimeChorus	adaptive	5
+88	TimePreChorus	no playback	3
+88	TimePreChorus	5 seconds	4
+88	TimePreChorus	10 seconds	4
+88	Crossfade	on	5
+88	Crossfade	off	4
+88	TimeChorus	15 seconds	2
+88	TimeChorus	30 seconds	3
+88	TimeChorus	adaptive	4
+89	TimePreChorus	no playback	4
+89	TimePreChorus	5 seconds	4
+89	TimePreChorus	10 seconds	4
+89	Crossfade	on	4
+89	Crossfade	off	5
+89	TimeChorus	15 seconds	4
+89	TimeChorus	30 seconds	4
+89	TimeChorus	adaptive	6
+90	TimePreChorus	no playback	1
+90	TimePreChorus	5 seconds	2
+90	TimePreChorus	10 seconds	5
+90	Crossfade	on	6
+90	Crossfade	off	1
+90	TimeChorus	15 seconds	2
+90	TimeChorus	30 seconds	5
+90	TimeChorus	adaptive	3
+91	TimePreChorus	no playback	3
+91	TimePreChorus	5 seconds	3
+91	TimePreChorus	10 seconds	3
+91	Crossfade	on	4
+91	Crossfade	off	4
+91	TimeChorus	15 seconds	4
+91	TimeChorus	30 seconds	4
+91	TimeChorus	adaptive	4
+92	TimePreChorus	no playback	5
+92	TimePreChorus	5 seconds	6
+92	TimePreChorus	10 seconds	3
+92	Crossfade	on	5
+92	Crossfade	off	3
+92	TimeChorus	15 seconds	2
+92	TimeChorus	30 seconds	2
+92	TimeChorus	adaptive	6
+93	TimePreChorus	no playback	6
+93	TimePreChorus	5 seconds	4
+93	TimePreChorus	10 seconds	2
+93	Crossfade	on	6
+93	Crossfade	off	2
+93	TimeChorus	15 seconds	6
+93	TimeChorus	30 seconds	4
+93	TimeChorus	adaptive	2
+94	TimePreChorus	no playback	2
+94	TimePreChorus	5 seconds	5
+94	TimePreChorus	10 seconds	2
+94	Crossfade	on	5
+94	Crossfade	off	1
+94	TimeChorus	15 seconds	3
+94	TimeChorus	30 seconds	6
+94	TimeChorus	adaptive	1
+95	TimePreChorus	no playback	5
+95	TimePreChorus	5 seconds	4
+95	TimePreChorus	10 seconds	6
+95	Crossfade	on	5
+95	Crossfade	off	4
+95	TimeChorus	15 seconds	3
+95	TimeChorus	30 seconds	3
+95	TimeChorus	adaptive	6
+96	TimePreChorus	no playback	4
+96	TimePreChorus	5 seconds	2
+96	TimePreChorus	10 seconds	1
+96	Crossfade	on	6
+96	Crossfade	off	1
+96	TimeChorus	15 seconds	5
+96	TimeChorus	30 seconds	2
+96	TimeChorus	adaptive	1
+97	TimePreChorus	no playback	1
+97	TimePreChorus	5 seconds	3
+97	TimePreChorus	10 seconds	6
+97	Crossfade	on	6
+97	Crossfade	off	2
+97	TimeChorus	15 seconds	2
+97	TimeChorus	30 seconds	4
+97	TimeChorus	adaptive	5
+98	TimePreChorus	no playback	3
+98	TimePreChorus	5 seconds	4
+98	TimePreChorus	10 seconds	4
+98	Crossfade	on	5
+98	Crossfade	off	3
+98	TimeChorus	15 seconds	5
+98	TimeChorus	30 seconds	3
+98	TimeChorus	adaptive	4
+99	TimePreChorus	no playback	2
+99	TimePreChorus	5 seconds	4
+99	TimePreChorus	10 seconds	3
+99	Crossfade	on	4
+99	Crossfade	off	2
+99	TimeChorus	15 seconds	4
+99	TimeChorus	30 seconds	3
+99	TimeChorus	adaptive	2
+100	TimePreChorus	no playback	3
+100	TimePreChorus	5 seconds	4
+100	TimePreChorus	10 seconds	5
+100	Crossfade	on	6
+100	Crossfade	off	3
+100	TimeChorus	15 seconds	3
+100	TimeChorus	30 seconds	4
+100	TimeChorus	adaptive	6
+101	TimePreChorus	no playback	5
+101	TimePreChorus	5 seconds	3
+101	TimePreChorus	10 seconds	2
+101	Crossfade	on	3
+101	Crossfade	off	4
+101	TimeChorus	15 seconds	4
+101	TimeChorus	30 seconds	4
+101	TimeChorus	adaptive	5
+102	TimePreChorus	no playback	3
+102	TimePreChorus	5 seconds	5
+102	TimePreChorus	10 seconds	2
+102	Crossfade	on	2
+102	Crossfade	off	5
+102	TimeChorus	15 seconds	2
+102	TimeChorus	30 seconds	3
+102	TimeChorus	adaptive	5
+103	TimePreChorus	no playback	2
+103	TimePreChorus	5 seconds	6
+103	TimePreChorus	10 seconds	3
+103	Crossfade	on	6
+103	Crossfade	off	2
+103	TimeChorus	15 seconds	3
+103	TimeChorus	30 seconds	6
+103	TimeChorus	adaptive	3
+104	TimePreChorus	no playback	3
+104	TimePreChorus	5 seconds	5
+104	TimePreChorus	10 seconds	3
+104	Crossfade	on	5
+104	Crossfade	off	2
+104	TimeChorus	15 seconds	3
+104	TimeChorus	30 seconds	4
+104	TimeChorus	adaptive	2
+105	TimePreChorus	no playback	2
+105	TimePreChorus	5 seconds	6
+105	TimePreChorus	10 seconds	4
+105	Crossfade	on	5
+105	Crossfade	off	1
+105	TimeChorus	15 seconds	2
+105	TimeChorus	30 seconds	4
+105	TimeChorus	adaptive	5
+106	TimePreChorus	no playback	2
+106	TimePreChorus	5 seconds	5
+106	TimePreChorus	10 seconds	4
+106	Crossfade	on	5
+106	Crossfade	off	3
+106	TimeChorus	15 seconds	4
+106	TimeChorus	30 seconds	3
+106	TimeChorus	adaptive	1
+107	TimePreChorus	no playback	4
+107	TimePreChorus	5 seconds	5
+107	TimePreChorus	10 seconds	4
+107	Crossfade	on	3
+107	Crossfade	off	5
+107	TimeChorus	15 seconds	1
+107	TimeChorus	30 seconds	1
+107	TimeChorus	adaptive	6
+108	TimePreChorus	no playback	2
+108	TimePreChorus	5 seconds	4
+108	TimePreChorus	10 seconds	5
+108	Crossfade	on	5
+108	Crossfade	off	2
+108	TimeChorus	15 seconds	6
+108	TimeChorus	30 seconds	5
+108	TimeChorus	adaptive	2
+109	TimePreChorus	no playback	2
+109	TimePreChorus	5 seconds	4
+109	TimePreChorus	10 seconds	4
+109	Crossfade	on	4
+109	Crossfade	off	2
+109	TimeChorus	15 seconds	4
+109	TimeChorus	30 seconds	5
+109	TimeChorus	adaptive	4
+110	TimePreChorus	no playback	3
+110	TimePreChorus	5 seconds	5
+110	TimePreChorus	10 seconds	3
+110	Crossfade	on	2
+110	Crossfade	off	5
+110	TimeChorus	15 seconds	2
+110	TimeChorus	30 seconds	3
+110	TimeChorus	adaptive	5
+111	TimePreChorus	no playback	1
+111	TimePreChorus	5 seconds	2
+111	TimePreChorus	10 seconds	6
+111	Crossfade	on	6
+111	Crossfade	off	1
+111	TimeChorus	15 seconds	2
+111	TimeChorus	30 seconds	5
+111	TimeChorus	adaptive	2
+112	TimePreChorus	no playback	2
+112	TimePreChorus	5 seconds	6
+112	TimePreChorus	10 seconds	2
+112	Crossfade	on	6
+112	Crossfade	off	1
+112	TimeChorus	15 seconds	5
+112	TimeChorus	30 seconds	2
+112	TimeChorus	adaptive	6
+113	TimePreChorus	no playback	2
+113	TimePreChorus	5 seconds	5
+113	TimePreChorus	10 seconds	3
+113	Crossfade	on	6
+113	Crossfade	off	3
+113	TimeChorus	15 seconds	4
+113	TimeChorus	30 seconds	3
+113	TimeChorus	adaptive	6
+114	TimePreChorus	no playback	3
+114	TimePreChorus	5 seconds	6
+114	TimePreChorus	10 seconds	5
+114	Crossfade	on	6
+114	Crossfade	off	2
+114	TimeChorus	15 seconds	3
+114	TimeChorus	30 seconds	3
+114	TimeChorus	adaptive	6
+115	TimePreChorus	no playback	3
+115	TimePreChorus	5 seconds	5
+115	TimePreChorus	10 seconds	3
+115	Crossfade	on	4
+115	Crossfade	off	3
+115	TimeChorus	15 seconds	2
+115	TimeChorus	30 seconds	2
+115	TimeChorus	adaptive	5
+116	TimePreChorus	no playback	2
+116	TimePreChorus	5 seconds	5
+116	TimePreChorus	10 seconds	4
+116	Crossfade	on	5
+116	Crossfade	off	3
+116	TimeChorus	15 seconds	5
+116	TimeChorus	30 seconds	3
+116	TimeChorus	adaptive	3
+117	TimePreChorus	no playback	3
+117	TimePreChorus	5 seconds	2
+117	TimePreChorus	10 seconds	4
+117	Crossfade	on	5
+117	Crossfade	off	2
+117	TimeChorus	15 seconds	3
+117	TimeChorus	30 seconds	3
+117	TimeChorus	adaptive	5
+118	TimePreChorus	no playback	4
+118	TimePreChorus	5 seconds	6
+118	TimePreChorus	10 seconds	5
+118	Crossfade	on	1
+118	Crossfade	off	6
+118	TimeChorus	15 seconds	3
+118	TimeChorus	30 seconds	4
+118	TimeChorus	adaptive	6
+119	TimePreChorus	no playback	2
+119	TimePreChorus	5 seconds	1
+119	TimePreChorus	10 seconds	4
+119	Crossfade	on	4
+119	Crossfade	off	4
+119	TimeChorus	15 seconds	6
+119	TimeChorus	30 seconds	1
+119	TimeChorus	adaptive	3
+120	TimePreChorus	no playback	6
+120	TimePreChorus	5 seconds	5
+120	TimePreChorus	10 seconds	2
+120	Crossfade	on	6
+120	Crossfade	off	2
+120	TimeChorus	15 seconds	4
+120	TimeChorus	30 seconds	1
+120	TimeChorus	adaptive	6
+121	TimePreChorus	no playback	4
+121	TimePreChorus	5 seconds	3
+121	TimePreChorus	10 seconds	1
+121	Crossfade	on	5
+121	Crossfade	off	3
+121	TimeChorus	15 seconds	4
+121	TimeChorus	30 seconds	3
+121	TimeChorus	adaptive	2
+122	TimePreChorus	no playback	5
+122	TimePreChorus	5 seconds	6
+122	TimePreChorus	10 seconds	3
+122	Crossfade	on	6
+122	Crossfade	off	3
+122	TimeChorus	15 seconds	2
+122	TimeChorus	30 seconds	2
+122	TimeChorus	adaptive	5
+123	TimePreChorus	no playback	3
+123	TimePreChorus	5 seconds	5
+123	TimePreChorus	10 seconds	4
+123	Crossfade	on	5
+123	Crossfade	off	3
+123	TimeChorus	15 seconds	2
+123	TimeChorus	30 seconds	3
+123	TimeChorus	adaptive	6
+124	TimePreChorus	no playback	6
+124	TimePreChorus	5 seconds	4
+124	TimePreChorus	10 seconds	4
+124	Crossfade	on	5
+124	Crossfade	off	4
+124	TimeChorus	15 seconds	6
+124	TimeChorus	30 seconds	5
+124	TimeChorus	adaptive	4
+125	TimePreChorus	no playback	2
+125	TimePreChorus	5 seconds	3
+125	TimePreChorus	10 seconds	6
+125	Crossfade	on	6
+125	Crossfade	off	3
+125	TimeChorus	15 seconds	4
+125	TimeChorus	30 seconds	3
+125	TimeChorus	adaptive	2
+126	TimePreChorus	no playback	6
+126	TimePreChorus	5 seconds	2
+126	TimePreChorus	10 seconds	1
+126	Crossfade	on	1
+126	Crossfade	off	6
+126	TimeChorus	15 seconds	4
+126	TimeChorus	30 seconds	2
+126	TimeChorus	adaptive	2
+127	TimePreChorus	no playback	6
+127	TimePreChorus	5 seconds	4
+127	TimePreChorus	10 seconds	3
+127	Crossfade	on	6
+127	Crossfade	off	3
+127	TimeChorus	15 seconds	4
+127	TimeChorus	30 seconds	5
+127	TimeChorus	adaptive	6
+128	TimePreChorus	no playback	4
+128	TimePreChorus	5 seconds	4
+128	TimePreChorus	10 seconds	5
+128	Crossfade	on	4
+128	Crossfade	off	5
+128	TimeChorus	15 seconds	4
+128	TimeChorus	30 seconds	5
+128	TimeChorus	adaptive	4
+129	TimePreChorus	no playback	2
+129	TimePreChorus	5 seconds	5
+129	TimePreChorus	10 seconds	3
+129	Crossfade	on	5
+129	Crossfade	off	2
+129	TimeChorus	15 seconds	3
+129	TimeChorus	30 seconds	2
+129	TimeChorus	adaptive	6
+130	TimePreChorus	no playback	3
+130	TimePreChorus	5 seconds	4
+130	TimePreChorus	10 seconds	6
+130	Crossfade	on	5
+130	Crossfade	off	2
+130	TimeChorus	15 seconds	3
+130	TimeChorus	30 seconds	4
+130	TimeChorus	adaptive	5
+131	TimePreChorus	no playback	6
+131	TimePreChorus	5 seconds	3
+131	TimePreChorus	10 seconds	3
+131	Crossfade	on	6
+131	Crossfade	off	4
+131	TimeChorus	15 seconds	2
+131	TimeChorus	30 seconds	3
+131	TimeChorus	adaptive	6
+132	TimePreChorus	no playback	5
+132	TimePreChorus	5 seconds	6
+132	TimePreChorus	10 seconds	4
+132	Crossfade	on	4
+132	Crossfade	off	3
+132	TimeChorus	15 seconds	1
+132	TimeChorus	30 seconds	4
+132	TimeChorus	adaptive	5
+133	TimePreChorus	no playback	4
+133	TimePreChorus	5 seconds	5
+133	TimePreChorus	10 seconds	3
+133	Crossfade	on	5
+133	Crossfade	off	2
+133	TimeChorus	15 seconds	2
+133	TimeChorus	30 seconds	1
+133	TimeChorus	adaptive	1
+134	TimePreChorus	no playback	2
+134	TimePreChorus	5 seconds	3
+134	TimePreChorus	10 seconds	5
+134	Crossfade	on	6
+134	Crossfade	off	2
+134	TimeChorus	15 seconds	2
+134	TimeChorus	30 seconds	4
+134	TimeChorus	adaptive	6
+135	TimePreChorus	no playback	4
+135	TimePreChorus	5 seconds	4
+135	TimePreChorus	10 seconds	3
+135	Crossfade	on	4
+135	Crossfade	off	3
+135	TimeChorus	15 seconds	2
+135	TimeChorus	30 seconds	2
+135	TimeChorus	adaptive	6
+136	TimePreChorus	no playback	3
+136	TimePreChorus	5 seconds	5
+136	TimePreChorus	10 seconds	2
+136	Crossfade	on	3
+136	Crossfade	off	4
+136	TimeChorus	15 seconds	3
+136	TimeChorus	30 seconds	5
+136	TimeChorus	adaptive	6
+137	TimePreChorus	no playback	6
+137	TimePreChorus	5 seconds	5
+137	TimePreChorus	10 seconds	3
+137	Crossfade	on	6
+137	Crossfade	off	1
+137	TimeChorus	15 seconds	3
+137	TimeChorus	30 seconds	4
+137	TimeChorus	adaptive	5
+138	TimePreChorus	no playback	2
+138	TimePreChorus	5 seconds	4
+138	TimePreChorus	10 seconds	5
+138	Crossfade	on	6
+138	Crossfade	off	3
+138	TimeChorus	15 seconds	3
+138	TimeChorus	30 seconds	4
+138	TimeChorus	adaptive	5
+139	TimePreChorus	no playback	3
+139	TimePreChorus	5 seconds	4
+139	TimePreChorus	10 seconds	5
+139	Crossfade	on	2
+139	Crossfade	off	6
+139	TimeChorus	15 seconds	2
+139	TimeChorus	30 seconds	2
+139	TimeChorus	adaptive	6
+140	TimePreChorus	no playback	2
+140	TimePreChorus	5 seconds	4
+140	TimePreChorus	10 seconds	5
+140	Crossfade	on	3
+140	Crossfade	off	5
+140	TimeChorus	15 seconds	4
+140	TimeChorus	30 seconds	5
+140	TimeChorus	adaptive	4
+141	TimePreChorus	no playback	2
+141	TimePreChorus	5 seconds	5
+141	TimePreChorus	10 seconds	3
+141	Crossfade	on	6
+141	Crossfade	off	2
+141	TimeChorus	15 seconds	3
+141	TimeChorus	30 seconds	3
+141	TimeChorus	adaptive	4
+142	TimePreChorus	no playback	1
+142	TimePreChorus	5 seconds	5
+142	TimePreChorus	10 seconds	6
+142	Crossfade	on	5
+142	Crossfade	off	3
+142	TimeChorus	15 seconds	6
+142	TimeChorus	30 seconds	4
+142	TimeChorus	adaptive	4
+143	TimePreChorus	no playback	4
+143	TimePreChorus	5 seconds	5
+143	TimePreChorus	10 seconds	4
+143	Crossfade	on	5
+143	Crossfade	off	3
+143	TimeChorus	15 seconds	5
+143	TimeChorus	30 seconds	5
+143	TimeChorus	adaptive	4
+144	TimePreChorus	no playback	3
+144	TimePreChorus	5 seconds	4
+144	TimePreChorus	10 seconds	4
+144	Crossfade	on	5
+144	Crossfade	off	3
+144	TimeChorus	15 seconds	4
+144	TimeChorus	30 seconds	5
+144	TimeChorus	adaptive	4
+145	TimePreChorus	no playback	4
+145	TimePreChorus	5 seconds	6
+145	TimePreChorus	10 seconds	3
+145	Crossfade	on	5
+145	Crossfade	off	2
+145	TimeChorus	15 seconds	3
+145	TimeChorus	30 seconds	5
+145	TimeChorus	adaptive	4
+146	TimePreChorus	no playback	2
+146	TimePreChorus	5 seconds	6
+146	TimePreChorus	10 seconds	5
+146	Crossfade	on	6
+146	Crossfade	off	3
+146	TimeChorus	15 seconds	5
+146	TimeChorus	30 seconds	6
+146	TimeChorus	adaptive	5
+147	TimePreChorus	no playback	2
+147	TimePreChorus	5 seconds	4
+147	TimePreChorus	10 seconds	5
+147	Crossfade	on	5
+147	Crossfade	off	3
+147	TimeChorus	15 seconds	2
+147	TimeChorus	30 seconds	2
+147	TimeChorus	adaptive	6
+148	TimePreChorus	no playback	2
+148	TimePreChorus	5 seconds	5
+148	TimePreChorus	10 seconds	6
+148	Crossfade	on	3
+148	Crossfade	off	5
+148	TimeChorus	15 seconds	1
+148	TimeChorus	30 seconds	2
+148	TimeChorus	adaptive	6
+149	TimePreChorus	no playback	4
+149	TimePreChorus	5 seconds	3
+149	TimePreChorus	10 seconds	6
+149	Crossfade	on	6
+149	Crossfade	off	3
+149	TimeChorus	15 seconds	3
+149	TimeChorus	30 seconds	3
+149	TimeChorus	adaptive	6
+150	TimePreChorus	no playback	4
+150	TimePreChorus	5 seconds	3
+150	TimePreChorus	10 seconds	2
+150	Crossfade	on	5
+150	Crossfade	off	3
+150	TimeChorus	15 seconds	4
+150	TimeChorus	30 seconds	5
+150	TimeChorus	adaptive	6
+151	TimePreChorus	no playback	1
+151	TimePreChorus	5 seconds	6
+151	TimePreChorus	10 seconds	5
+151	Crossfade	on	6
+151	Crossfade	off	1
+151	TimeChorus	15 seconds	3
+151	TimeChorus	30 seconds	5
+151	TimeChorus	adaptive	5
+152	TimePreChorus	no playback	1
+152	TimePreChorus	5 seconds	6
+152	TimePreChorus	10 seconds	5
+152	Crossfade	on	6
+152	Crossfade	off	1
+152	TimeChorus	15 seconds	5
+152	TimeChorus	30 seconds	3
+152	TimeChorus	adaptive	3
+153	TimePreChorus	no playback	1
+153	TimePreChorus	5 seconds	6
+153	TimePreChorus	10 seconds	3
+153	Crossfade	on	6
+153	Crossfade	off	1
+153	TimeChorus	15 seconds	3
+153	TimeChorus	30 seconds	2
+153	TimeChorus	adaptive	6
+154	TimePreChorus	no playback	1
+154	TimePreChorus	5 seconds	6
+154	TimePreChorus	10 seconds	2
+154	Crossfade	on	6
+154	Crossfade	off	1
+154	TimeChorus	15 seconds	6
+154	TimeChorus	30 seconds	4
+154	TimeChorus	adaptive	1
+155	TimePreChorus	no playback	5
+155	TimePreChorus	5 seconds	5
+155	TimePreChorus	10 seconds	5
+155	Crossfade	on	5
+155	Crossfade	off	5
+155	TimeChorus	15 seconds	5
+155	TimeChorus	30 seconds	5
+155	TimeChorus	adaptive	4
+156	TimePreChorus	no playback	4
+156	TimePreChorus	5 seconds	6
+156	TimePreChorus	10 seconds	4
+156	Crossfade	on	6
+156	Crossfade	off	2
+156	TimeChorus	15 seconds	2
+156	TimeChorus	30 seconds	2
+156	TimeChorus	adaptive	6
+157	TimePreChorus	no playback	3
+157	TimePreChorus	5 seconds	6
+157	TimePreChorus	10 seconds	4
+157	Crossfade	on	3
+157	Crossfade	off	5
+157	TimeChorus	15 seconds	2
+157	TimeChorus	30 seconds	3
+157	TimeChorus	adaptive	6
+158	TimePreChorus	no playback	3
+158	TimePreChorus	5 seconds	6
+158	TimePreChorus	10 seconds	5
+158	Crossfade	on	6
+158	Crossfade	off	3
+158	TimeChorus	15 seconds	4
+158	TimeChorus	30 seconds	5
+158	TimeChorus	adaptive	6
+159	TimePreChorus	no playback	2
+159	TimePreChorus	5 seconds	1
+159	TimePreChorus	10 seconds	1
+159	Crossfade	on	4
+159	Crossfade	off	1
+159	TimeChorus	15 seconds	1
+159	TimeChorus	30 seconds	1
+159	TimeChorus	adaptive	2
+160	TimePreChorus	no playback	4
+160	TimePreChorus	5 seconds	6
+160	TimePreChorus	10 seconds	1
+160	Crossfade	on	6
+160	Crossfade	off	3
+160	TimeChorus	15 seconds	6
+160	TimeChorus	30 seconds	3
+160	TimeChorus	adaptive	5
+161	TimePreChorus	no playback	6
+161	TimePreChorus	5 seconds	5
+161	TimePreChorus	10 seconds	4
+161	Crossfade	on	6
+161	Crossfade	off	2
+161	TimeChorus	15 seconds	2
+161	TimeChorus	30 seconds	2
+161	TimeChorus	adaptive	6
+162	TimePreChorus	no playback	6
+162	TimePreChorus	5 seconds	4
+162	TimePreChorus	10 seconds	2
+162	Crossfade	on	6
+162	Crossfade	off	2
+162	TimeChorus	15 seconds	2
+162	TimeChorus	30 seconds	3
+162	TimeChorus	adaptive	6
+163	TimePreChorus	no playback	3
+163	TimePreChorus	5 seconds	5
+163	TimePreChorus	10 seconds	4
+163	Crossfade	on	5
+163	Crossfade	off	3
+163	TimeChorus	15 seconds	4
+163	TimeChorus	30 seconds	3
+163	TimeChorus	adaptive	3
+164	TimePreChorus	no playback	6
+164	TimePreChorus	5 seconds	2
+164	TimePreChorus	10 seconds	1
+164	Crossfade	on	6
+164	Crossfade	off	1
+164	TimeChorus	15 seconds	2
+164	TimeChorus	30 seconds	1
+164	TimeChorus	adaptive	6
+165	TimePreChorus	no playback	2
+165	TimePreChorus	5 seconds	6
+165	TimePreChorus	10 seconds	5
+165	Crossfade	on	5
+165	Crossfade	off	3
+165	TimeChorus	15 seconds	4
+165	TimeChorus	30 seconds	3
+165	TimeChorus	adaptive	6
+166	TimePreChorus	no playback	6
+166	TimePreChorus	5 seconds	6
+166	TimePreChorus	10 seconds	6
+166	Crossfade	on	6
+166	Crossfade	off	6
+166	TimeChorus	15 seconds	6
+166	TimeChorus	30 seconds	6
+166	TimeChorus	adaptive	6
+167	TimePreChorus	no playback	4
+167	TimePreChorus	5 seconds	4
+167	TimePreChorus	10 seconds	4
+167	Crossfade	on	5
+167	Crossfade	off	3
+167	TimeChorus	15 seconds	5
+167	TimeChorus	30 seconds	5
+167	TimeChorus	adaptive	5
+168	TimePreChorus	no playback	6
+168	TimePreChorus	5 seconds	2
+168	TimePreChorus	10 seconds	3
+168	Crossfade	on	6
+168	Crossfade	off	3
+168	TimeChorus	15 seconds	2
+168	TimeChorus	30 seconds	1
+168	TimeChorus	adaptive	6
+169	TimePreChorus	no playback	6
+169	TimePreChorus	5 seconds	1
+169	TimePreChorus	10 seconds	1
+169	Crossfade	on	5
+169	Crossfade	off	3
+169	TimeChorus	15 seconds	1
+169	TimeChorus	30 seconds	2
+169	TimeChorus	adaptive	6
+170	TimePreChorus	no playback	5
+170	TimePreChorus	5 seconds	3
+170	TimePreChorus	10 seconds	1
+170	Crossfade	on	1
+170	Crossfade	off	5
+170	TimeChorus	15 seconds	1
+170	TimeChorus	30 seconds	4
+170	TimeChorus	adaptive	6
+171	TimePreChorus	no playback	2
+171	TimePreChorus	5 seconds	5
+171	TimePreChorus	10 seconds	4
+171	Crossfade	on	6
+171	Crossfade	off	3
+171	TimeChorus	15 seconds	5
+171	TimeChorus	30 seconds	5
+171	TimeChorus	adaptive	4
+172	TimePreChorus	no playback	5
+172	TimePreChorus	5 seconds	3
+172	TimePreChorus	10 seconds	1
+172	Crossfade	on	6
+172	Crossfade	off	1
+172	TimeChorus	15 seconds	2
+172	TimeChorus	30 seconds	3
+172	TimeChorus	adaptive	5
+173	TimePreChorus	no playback	2
+173	TimePreChorus	5 seconds	4
+173	TimePreChorus	10 seconds	6
+173	Crossfade	on	5
+173	Crossfade	off	2
+173	TimeChorus	15 seconds	1
+173	TimeChorus	30 seconds	2
+173	TimeChorus	adaptive	6
+174	TimePreChorus	no playback	2
+174	TimePreChorus	5 seconds	6
+174	TimePreChorus	10 seconds	4
+174	Crossfade	on	6
+174	Crossfade	off	4
+174	TimeChorus	15 seconds	6
+174	TimeChorus	30 seconds	3
+174	TimeChorus	adaptive	1
+175	TimePreChorus	no playback	2
+175	TimePreChorus	5 seconds	6
+175	TimePreChorus	10 seconds	2
+175	Crossfade	on	6
+175	Crossfade	off	3
+175	TimeChorus	15 seconds	2
+175	TimeChorus	30 seconds	2
+175	TimeChorus	adaptive	5
+176	TimePreChorus	no playback	5
+176	TimePreChorus	5 seconds	6
+176	TimePreChorus	10 seconds	2
+176	Crossfade	on	6
+176	Crossfade	off	1
+176	TimeChorus	15 seconds	6
+176	TimeChorus	30 seconds	4
+176	TimeChorus	adaptive	4
+177	TimePreChorus	no playback	2
+177	TimePreChorus	5 seconds	6
+177	TimePreChorus	10 seconds	5
+177	Crossfade	on	2
+177	Crossfade	off	5
+177	TimeChorus	15 seconds	4
+177	TimeChorus	30 seconds	3
+177	TimeChorus	adaptive	6
+178	TimePreChorus	no playback	3
+178	TimePreChorus	5 seconds	4
+178	TimePreChorus	10 seconds	3
+178	Crossfade	on	6
+178	Crossfade	off	2
+178	TimeChorus	15 seconds	2
+178	TimeChorus	30 seconds	1
+178	TimeChorus	adaptive	5
+179	TimePreChorus	no playback	6
+179	TimePreChorus	5 seconds	6
+179	TimePreChorus	10 seconds	6
+179	Crossfade	on	6
+179	Crossfade	off	3
+179	TimeChorus	15 seconds	2
+179	TimeChorus	30 seconds	2
+179	TimeChorus	adaptive	2
+180	TimePreChorus	no playback	3
+180	TimePreChorus	5 seconds	3
+180	TimePreChorus	10 seconds	6
+180	Crossfade	on	4
+180	Crossfade	off	5
+180	TimeChorus	15 seconds	2
+180	TimeChorus	30 seconds	6
+180	TimeChorus	adaptive	2
+181	TimePreChorus	no playback	2
+181	TimePreChorus	5 seconds	5
+181	TimePreChorus	10 seconds	4
+181	Crossfade	on	5
+181	Crossfade	off	3
+181	TimeChorus	15 seconds	3
+181	TimeChorus	30 seconds	3
+181	TimeChorus	adaptive	6
+182	TimePreChorus	no playback	6
+182	TimePreChorus	5 seconds	1
+182	TimePreChorus	10 seconds	1
+182	Crossfade	on	4
+182	Crossfade	off	2
+182	TimeChorus	15 seconds	6
+182	TimeChorus	30 seconds	5
+182	TimeChorus	adaptive	4
+183	TimePreChorus	no playback	1
+183	TimePreChorus	5 seconds	1
+183	TimePreChorus	10 seconds	3
+183	Crossfade	on	1
+183	Crossfade	off	6
+183	TimeChorus	15 seconds	2
+183	TimeChorus	30 seconds	3
+183	TimeChorus	adaptive	5
+184	TimePreChorus	no playback	5
+184	TimePreChorus	5 seconds	4
+184	TimePreChorus	10 seconds	3
+184	Crossfade	on	5
+184	Crossfade	off	3
+184	TimeChorus	15 seconds	3
+184	TimeChorus	30 seconds	3
+184	TimeChorus	adaptive	4
+185	TimePreChorus	no playback	6
+185	TimePreChorus	5 seconds	5
+185	TimePreChorus	10 seconds	3
+185	Crossfade	on	5
+185	Crossfade	off	3
+185	TimeChorus	15 seconds	2
+185	TimeChorus	30 seconds	1
+185	TimeChorus	adaptive	4
+186	TimePreChorus	no playback	2
+186	TimePreChorus	5 seconds	6
+186	TimePreChorus	10 seconds	3
+186	Crossfade	on	6
+186	Crossfade	off	1
+186	TimeChorus	15 seconds	3
+186	TimeChorus	30 seconds	2
+186	TimeChorus	adaptive	6
+187	TimePreChorus	no playback	4
+187	TimePreChorus	5 seconds	2
+187	TimePreChorus	10 seconds	3
+187	Crossfade	on	3
+187	Crossfade	off	4
+187	TimeChorus	15 seconds	1
+187	TimeChorus	30 seconds	1
+187	TimeChorus	adaptive	6
+188	TimePreChorus	no playback	3
+188	TimePreChorus	5 seconds	4
+188	TimePreChorus	10 seconds	5
+188	Crossfade	on	5
+188	Crossfade	off	3
+188	TimeChorus	15 seconds	3
+188	TimeChorus	30 seconds	3
+188	TimeChorus	adaptive	4
+189	TimePreChorus	no playback	5
+189	TimePreChorus	5 seconds	4
+189	TimePreChorus	10 seconds	2
+189	Crossfade	on	6
+189	Crossfade	off	1
+189	TimeChorus	15 seconds	4
+189	TimeChorus	30 seconds	4
+189	TimeChorus	adaptive	6
+190	TimePreChorus	no playback	5
+190	TimePreChorus	5 seconds	3
+190	TimePreChorus	10 seconds	5
+190	Crossfade	on	4
+190	Crossfade	off	4
+190	TimeChorus	15 seconds	2
+190	TimeChorus	30 seconds	2
+190	TimeChorus	adaptive	5
+191	TimePreChorus	no playback	2
+191	TimePreChorus	5 seconds	4
+191	TimePreChorus	10 seconds	4
+191	Crossfade	on	1
+191	Crossfade	off	5
+191	TimeChorus	15 seconds	1
+191	TimeChorus	30 seconds	1
+191	TimeChorus	adaptive	4
+192	TimePreChorus	no playback	6
+192	TimePreChorus	5 seconds	2
+192	TimePreChorus	10 seconds	2
+192	Crossfade	on	6
+192	Crossfade	off	2
+192	TimeChorus	15 seconds	2
+192	TimeChorus	30 seconds	2
+192	TimeChorus	adaptive	6
+193	TimePreChorus	no playback	4
+193	TimePreChorus	5 seconds	2
+193	TimePreChorus	10 seconds	2
+193	Crossfade	on	4
+193	Crossfade	off	2
+193	TimeChorus	15 seconds	3
+193	TimeChorus	30 seconds	4
+193	TimeChorus	adaptive	3
+194	TimePreChorus	no playback	2
+194	TimePreChorus	5 seconds	5
+194	TimePreChorus	10 seconds	3
+194	Crossfade	on	5
+194	Crossfade	off	3
+194	TimeChorus	15 seconds	2
+194	TimeChorus	30 seconds	2
+194	TimeChorus	adaptive	6
+195	TimePreChorus	no playback	6
+195	TimePreChorus	5 seconds	3
+195	TimePreChorus	10 seconds	2
+195	Crossfade	on	5
+195	Crossfade	off	6
+195	TimeChorus	15 seconds	3
+195	TimeChorus	30 seconds	4
+195	TimeChorus	adaptive	6
+196	TimePreChorus	no playback	6
+196	TimePreChorus	5 seconds	5
+196	TimePreChorus	10 seconds	3
+196	Crossfade	on	2
+196	Crossfade	off	5
+196	TimeChorus	15 seconds	5
+196	TimeChorus	30 seconds	5
+196	TimeChorus	adaptive	5
+197	TimePreChorus	no playback	1
+197	TimePreChorus	5 seconds	6
+197	TimePreChorus	10 seconds	4
+197	Crossfade	on	6
+197	Crossfade	off	2
+197	TimeChorus	15 seconds	2
+197	TimeChorus	30 seconds	4
+197	TimeChorus	adaptive	6
+198	TimePreChorus	no playback	4
+198	TimePreChorus	5 seconds	4
+198	TimePreChorus	10 seconds	3
+198	Crossfade	on	5
+198	Crossfade	off	3
+198	TimeChorus	15 seconds	4
+198	TimeChorus	30 seconds	5
+198	TimeChorus	adaptive	4
+199	TimePreChorus	no playback	1
+199	TimePreChorus	5 seconds	2
+199	TimePreChorus	10 seconds	2
+199	Crossfade	on	4
+199	Crossfade	off	1
+199	TimeChorus	15 seconds	1
+199	TimeChorus	30 seconds	2
+199	TimeChorus	adaptive	4
+200	TimePreChorus	no playback	5
+200	TimePreChorus	5 seconds	4
+200	TimePreChorus	10 seconds	4
+200	Crossfade	on	2
+200	Crossfade	off	6
+200	TimeChorus	15 seconds	6
+200	TimeChorus	30 seconds	3
+200	TimeChorus	adaptive	2
+201	TimePreChorus	no playback	4
+201	TimePreChorus	5 seconds	2
+201	TimePreChorus	10 seconds	5
+201	Crossfade	on	5
+201	Crossfade	off	2
+201	TimeChorus	15 seconds	3
+201	TimeChorus	30 seconds	5
+201	TimeChorus	adaptive	5
+202	TimePreChorus	no playback	1
+202	TimePreChorus	5 seconds	4
+202	TimePreChorus	10 seconds	5
+202	Crossfade	on	6
+202	Crossfade	off	1
+202	TimeChorus	15 seconds	1
+202	TimeChorus	30 seconds	2
+202	TimeChorus	adaptive	6
+203	TimePreChorus	no playback	5
+203	TimePreChorus	5 seconds	3
+203	TimePreChorus	10 seconds	6
+203	Crossfade	on	5
+203	Crossfade	off	3
+203	TimeChorus	15 seconds	2
+203	TimeChorus	30 seconds	2
+203	TimeChorus	adaptive	5
+204	TimePreChorus	no playback	5
+204	TimePreChorus	5 seconds	3
+204	TimePreChorus	10 seconds	2
+204	Crossfade	on	6
+204	Crossfade	off	3
+204	TimeChorus	15 seconds	3
+204	TimeChorus	30 seconds	3
+204	TimeChorus	adaptive	6
+205	TimePreChorus	no playback	6
+205	TimePreChorus	5 seconds	5
+205	TimePreChorus	10 seconds	3
+205	Crossfade	on	6
+205	Crossfade	off	3
+205	TimeChorus	15 seconds	2
+205	TimeChorus	30 seconds	2
+205	TimeChorus	adaptive	6
+206	TimePreChorus	no playback	2
+206	TimePreChorus	5 seconds	4
+206	TimePreChorus	10 seconds	6
+206	Crossfade	on	5
+206	Crossfade	off	3
+206	TimeChorus	15 seconds	2
+206	TimeChorus	30 seconds	3
+206	TimeChorus	adaptive	6
+207	TimePreChorus	no playback	4
+207	TimePreChorus	5 seconds	5
+207	TimePreChorus	10 seconds	3
+207	Crossfade	on	6
+207	Crossfade	off	2
+207	TimeChorus	15 seconds	2
+207	TimeChorus	30 seconds	4
+207	TimeChorus	adaptive	6
+208	TimePreChorus	no playback	2
+208	TimePreChorus	5 seconds	5
+208	TimePreChorus	10 seconds	2
+208	Crossfade	on	6
+208	Crossfade	off	1
+208	TimeChorus	15 seconds	2
+208	TimeChorus	30 seconds	1
+208	TimeChorus	adaptive	6
+209	TimePreChorus	no playback	1
+209	TimePreChorus	5 seconds	6
+209	TimePreChorus	10 seconds	4
+209	Crossfade	on	6
+209	Crossfade	off	3
+209	TimeChorus	15 seconds	2
+209	TimeChorus	30 seconds	2
+209	TimeChorus	adaptive	6
+210	TimePreChorus	no playback	3
+210	TimePreChorus	5 seconds	6
+210	TimePreChorus	10 seconds	4
+210	Crossfade	on	6
+210	Crossfade	off	1
+210	TimeChorus	15 seconds	3
+210	TimeChorus	30 seconds	3
+210	TimeChorus	adaptive	6
+211	TimePreChorus	no playback	3
+211	TimePreChorus	5 seconds	6
+211	TimePreChorus	10 seconds	2
+211	Crossfade	on	5
+211	Crossfade	off	3
+211	TimeChorus	15 seconds	1
+211	TimeChorus	30 seconds	1
+211	TimeChorus	adaptive	6
+212	TimePreChorus	no playback	5
+212	TimePreChorus	5 seconds	3
+212	TimePreChorus	10 seconds	1
+212	Crossfade	on	5
+212	Crossfade	off	1
+212	TimeChorus	15 seconds	5
+212	TimeChorus	30 seconds	2
+212	TimeChorus	adaptive	4
+213	TimePreChorus	no playback	6
+213	TimePreChorus	5 seconds	5
+213	TimePreChorus	10 seconds	2
+213	Crossfade	on	6
+213	Crossfade	off	5
+213	TimeChorus	15 seconds	2
+213	TimeChorus	30 seconds	2
+213	TimeChorus	adaptive	6
+214	TimePreChorus	no playback	2
+214	TimePreChorus	5 seconds	6
+214	TimePreChorus	10 seconds	4
+214	Crossfade	on	4
+214	Crossfade	off	3
+214	TimeChorus	15 seconds	4
+214	TimeChorus	30 seconds	5
+214	TimeChorus	adaptive	4
